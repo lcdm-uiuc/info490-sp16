@@ -46,24 +46,24 @@ Safari subscription.
 
 ## Course Outline ##
 
-| **Week** | **Topics**| **Assignments**|
+| **Week** | **Topics**| **Activities**|
 |----------|-----------|----------------|
-|*Orientation Week*| Course Overview & Syllabus Review| [Pre-Class Activity: Introduce Yourself](Pre-Class_Activity.md) <br /> [Github Registration and Introduction](notebooks/intro2github.ipynb)<br /> Orientation Quiz|
-|*Week 1*| Introduction to Data Science| [Week 1 Lesson 1: Intro to Data Science](../Week1/lesson1.md) <br /> [Week 1 Lesson 2: Virtualization/Dockers](../Week1/lesson2.md)<br /> [Week 1 Lesson 3: JupyterHub/The Unix Shell](../Week1/lesson3.md) <br /> Week 1 Assignment <br/> Week 1 Quiz|
-|*Week 2*| Introduction to Unix, Python, and iPython | [Week 2 Lesson 1: Basic Unix Concepts](../Week2/lesson1.md)<br /> [Week 2 Lesson 2: Intro to iPython](../Week2/lesson2.md)<br /> [Week 2 Lesson 3: Intro to Python](../Week2/lesson3.md)<br /> Week 2 Assignment<br /> Week 2 Quiz|
-| *Week 3*| Introduction to the Python Programming Language| [Week 3 Lesson 1: Unix File System & Processes](../Week3/lesson1.md)<br /> [Week 3 Lesson 2: Python: Functions](../Week3/lesson2.md)<br /> [Week 3 Lesson 3: Python: Conditional Statements & Iteration](../Week3/lesson3.md)<br /> Week 3 Assignment<br /> Week 3 Quiz|
-| *Week 4*| Advanced Python Programming Language|[Week 4 Lesson 1: Unix: Working with Data](../Week4/lesson1.md)<br /> [Week 4 Lesson 2: Python: Strings & Lists](../Week4/lesson2.md)<br /> [Week 4 Lesson 3: Python: Tuples & Dictionaries](../Week4/lesson3.md)<br /> Week 4 Assignment<br /> Week 4 Quiz|
-|*Week 5*| Networking and File Input/Output|[Week 5 Lesson 1: Unix: Networking & Basic Commands](../Week5/lesson1.md)<br /> [Week 5 Lesson 2: Python: File I/O](../Week5/lesson2.md)<br /> [Week 5 Lesson 3: Python: Network Communication](../Week5/lesson3.md)<br /> Week 5 Assignment<br /> Week 5 Quiz |
-|*Week 6*| Introduction to Regular Expressions|[Week 6 Lesson 1: Unix: Regular Expressions & Commands](../Week6/lesson1.md)<br /> [Week 6 Lesson 2: Python: Regular Expressions](../Week6/lesson2.md)<br /> [Week 6 Lesson 3: Regular Expressions](../Week6/lesson3.md)<br /> Week 6 Assignment<br /> Week 6 Quiz |
-|*Week 7*| Introduction to Data Visualizations |[Week 7 Lesson 1: Introduction to Data Visualizations](../Week7/lesson1.md)<br /> [Week 7 Lesson 2: Python: Plotting](../Week7/lesson2.md)<br /> [Week 7 Lesson 3: Python: Data Plotting](../Week7/lesson3.md)<br /> Week 7 Assignment<br /> Week 7 Quiz |
-|*Week 8*| Introduction to Numpy and Pandas|[Week 8 Lesson 1: Python: Introduction to Numpy](../Week8/lesson1.md)<br /> [Week 8 Lesson 2: Python: Introduction to Pandas](../Week8/lesson2.md)<br /> [Week 8 Lesson 3: Python: Pandas DataFrame](../Week8/lesson3.md)<br /> Week 8 Assignment<br /> Week 8 Quiz |
-|*Week 9*| Introduction to Data Formats|[Week 9 Lesson 1: Data Format: Text](../Week9/lesson1.md)<br /> [Week 9 Lesson 2: Data Format: XML](../Week9/lesson2.md)<br /> [Week 9 Lesson 3: Data Format: JSON](../Week9/lesson3.md)<br /> Week 9 Assignment<br /> Week 9 Quiz |
-|*Week 10*| Introduction to Statistics|[Week 10 Lesson 1: Statistics: Summary Measures](../Week10/lesson1.md)<br /> [Week 10 Lesson 2: Statistics: Distributions](../Week10/lesson2.md)<br /> [Week 10 Lesson 3: Statistics: Visualization](../Week10/lesson3.md)<br /> Week 10 Assignment<br /> Week 10 Quiz |
-|*Week 11*| Functional Programming | [Week 11 Lesson 1: Functional Programming](../Week11/lesson1.md)<br /> [Week 11 Lesson 2: Python: Comprehensions](../Week11/lesson2.md)<br /> [Week 11 Lesson 3: Python: Functional Programming](../Week11/lesson3.md)<br /> Week 11 Assignment<br /> Week 11 Quiz |
-|*Week 12*| Introduction to SQL and Relational Databases|[Week 12 Lesson 1: Relational Databases](../Week12/lesson1.md)<br /> [Week 12 Lesson 2: SQL: Schema Manipulation](../Week12/lesson2.md)<br /> [Week 12 Lesson 3: SQL: Data Manipulation](../Week12/lesson3.md)<br /> Week 12 Assignment<br /> Week 12 Quiz |
-|*Week 13*| Introduction to OOP|[Week 13 Lesson 1: Object Oriented Programming](../Week13/lesson1.md)<br /> [Week 13 Lesson 2: Python: Introduction to OOP](../Week13/lesson2.md)<br /> [Week 13 Lesson 3: Python: OOP](../Week13/lesson3.md)<br /> Week 13 Assignment<br /> Week 13 Quiz |
-|*Week 14*| Extracting Large Amounts of Data using Python|[Week 14 Lesson 1: Python: Database Programming](../Week14/lesson1.md)<br /> [Week 14 Lesson 2: Python: Web Scraping](../Week14/lesson2.md)<br /> [Week 14 Lesson 3: Python: Stream Processing](../Week14/lesson3.md)<br /> Week 14 Assignment<br /> Week 14 Quiz |
-|*Week 15*| Introduction to Data Mining|[Week 15 Lesson 1: Python: Introduction to Data Mining(scikit learn)](../Week15/lesson1.md)<br /> Week 15 Assignment<br /> Week 15 Quiz |
+|*Orientation Week*| Course Overview & Syllabus Review| |
+|*Week 1*| Introduction to Machine Learning|  |
+|*Week 2*| General Linear Models |  |
+|*Week 3*| Introduction to Supervised Machine Learning|  |
+|*Week 4*| Supervised Machine Learning|  |
+|*Week 5*| Introduction to Unsupervised Machine Learning| |
+|*Week 6*| Unsupervised Machine Learning|
+|*Week 7*| Introduction to Text Mining | |
+|*Week 8*| Introduction to Social Media Analysis| |
+|*Week 9*| Advanced Text Mining | |
+|*Week 10*| Introduction to Network Analysis| |
+|*Week 11*| Advanced Network Analysis |  |
+|*Week 12*| Introduction to Cloud Computing| |
+|*Week 13*| Introduction to NoSQL| |
+|*Week 14*| Advanced Cloud Computing | | 
+|*Week 15*| Introduction to Deep Learning| |
 
 
 ## Weekly Format ##
@@ -154,7 +154,7 @@ deadline, thus around 1:00 pm Tuesday afternoon of each week.
 | Instructor Assessment | 80 points |  
 | Peer Grading | 30 points | 
 |Peer Assessments | 40 points| 
-| ***Total*** |  150 points |
+| **Total** |  **150** points |
 
 ### Weekly Quizzes ###
 
