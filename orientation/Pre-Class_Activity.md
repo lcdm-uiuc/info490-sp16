@@ -1,6 +1,9 @@
 #Pre-Class Activity#
 
-This [activity is on moodle](https://learn.illinois.edu/mod/forum/view.php?id=1095101), where the instructions are also shown along with the actual forum where you can complete these tasks.
+This [activity is on
+moodle](https://learn.illinois.edu/mod/forum/view.php?id=1095101), where
+the instructions are also shown along with the actual forum where you
+can complete these tasks.
 
 ## Introduce Yourself##
 
@@ -33,16 +36,15 @@ Here are [Instructions for Updating Your Moodle Profile](http://publish.illinois
 
 ### Part 2: Introductions ###
 
-Second, use the Pre-Class Acitivyt Moodle discussion forum to provide a brief 2-3 paragraph
+Second, use the Pre-Class Activity Moodle discussion forum to provide a brief 2-3 paragraph
 introduction to your classmates. In your post, please consider the following questions:
 
 - What is your name? What do you prefer to be called?
 - Where are you from?
 - What year are you in school and what is your major?
-- Why are you taking this class, and what, in particular, interests you about data science?
-- What is something you are looking forward to learning or doing in this class?
-- Tell us something about yourself that has nothing to do with school.
-
+- What topic from the syllabus most interests you?
+- What type of data are you interested in exploring in more detail?
+- What experience do you have with cloud computing?
 
 Post your self-introduction by clicking the `Add a new discussion topic` button, below.
 

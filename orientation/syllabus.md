@@ -4,6 +4,8 @@ INFO 490: Advanced Data Science uses an project-based approach to
 indoctrinate students into the tools and technologies necessary for
 working with large data.
 
+![Draft](../images/Draft_Version_picture.png)
+
 ## Course Goals ##
 
 Upon completion of this course, students will be expected to understand

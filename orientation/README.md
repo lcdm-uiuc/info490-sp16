@@ -5,7 +5,7 @@ instructor, your classmates, and our learning environment.
 
 ## Time Estimate ##
 
-This orientation module should take approximately 2-3 hours of dedicated
+This orientation module should take approximately 1-2 hours of dedicated
 time to complete.
 
 ##Objectives##
@@ -33,7 +33,6 @@ the course.
 |-----|---|---|---|
 |[Course Overview Video][OV]|15 Minutes|Wednesday|20|
 |[Course Information and Resources(Syllabus)](syllabus.md)|1 Hour|Wednesday|NA|
-|Read through the [Introduction to Github/Git ](notebooks/intro2github.ipynb) Notebook|1 Hour|Wednesday|NA|
 |Orientation Quiz| 30 minutes | Wednesday | 70|
 |[Pre-Class Activity: Introduce Yourself](Pre-Class_Activity.md)|30 Minutes|Wednesday|60|
 
@@ -64,4 +63,4 @@ One way of doing this is by helping to address the questions that your
 peers pose. By engaging with each other, we'll all learn better.
 
 -----
-[OV]: https://mediaspace.illinois.edu/media/Orientation+Video/1_4wrksitx
+[OV]: https://mediaspace.illinois.edu/
