@@ -1,88 +1,48 @@
-# INFO 490: Foundations of Data Science #
+# INFO 490: Advanced Data Science #
 
-INFO 490: Foundations of Data Science uses an project-based approach to
+INFO 490: Advanced Data Science uses an project-based approach to
 indoctrinate students into the tools and technologies necessary for
 working with large data.
 
 ## Course Goals ##
 
 Upon completion of this course, students will be expected to understand
-the basic concepts of data science. Students will learn how to work at a
-Unix prompt, how to use the Python programming language to process,
-visualize, and persist large data sets, and how to use database
-technologies including SQL.
+advanced data science concepts. Students will learn the practical
+aspects of applying machine and statistical learning in a variety of
+contexts, as well as different aspects of cloud computing. Specific
+concepts that will be covered including supervised and unsupervised
+learning, dimensional reduction, clustering, probabilistic programming,
+text mining, graph analysis, network analysis, Hadoop, NoSQL data
+stores, Spark, and streaming data analysis.
 
 ## Prerequisites ##
 
-There are no pre-requisites for this course, except for an interest in
-learning the basic skills necessary for being a data scientist and
-access to a computer to participate in the course lectures, and to
-complete the required course assignments. 
+As a pre-requisite for this course, you must have mastered the material
+in *INFO 490: Foundations of Data Science*. Generally, this is
+demonstrated by having taken this previous course. However, instructor
+approval can also be granted for those who can demonstrate proficiency
+in the required topics.
 
-Note: At present, students are required to use their own computer system
-to perform many of the requirements for this course. We hope to
-eventually enable at least soem students to use a cloud computing
-approach to interacting with the course material. Until that time,
-however, we recommend the following process to prepare your computer for
-this course:
-
-1. We have made a Docker image for this course (this is similar to what
-we have done previously when we have taught this course). To use this
-course image, you need to download and install Docker Machine. To use
-Docker, which will provide a Unix shell with all of our required course
-software for nearly all modern computing platforms, you should go to the
-[Docker website](https://www.docker.com) and click the _Get Started with
-Docker_ button. This will give you instructions for downloading and
-installing Docker machine on your computer. Note that this will only
-work for ‘fairly’ modern computers that support hardware virtualization.
-On some computers, hardware virtualization must be enabled in your
-computer BIOS. If you have questions about this process, including BIOS
-changes, please consult the course assistants or instructor. Once the
-course opens, you will have more details instructions on how to pull our
-course Docker image, start the image to have a running container, and
-how to download and install the course github repository in your running
-Docker container.
-
-2. If your computer is unable to support hardware virtualization, you
-will (most likely) be unable to run Docker. Your options depend on the
-type of computer you are using:
-
-  2a. If you are running Mac OSX or Linux you can instead use a free
-  Python package manager to install required software (more information
-  will be forthcoming). You can download Anaconda, you *need* the
-  version that supports Python 3.4, from [Continuum
-  Analytics](http://continuum.io/downloads#py34). In this case, you will
-  simply use a BASH shell on your computer to learn the Unix commands.
-  If possible, however, you should still use Docker to (a) have an
-  isolated environment where you can’t accidentally delete or change
-  important system files and (b) learn about virtualization technologies.
-
-  2b. If you have an older Windows laptop, you have several,
-  unsatisfactory options. This is because Windows is not Unix. We can
-  offer only limited support for these options since they are beyond the
-  context of this course.
-
-   - You can install and use Cygwin. It will create a Unix like
-   environment, but there will be differences.
-
-   - You could use (potentially free) cloud resources from Google,
-   Amazon, Microsoft, Backspace, Cloudier, etc., to complete the course
-   material.
-
-Once you have downloaded Docker machine, you will need to pull our
-course Docker image in order to have an effective working environment.
-Instructions for doing this are included in [Lesson 2 for Week
-1](../Week1/Lesson2.md) of the course (on virtualization and Dockers).
-Once your have the course Docker container running, you will need to use
-git to clone the course repository. At this point you will have a full
-working course setup. You will also be instructed how to do this in
-Lesson 2 of Week 1.
+Note: At present, we are using the CS department's cluster to run a
+course JupyterHub server. Each student is running a Dockerized version
+of the course software stack. This provides many advantages including
+robustness against crashes, simplicity of deploying software updates,
+reduced requirements for students (simply a modern web browser, we have
+used tablets and smart phones), and simplifying assignment submission.
+You can also run a Docker container locally, as in previous courses, but
+this approach is not recommended. In addition, if you work locally,
+since assignments are automatically collected from your cloud-based
+Docker container, you must ensure that you push local changes to your
+course cloud Docker container prior to the deadline.
 
 ## Texts ##
 
 There are no required textbooks for this course. Instead, we will
-utilize internet accessible websites and documentation as supplemental
-material to the lesson content.
+utilize Internet accessible websites, videos, and documentation as
+supplemental material to the lesson content. We also will include links,
+as relevant, to readings from books that are freely available to
+University of Illinois students, staff and faculty via the University's
+Safari subscription.
 
 ## Course Outline ##
 
@@ -114,23 +74,27 @@ point values for assignments.
 
 ### Videos ###
 
-Each week there will be at least one video that will offer a broader
-context for the new week, explain key concepts, and demonstrate
-important tasks. To view them, you will need to login to the Illinois
-Mediaspace (links are embedded in the relevant weekly overview (and
-occasionally a lesson). By viewing all videos for a week, you will be
-given twenty points. In case you are wondering, Illinois Mediaspace tracks
-the viewing of course videos.
+Each week there will be at least one instructor created video that will
+offer a broader context for the new week, explain key concepts, and
+demonstrate important tasks. To view the instructor videos, you will
+need to login to the Illinois Mediaspace (links are embedded in the
+relevant weekly overview, and as necessary in the appropriate lesson).
+You will be given twenty points for viewing each weekly instructor
+overview video, and ten points for viewing any instructor video that is
+part of a weekly lesson. In case you are wondering, Illinois Mediaspace
+tracks the viewing of course videos, so we know not only if you load a
+video, but how much of the video you actually watched.
 
 ### Readings ###
 
 Readings will consist of articles and excerpts from books and Web sites,
-and in some cases IPython Notebooks that can be viewed statically on the
-Github website, or (via the preferred approach) by interacting with them
-via the course JupyterHUb server. You will be required to read and be
-familiar with the content of these documents. Readings are
-contextualized as part of the weekly lesson content and are located in
-the "Readings" section of each lesson.
+internet-accessible videos demonstrating a concept, and, in some cases,
+IPython Notebooks that can be viewed statically on the Github website,
+or (via the preferred approach) by interacting with them via the course
+JupyterHub server. You will be required to read and be familiar with the
+content of these documents. Readings are contextualized as part of the
+weekly lesson content and are located in the "Readings" section of each
+lesson.
 
 ### Lessons ###
 
@@ -152,34 +116,44 @@ by 6:00 PM Central on Thursday of that week.
 
 Every week but the first and last will contain an assignment that will
 involve one or more computational tasks related to the focus for that
-given week. 
+given week. Your assignment will be automatically collected at the
+deadline from the course server for instructor grading. However, you
+must submit your assignment for peer grading by using the Moodle
+Assignment tool. (Note we are exploring ways to do this within the
+course server and may update this process during the course).
 
-You will submit assignments by using the Moodle Assignment tool. Each
-week you will be given instructions on how to complete the assignment,
-as well as directions on exactly what you must submit to the course
-Moodle site. This single submission will be used for the instructor
-grading (which uses automatic grading scripts) and peer evaluation.
-To receive full credit from instructor grading, your assignment must be
-submitted prior to the deadline. There will be a 24-hour grace period,
-in which an assignment can be submitted, albeit with an automatic 50%
-reduction in the maximum possible score. After this grace period, no
-assignments will be accepted. The full credit assignment deadline is
-6:00 PM Central on Saturday of the relevant week.
+Each week you will be given instructions on how to complete the
+assignment, as well as directions on exactly what you must submit to the
+course Moodle site. Generally this will be in the form of an IPython
+notebook. To receive full credit from instructor grading, your
+assignment must be submitted prior to the deadline. There will be a
+18-hour grace period, in which an assignment can be submitted, albeit
+with an automatic 50% reduction in the maximum possible score. After
+this grace period, no assignments will be accepted. The full credit
+assignment deadline is 6:00 PM Central on the Monday following the
+relevant week.
 
 ### Peer Review ###
 
 Weekly assignments will be reviewed by your course peers, as well as
-automatic instructor grading. 40% of the grade for each weekly
-assignment submission will derive from peer review, 60% from instructor
-review. You will receive 50 pts each week for simply viewing and grading
-your peers' assignments. Note that you can (and should) still grade your
-peers even if you miss an assignment submission. Peer review of an
-assignment must be completed by 6:00 PM Central on Tuesday of the
-following week (i.e., you submit your assignment on a Saturday and then
-must peer assess other students assignments by the following Tuesday).
-You will be assigned assignments to grade approximately one hour after
-the late assignment deadline, thus around 7:00 pm Sunday evening of each
-week.
+automatic instructor grading. 70 points (out of the maximum 150 points
+for each assignment) for each weekly assignment submission
+will derive from peer review, 80 points (out of the maximum 150 points
+for each assignment) are assigned from automated instructor review. You will
+receive 30 pts each week for simply viewing and grading your peers'
+assignments. Note that you can (and should) still grade your peers even
+if you miss an assignment submission. Peer review of an assignment must
+be completed by 6:00 PM Central on Saturday of the following week (i.e.,
+you submit your assignment on a Monday and you must peer assess other
+students assignments by the following Saturday). You will be assigned
+assignments to grade approximately one hour after the late assignment
+deadline, thus around 1:00 pm Tuesday afternoon of each week.
+
+| **Item** | **Grade** |
+|--|--|
+| Instructor Assessment | 80 points | 
+| Peer Grading | 30 points |
+|Peer Assessments | 40 points|
 
 ### Weekly Quizzes ###
 
@@ -197,15 +171,6 @@ are no exams in this course.
 
 ## Grading ##
 
-### Missed Weeks ###
-
-While you are still strongly encouraged to complete all activities in
-the course, we will drop your three lowest weekly grades from any week in the course.
-<!--second to the fourteenth weeks. -->
-Since later topics build on earlier topics,
-however, it is in your best interest to still complete all readings,
-even if after the relevant deadline.
-
 ### Grading Distribution ###
 |Assignment | Points| Occurrences| Total Points |
 |-----------|-----|-----|-----|
@@ -213,12 +178,13 @@ even if after the relevant deadline.
 |Orientation Quiz|70|1|70|
 |Lesson Assessments|60|14 (Week 15 is only 20 points)|860|
 |Weekly Quizzes|70|14 (No quiz in Week 15)|980|
-|Weekly Videos|20|16 (including the Orientation Week video)|320|
+|Weekly Overview Videos|20|16 (including the Orientation Week video)|320|
 |Assignments (Weeks 2-14)|150|13 |1950|
 |***Total***|||***4240***|
 
-Note, after the lowest three weekly scores are dropped from weeks 2-14, 
-the maximum total score for the class is **3340**.
+Note that this total does not include any lesson videos, which will
+increase the total points for that specific week, and the overall total.
+Finally, unlike past courses, we do not plan on dropping any weekly scores.
 
 ### Grading Scale ###
 
@@ -242,3 +208,45 @@ cutoffs (so 100–98 is an A+ and 90–92 is an A-).
 |62-68|D|
 |60-62|D-|
 |Below 60|F|
+
+### Point Reductions ###
+
+This is a large, online course with only one instructor and one teaching
+assistant. Thus we require that students read the syllabus and search
+online forums before either emailing us directly or posting a new
+question in the moodle forums. Failure to abide by this request may, at
+the sole discretion of the instructor, result in a loss of five points
+per **obvious** infraction. Please note that we are not trying to stifle
+questions (such as why is the FAA server down?). We simply need to
+minimize the number of such emails/questions we receive.
+
+### Extra Credit ###
+
+There is a course Wiki hosted on the course github repository. If you
+have a problem and obtain a solution (either through your own efforts or
+in partnership with an instructor), consider writing your problem and
+solution up as a FAQ post in the github wiki. You get extra credit for
+doing this and also help your classmates!
+
+To get credit for your wiki entry you must contact the course assistant,
+Samantha Thrush. She will review your post and indicate how many points
+you will receive, and if she would be willing to review an edited post
+for additional information. You can submit multiple Wiki entries.
+
+## Sample Weekly Schedule ##
+
+The following table summarizes the typical weekly schedule, where the
+assignments are collected the Monday following the Friday when quizzes
+are due.
+
+| Task | Days into *Week* | Date/Time |
+| ---  | ---  | ---     |
+| Week Opens | 0 | Monday, 12:00 am |
+| Lessons Completed | 3 | Thursday, 6:00 pm |
+| Lesson Assessments |  3 | Thursday, 6:00 pm |
+| Weekly Quiz  |  4 | Friday, 6:00 pm |
+| Assignment Collected  | 7 |  Monday, 6:00 pm |
+| Late Assignments Collected  | 8 |  Tuesday, 12:00 pm |
+| Assignments uploaded for Peer Assessment  | 8 |  Tuesday, 12:00 pm |
+| Assignments distributed for Peer Assessment  | 8 |  Tuesday, 1:00 pm |
+| Peer Assessment Deadline  | 12 |  Saturday, 6:00 pm |
