@@ -50,10 +50,8 @@ Note: The following list of topics is tentative. We build the course
 during the semester for several reasons:
 
 1. This is a new course (in a new field)!
-
 2. The enrolled students span multiple colleges and even more
 departments across the University of Illinois.
-
 3. Both undergraduate and graduate students are enrolled.
 
 As a result, we fel it is imperative to be able to change the planned
