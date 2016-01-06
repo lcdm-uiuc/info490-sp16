@@ -46,6 +46,20 @@ Safari subscription.
 
 ## Course Outline ##
 
+Note: The following list of topics is tentative. We build the course
+during the semester for several reasons:
+
+1. This is a new course (in a new field)!
+
+2. The enrolled students span multiple colleges and even more
+departments across the University of Illinois.
+
+3. Both undergraduate and graduate students are enrolled.
+
+As a result, we fel it is imperative to be able to change the planned
+pace and material to benefit the majority of enrolled students.
+
+
 | **Week** | **Topics**| **Activities**|
 |----------|-----------|----------------|
 |*Orientation Week*| Course Overview & Syllabus Review| |
@@ -140,7 +154,7 @@ automatic instructor grading. 70 points (out of the maximum 150 points
 for each assignment) for each weekly assignment submission
 will derive from peer review, 80 points (out of the maximum 150 points
 for each assignment) are assigned from automated instructor review. You will
-receive 30 pts each week for simply viewing and grading your peers'
+receive 30 points each week for simply viewing and grading your peers'
 assignments. Note that you can (and should) still grade your peers even
 if you miss an assignment submission. Peer review of an assignment must
 be completed by 6:00 PM Central on Saturday of the following week (i.e.,
