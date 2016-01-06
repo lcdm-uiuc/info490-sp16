@@ -149,11 +149,11 @@ students assignments by the following Saturday). You will be assigned
 assignments to grade approximately one hour after the late assignment
 deadline, thus around 1:00 pm Tuesday afternoon of each week.
 
-| **Item** | **Grade** |
-|--|--|
-| Instructor Assessment | 80 points | 
-| Peer Grading | 30 points |
-|Peer Assessments | 40 points|
+| **Item** | **Grade** | 
+|--|--| 
+| Instructor Assessment | 80 points |  
+| Peer Grading | 30 points | 
+|Peer Assessments | 40 points| 
 
 ### Weekly Quizzes ###
 
