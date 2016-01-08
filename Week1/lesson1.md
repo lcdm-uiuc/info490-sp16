@@ -25,7 +25,7 @@ Approximately 2 hours.
 
 - Read [A Few Useful Things to Know about Machine Learning](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
 
-- Work through the course [Introduction to Machine Learning][] IPython Notebook on the course JupyterHub server.
+- Work through the course [Introduction to Machine Learning][intro2ml] IPython Notebook on the course JupyterHub server.
 
 #### *Optional Additional Readings*####
 
@@ -41,5 +41,4 @@ Approximately 2 hours.
 
 When you have completed and worked through the above readings, please take the [Week 1 Lesson 1 Assessment](https://learn.illinois.edu/)
 
-
-
+[intro2ml]: https://github.com/UI-DataScience/info490-sp16/blob/master/Week1/notebooks/intro2ml.ipynb
