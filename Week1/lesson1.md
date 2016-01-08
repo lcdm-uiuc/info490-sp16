@@ -1,34 +1,45 @@
 # Week 1 Lesson 1 #
-## Intro to Data Science ##
+## Intro to Machine Learning ##
 
-In this lesson you will learn about the history of Data Science and how Data Science, by nature, is a combination of many different disciplines.
+In this lesson you will learn about the basics of Machine Learning,
+including the difference between supervised and unsupervised learning,
+as well as regression, classification, clusteirng, and dimensional
+reduction.
 
 ###Objectives ###
 
 By the end of this lesson, you will:
 
-- Know the basics about the origin, development, and popularization about Data Science.
-- Know which disciplines contribute to Data Science
-- Understand how different disciplines aquire, process, and understand data.
-
-You could share with the class via a Moodle Discussion Forum post how
-your discipline views _Data Science_.
+- Know the difference between supervised and unsupervised learning.
+- Know the difference between regression and classification.
+- Understand the basics of clustering and dimensional reduction.
+- Understand how to use the scikit_learn library to perform basic machine learning tasks.
 
 ### Time Estimate ###
 
 Approximately 2 hours.
 
 ### Readings ####
-For both of these two readings, you should stop when you reach the _assignment/Exercise_ section.
-- Read the [Wikipedia article on A History of Data Science](https://en.wikibooks.org/wiki/Data_Science:_An_Introduction/A_History_of_Data_Science).
-- Read the [Wikipedia article on A Mash-up of Disciplines in Data Science](https://en.wikibooks.org/wiki/Data_Science:_An_Introduction/A_Mash-up_of_Disciplines).
+
+- The _Problem Setting_ section, from the [scikit learn Tutorial](http://scikit-learn.org/stable/tutorial/basic/tutorial.html#machine-learning-the-problem-setting)
+
+- Read [A Few Useful Things to Know about Machine Learning](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
+
+- Work through the course [Introduction to Machine Learning][] IPython Notebook on the course JupyterHub server.
 
 #### *Optional Additional Readings*####
-- [Definitions of Data](https://en.wikibooks.org/wiki/Data_Science:_An_Introduction/Definitions_of_Data)
+
+- An intro to [performing machine learning in Python](https://www.pythonprogramming.net/machine-learning-python-sklearn-intro/)
+
+- Chapter 11, Machine Learning, from [Data Science from Scratch](http://proquest.safaribooksonline.com.proxy2.library.illinois.edu/book/databases/9781491901410/10dot-working-with-data/working_with_data_html#X2ludGVybmFsX0h0bWxWaWV3P3htbGlkPTk3ODE0OTE5MDE0MTAlMkZtYWNoaW5lX2xlYXJuaW5nX2h0bWwmcXVlcnk9)
+
+- Chapter 1 from Jaiwei Han's [Introduction to Data Mining](http://proquest.safaribooksonline.com.proxy2.library.illinois.edu/book/databases/data-warehouses/9780123814791/1dot-introduction/chapter_1_introduction#X2ludGVybmFsX0h0bWxWaWV3P3htbGlkPTk3ODAxMjM4MTQ3OTElMkZjaGFwdGVyXzFfaW50cm9kdWN0aW9uJnF1ZXJ5PQ==)
+
+- [Chapter 1 from Machine Learning](http://proquest.safaribooksonline.com.proxy2.library.illinois.edu/book/electrical-engineering/computer-engineering/9781466583283/firstchapter#X2ludGVybmFsX0J2ZGVwRmxhc2hSZWFkZXI/eG1saWQ9OTc4MTQ2NjU4MzI4My8x)
 
 ### Assessment ###
 
-When you have completed and worked through the above readings, please take the [Week 1 Lesson 1 Assessment](https://learn.illinois.edu/mod/quiz/view.php?id=1095467).
+When you have completed and worked through the above readings, please take the [Week 1 Lesson 1 Assessment](https://learn.illinois.edu/)
 
 
 
