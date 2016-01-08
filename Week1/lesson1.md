@@ -35,7 +35,7 @@ Approximately 2 hours.
 
 - Chapter 1 from Jaiwei Han's [Introduction to Data Mining](http://proquest.safaribooksonline.com.proxy2.library.illinois.edu/book/databases/data-warehouses/9780123814791/1dot-introduction/chapter_1_introduction#X2ludGVybmFsX0h0bWxWaWV3P3htbGlkPTk3ODAxMjM4MTQ3OTElMkZjaGFwdGVyXzFfaW50cm9kdWN0aW9uJnF1ZXJ5PQ==)
 
-- [Chapter 1 from Machine Learning](http://proquest.safaribooksonline.com.proxy2.library.illinois.edu/book/electrical-engineering/computer-engineering/9781466583283/firstchapter#X2ludGVybmFsX0J2ZGVwRmxhc2hSZWFkZXI/eG1saWQ9OTc4MTQ2NjU4MzI4My8x)
+- Chapter 1 from [Machine Learning](http://proquest.safaribooksonline.com.proxy2.library.illinois.edu/book/electrical-engineering/computer-engineering/9781466583283/firstchapter#X2ludGVybmFsX0J2ZGVwRmxhc2hSZWFkZXI/eG1saWQ9OTc4MTQ2NjU4MzI4My8x) by Stephen Marsland
 
 ### Assessment ###
 
