@@ -1,5 +1,5 @@
 # Week 1 Lesson 3 #
-## The Unix Shell/JupyterHub ##
+## Introduction to Linear Regression ##
 
 In this lesson you will begin working at the Unix prompt in order to
 understand the bash shell, the Unix file system, and how to work with
@@ -16,22 +16,27 @@ By the end of this lesson, you will be able to:
 
 Approximately 2 hours.
 
-### Readings ###
+### Readings ####
 
-- Read chapters 1-4 from the free book [The Linux Command Line
-(PDF)](http://sourceforge.net/projects/linuxcommand/?source=dlp), Second
-Internet Edition, by William E. Shotts, Jr. 
-- Follow along by entering the commands as directed into a terminal
-window within your Docker container.
-- Explore the INFO490 Course [Introduction to Unix](notebooks/introduction2unix.ipynb) Notebook
- 
-#### *Optional Additional Readings* ####
-- [Guide to Unix/Why Unix-like](https://en.wikibooks.org/wiki/Guide_to_Unix/Why_Unix-like)
-- [Unix Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/)
-- [Introduction to Linux: A Hands-on Guide](http://www.tldp.org/LDP/intro-linux/html/index.html)
+- Explore the course [Introduction to Regression][intro2regress] IPython Notebook on the course JupyterHub server.
+
+- Read through Section 2 of [Chapter 7, Linear Regression](https://www.openintro.org/download.php?file=os2_07&referrer=/stat/textbook/textbook_os2_chapters.php)
+
+
+#### *Optional Additional Readings*####
+
+- An intro to [performing machine learning in Python](https://www.pythonprogramming.net/machine-learning-python-sklearn-intro/)
+
+- Chapter 11, Machine Learning, from [Data Science from Scratch](http://proquest.safaribooksonline.com.proxy2.library.illinois.edu/book/databases/9781491901410/10dot-working-with-data/working_with_data_html#X2ludGVybmFsX0h0bWxWaWV3P3htbGlkPTk3ODE0OTE5MDE0MTAlMkZtYWNoaW5lX2xlYXJuaW5nX2h0bWwmcXVlcnk9)
+
+- Chapter 1 from Jaiwei Han's [Introduction to Data Mining](http://proquest.safaribooksonline.com.proxy2.library.illinois.edu/book/databases/data-warehouses/9780123814791/1dot-introduction/chapter_1_introduction#X2ludGVybmFsX0h0bWxWaWV3P3htbGlkPTk3ODAxMjM4MTQ3OTElMkZjaGFwdGVyXzFfaW50cm9kdWN0aW9uJnF1ZXJ5PQ==)
+
+- Chapter 1 from [Machine Learning](http://proquest.safaribooksonline.com.proxy2.library.illinois.edu/book/electrical-engineering/computer-engineering/9781466583283/firstchapter#X2ludGVybmFsX0J2ZGVwRmxhc2hSZWFkZXI/eG1saWQ9OTc4MTQ2NjU4MzI4My8x) by Stephen Marsland
 
 ### Assessment ###
 
 When you have completed and worked through the above readings, please
 take the [Week 1 Lesson 3
 Assessment](https://learn.illinois.edu/mod/quiz/view.php?id=1095470).
+
+[intro2regress]: notebooks/intro2regress.ipynb

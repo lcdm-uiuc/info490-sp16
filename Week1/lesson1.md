@@ -3,7 +3,7 @@
 
 In this lesson you will learn about the basics of Machine Learning,
 including the difference between supervised and unsupervised learning,
-as well as regression, classification, clusteirng, and dimensional
+as well as regression, classification, clustering, and dimensional
 reduction.
 
 ###Objectives ###
@@ -27,7 +27,7 @@ Approximately 2 hours.
 
 - Read [A Few Useful Things to Know about Machine Learning](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
 
-- Work through the course [Introduction to Machine Learning][intro2ml] IPython Notebook on the course JupyterHub server.
+- Explore the course [Introduction to Machine Learning][intro2ml] IPython Notebook on the course JupyterHub server.
 
 #### *Optional Additional Readings*####
 
@@ -35,7 +35,7 @@ Approximately 2 hours.
 
 - Chapter 11, Machine Learning, from [Data Science from Scratch](http://proquest.safaribooksonline.com.proxy2.library.illinois.edu/book/databases/9781491901410/10dot-working-with-data/working_with_data_html#X2ludGVybmFsX0h0bWxWaWV3P3htbGlkPTk3ODE0OTE5MDE0MTAlMkZtYWNoaW5lX2xlYXJuaW5nX2h0bWwmcXVlcnk9)
 
-- Chapter 1 from Jaiwei Han's [Introduction to Data Mining](http://proquest.safaribooksonline.com.proxy2.library.illinois.edu/book/databases/data-warehouses/9780123814791/1dot-introduction/chapter_1_introduction#X2ludGVybmFsX0h0bWxWaWV3P3htbGlkPTk3ODAxMjM4MTQ3OTElMkZjaGFwdGVyXzFfaW50cm9kdWN0aW9uJnF1ZXJ5PQ==)
+- Chapter 1 from Jiawei Han's [Introduction to Data Mining](http://proquest.safaribooksonline.com.proxy2.library.illinois.edu/book/databases/data-warehouses/9780123814791/1dot-introduction/chapter_1_introduction#X2ludGVybmFsX0h0bWxWaWV3P3htbGlkPTk3ODAxMjM4MTQ3OTElMkZjaGFwdGVyXzFfaW50cm9kdWN0aW9uJnF1ZXJ5PQ==)
 
 - Chapter 1 from [Machine Learning](http://proquest.safaribooksonline.com.proxy2.library.illinois.edu/book/electrical-engineering/computer-engineering/9781466583283/firstchapter#X2ludGVybmFsX0J2ZGVwRmxhc2hSZWFkZXI/eG1saWQ9OTc4MTQ2NjU4MzI4My8x) by Stephen Marsland
 
@@ -43,4 +43,4 @@ Approximately 2 hours.
 
 When you have completed and worked through the above readings, please take the [Week 1 Lesson 1 Assessment](https://learn.illinois.edu/)
 
-[intro2ml]: https://github.com/UI-DataScience/info490-sp16/blob/master/Week1/notebooks/intro2ml.ipynb
+[intro2ml]: notebooks/intro2ml.ipynb
