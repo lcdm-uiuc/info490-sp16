@@ -1,16 +1,17 @@
 # Week 1 Lesson 3 #
 ## Introduction to Linear Regression ##
 
-In this lesson you will begin working at the Unix prompt in order to
-understand the bash shell, the Unix file system, and how to work with
-files and processes.
+In this lesson you will learn how to perform basic linear regression by
+using Python, which is one of the simplest techniques to construct a
+predictive model from a data set.
+
 
 ### Objectives ###
 By the end of this lesson, you will be able to:
 
-- Understand how to work at the Unix command prompt.
-- Understand the basic Unix file system.
-- Be able to create, copy, move, and delete files and directories.
+- Understand the basic concepts that underlie linear regression.
+- Understand how to construct a linear model for a data set in Python by using the `statsmopdel` library.
+- Understand how to construct a linear model for a data set in Python by using the `scikit_learn` library.
 
 ### Time Estimate###
 
@@ -18,20 +19,15 @@ Approximately 2 hours.
 
 ### Readings ####
 
-- Explore the course [Introduction to Regression][intro2regress] IPython Notebook on the course JupyterHub server.
-
 - Read through Section 2 of [Chapter 7, Linear Regression](https://www.openintro.org/download.php?file=os2_07&referrer=/stat/textbook/textbook_os2_chapters.php)
 
+- Explore the course [Introduction to Regression][intro2regress] IPython Notebook on the course JupyterHub server.
 
 #### *Optional Additional Readings*####
 
-- An intro to [performing machine learning in Python](https://www.pythonprogramming.net/machine-learning-python-sklearn-intro/)
+- An intro to [ordinary least squares in Python](http://www.datarobot.com/blog/ordinary-least-squares-in-python/)
 
-- Chapter 11, Machine Learning, from [Data Science from Scratch](http://proquest.safaribooksonline.com.proxy2.library.illinois.edu/book/databases/9781491901410/10dot-working-with-data/working_with_data_html#X2ludGVybmFsX0h0bWxWaWV3P3htbGlkPTk3ODE0OTE5MDE0MTAlMkZtYWNoaW5lX2xlYXJuaW5nX2h0bWwmcXVlcnk9)
-
-- Chapter 1 from Jaiwei Han's [Introduction to Data Mining](http://proquest.safaribooksonline.com.proxy2.library.illinois.edu/book/databases/data-warehouses/9780123814791/1dot-introduction/chapter_1_introduction#X2ludGVybmFsX0h0bWxWaWV3P3htbGlkPTk3ODAxMjM4MTQ3OTElMkZjaGFwdGVyXzFfaW50cm9kdWN0aW9uJnF1ZXJ5PQ==)
-
-- Chapter 1 from [Machine Learning](http://proquest.safaribooksonline.com.proxy2.library.illinois.edu/book/electrical-engineering/computer-engineering/9781466583283/firstchapter#X2ludGVybmFsX0J2ZGVwRmxhc2hSZWFkZXI/eG1saWQ9OTc4MTQ2NjU4MzI4My8x) by Stephen Marsland
+- Notes on [Linear Regression](http://people.duke.edu/%7Ernau/Notes_on_linear_regression_analysis--Robert_Nau.pdf)
 
 ### Assessment ###
 

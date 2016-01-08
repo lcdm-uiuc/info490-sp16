@@ -3,9 +3,9 @@
 
 #####By the end of this lesson, you should be able to:######
 
-- Know the basics about .
-- Understand the 
-- Understand the 
+- Know the basics concepts that underlie machine learning.
+- Understand the importance of data preparation to enable a succesful machine learning analysis.
+- Understand the basic concepts of linear regression.
 
 ### Activities and Assignments ###
 
