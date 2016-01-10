@@ -33,7 +33,7 @@ the course.
 |-----|---|---|---|
 |[Course Overview Video][OV]|15 Minutes|Wednesday|20|
 |[Course Information and Resources(Syllabus)](syllabus.md)|1 Hour|Wednesday|NA|
-|[Orientation Quiz](https://learn.illinois.edu/mod/quiz/view.php?id=1325056)| 30 minutes | Wednesday | 70|
+|[Orientation Quiz][OQ]| 30 minutes | Wednesday | 70|
 |[Pre-Class Activity: Introduce Yourself](Pre-Class_Activity.md)|30 Minutes|Wednesday|60|
 
 
@@ -64,3 +64,4 @@ peers pose. By engaging with each other, we'll all learn better.
 
 -----
 [OV]: https://mediaspace.illinois.edu/
+[OQ]: https://learn.illinois.edu/mod/quiz/view.php?id=1325056
