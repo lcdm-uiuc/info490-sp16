@@ -29,7 +29,7 @@ Approximately 2 hours.
 - [Rescaling Data for ML](http://machinelearningmastery.com/rescaling-data-for-machine-learning-in-python-with-scikit-learn/)
 - [Scaling, Normalizing, and ML](https://www.pythonprogramming.net/preprocessing-machine-learning/) 
 
-**_Safari Online Books_**
+_Safari Online Books_
 
 - **Section 2.1: Statistical Thinking in the Age of Big Data** from _Doing Data Science_ by Cathy O'Neil and Rachel Schutt 
 

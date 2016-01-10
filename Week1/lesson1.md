@@ -33,6 +33,8 @@ Approximately 2 hours.
 
 - An intro to [performing machine learning in Python](https://www.pythonprogramming.net/machine-learning-python-sklearn-intro/)
 
+_Safari Online Books_
+
 The following links are to books that are available online to University
 of Illinois students, staff, and faculty via Safari Books Online. To
 access the books, you need to access the university's [Safari
