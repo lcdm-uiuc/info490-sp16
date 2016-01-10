@@ -1,7 +1,7 @@
 #Pre-Class Activity#
 
 This [activity is on
-moodle](https://learn.illinois.edu/mod/forum/view.php?id=1095101), where
+Moodle](https://learn.illinois.edu/mod/forum/view.php?id=1095101), where
 the instructions are also shown along with the actual forum where you
 can complete these tasks.
 

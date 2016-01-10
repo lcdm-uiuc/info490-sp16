@@ -75,7 +75,7 @@ during the semester for several reasons:
 departments across the University of Illinois.
 3. Both undergraduate and graduate students are enrolled.
 
-As a result, we fel it is imperative to be able to change the planned
+As a result, we feel it is imperative to be able to change the planned
 pace and material to benefit the majority of enrolled students.
 
 
