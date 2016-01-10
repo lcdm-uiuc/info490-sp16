@@ -21,7 +21,6 @@ Approximately 2 hours.
 
 - Read [Data, Learning, and Modeling](http://machinelearningmastery.com/data-learning-and-modeling/)
 - Read [What do I do](http://simplystatistics.org/2014/06/13/what-i-do-when-i-get-a-new-data-set-as-told-through-tweets/)
-
 - Read the [Quartz guide to Bad Data](https://github.com/Quartz/bad-data-guide)
 
 #### *Optional Additional Readings*####
@@ -32,9 +31,7 @@ Approximately 2 hours.
 _Safari Online Books_
 
 - **Section 2.1: Statistical Thinking in the Age of Big Data** from _Doing Data Science_ by Cathy O'Neil and Rachel Schutt 
-
 - **Chapter 10, Working with Data** from _Data Science from Scratch_, by Joel Grus.
-
 - **Chapter 2: Getting to Know Your Data** from _Data Mining: Concepts and Techniques_, 3rd Edition by Jiawei Han, Micheline Kamber, and Jian Pei
 - **Chapter 3: Data Preprocessing** from _Data Mining: Concepts and Techniques_, 3rd Edition by Jiawei Han, Micheline Kamber, and Jian Pei
 

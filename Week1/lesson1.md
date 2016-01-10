@@ -22,11 +22,8 @@ Approximately 2 hours.
 ### Readings ####
 
 - An introduction to [the basic concepts of Machine Learning](http://machinelearningmastery.com/basic-concepts-in-machine-learning/)
-
 - The _Problem Setting_ section, from the [scikit learn Tutorial](http://scikit-learn.org/stable/tutorial/basic/tutorial.html#machine-learning-the-problem-setting)
-
 - Read [A Few Useful Things to Know about Machine Learning](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
-
 - Explore the course [Introduction to Machine Learning][intro2ml] IPython Notebook on the course JupyterHub server.
 
 #### *Optional Additional Readings*####
@@ -49,9 +46,7 @@ Illinois, Urbana-Champaign' menu item and selecting _Sign Out and Clear
 Session_.
 
 - **Chapter 11: Machine Learning** from _Data Science from Scratch_, by Joel Grus.
-
 - **Chapter 1: Introduction** from _Data Mining: Concepts and Techniques_, 3rd Edition by Jiawei Han, Micheline Kamber, and Jian Pei
-
 - **Chapter 1: Introduction** from _Machine Learning: an Algorithmic Perspective_, 2nd Edition by Stephen Marsland
 
 ### Assessment ###
