@@ -19,7 +19,7 @@ Approximately 2 hours.
 
 ### Readings ####
 
-- Read through Section 2 of [Chapter 7, Linear Regression](https://www.openintro.org/download.php?file=os2_07&referrer=/stat/textbook/textbook_os2_chapters.php)
+- Read through Section 3 of [Chapter 7, Linear Regression](https://www.openintro.org/download.php?file=os2_07&referrer=/stat/textbook/textbook_os2_chapters.php)
 
 - Explore the course [Introduction to Regression][intro2regress] IPython Notebook on the course JupyterHub server.
 
