@@ -21,4 +21,4 @@
 
 ----------
 [w1v]: https://mediaspace.illinois.edu/
-[w1q]: https://learn.illinois.edu/
+[w1q]: https://learn.illinois.edu/mod/quiz/view.php?id=1325077
