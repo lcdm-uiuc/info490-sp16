@@ -1,8 +1,9 @@
 # INFO 490: Advanced Data Science #
 
-INFO 490: Advanced Data Science uses an project-based approach to
-indoctrinate students into the tools and technologies necessary for
-working with large data.
+INFO 490: Advanced Data Science explores advanced concepts in data
+science by employing a practical approach, including machine learning;
+probabilistic programming; text, network, and graph analysis; and cloud
+computing.
 
 ![Draft](../images/Draft_Version_picture.png)
 
@@ -45,6 +46,24 @@ supplemental material to the lesson content. We also will include links,
 as relevant, to readings from books that are freely available to
 University of Illinois students, staff and faculty via the University's
 Safari subscription.
+
+## Academic Integrity ##
+
+Academic honesty is essential to this course and the University. Any
+instance of academic dishonesty (including but not limited to cheating,
+plagiarism, falsification of data, and alteration of grades) will be
+documented in the student's academic file. In addition, **at a minimum**
+the particular assessment, quiz, or assignment will be given a zero.
+Serious or repeated offenses may be punished more severely.
+
+**Guidelines for collaborative work**: Discussing course material with
+your classmates is in general a good idea, but each student is expected
+to do his or her own work. On assignments, you may discuss the problems
+and concepts behind them, but you are responsible for your own answers.
+Please do not post code in the forums! Finally, on assessments and
+quizzes, your answers must of course be your own. For further info, see
+the [Student Code, Part 4. Academic
+Integrity](http://www.admin.illinois.edu/policy/code/article_1/a1_1-401.html).
 
 ## Course Outline ##
 
@@ -229,7 +248,7 @@ cutoffs (so 100–98 is an A+ and 90–92 is an A-).
 This is a large, online course with only one instructor and one teaching
 assistant. Thus we require that students read the syllabus and search
 online forums before either emailing us directly or posting a new
-question in the moodle forums. Failure to abide by this request may, at
+question in the Moodle forums. Failure to abide by this request may, at
 the sole discretion of the instructor, result in a loss of five points
 per **obvious** infraction. Please note that we are not trying to stifle
 questions (such as why is the FAA server down?). We simply need to
