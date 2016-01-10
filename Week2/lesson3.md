@@ -1,38 +1,45 @@
 # Week 2 Lesson 3 #
-## Introduction to Python ##
+## Introduction to Logistic Regression ##
 
-In this lesson, you will learn about the basics of python terminology, and the difference between various kinds of errors you will encounter through coding in Python.  Next, you will explore the various data types found in Python and learn how to apply simple operations (such as addition, subtraction, etc.) to Python variables.
+In this lesson, you will learn about logistic regression, where
+regression is performed on a variable which can take a binary value
+(e.g., True/False or Yes/No) in the simple case, or multiple values in a
+more advanced categorical case.
 
 
 ### Objectives###
 By the end of this lesson, you will:
 
-- Know basic python terminology, such as input, output, debugging, etc.
-- Know the difference between the different types of errors.
-- Use the Python interpreter.
-- Describe the basic data types provided by the Python language.
-- Perform basic operations on Python variables.
-
-
+- Understand the basic concepts of logistic regression.
+- Understand the benefits of using Logistic Regression.
+- Know how to compute logistic regression by using Python via the `statsmodel` or `scikit_learn` libraries.
 
 ### Time Estimate ###
 Approximately 2 hours.
 
 ### Readings ###
 
-- [Introduction to the Python Programming Language](notebooks/intro2py.ipynb)
-- Read Chapters 1-2 in [Think Python](http://faculty.stedwards.edu/mikek/python/thinkpython.pdf).
-    - Try out Python commands and code snippets in a new IPython Notebook.
+- [Logistic Regression][lr] by using Python. Note, they use older Python
+and IPython constructs (do not use %pylab, for example).
+- [Wikipedia article on Logistic Regression][wlog] through (at least) the Latent Variable Interpretation.
+- Read Section 4 of [Chapter 8, Linear Regression][blr]
 
 #### *Optional Additional Readings* ####
-- Several free books, mostly written for Python 2:
-	- [Open Tech School's Introduction to Programming with Python](http://opentechschool.github.io/python-beginners/en/index.html)
-	- [Invent with Python](http://inventwithpython.com/)
-	- [Building Skills in Programming](http://www.itmaybeahack.com/homepage/books/)
-	- [Learn Python The Hard Way, 3rd Edition](http://learnpythonthehardway.org/book/)
-	- [A Byte of Python](http://www.ibiblio.org/g2swap/byteofpython/read/)
 
+- Section 4.3 from [Elements of Statistical Learning][esl] by Trevor
+Hastie, Robert Tibshirani, and Jerome Friedman. Note this text is rather
+mathematical in nature.
+
+_Safari Online Books_
+
+- **Chapter 16: Logistic Regression** from _Data Science from Scratch_, by Joel Grus.
 
 ### Assessment ###
 
-When you have completed and worked through the above readings, please take the [Week 2 Lesson 3 Assessment](https://learn.illinois.edu/mod/quiz/view.php?id=1095485).
+When you have completed and worked through the above readings, please take the [Week 2 Lesson 3 Assessment]()
+
+[lr]: http://blog.yhat.com/posts/logistic-regression-and-python.html
+[wlog]: https://en.wikipedia.org/wiki/Logistic_regression
+[blr]: https://www.openintro.org/download.php?file=os2_08&referrer=/stat/textbook/textbook_os2_chapters.php
+[isl]: http://www-bcf.usc.edu/~gareth/ISL/
+[esl]: http://statweb.stanford.edu/~tibs/ElemStatLearn/

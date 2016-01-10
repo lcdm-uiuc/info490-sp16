@@ -1,16 +1,17 @@
 # Week 2 Lesson 2#
-## Introduction to iPython ##
+## Introduction to Regularization ##
 
-In this lesson, you will learn how to work with an IPython Notebook (note the name is being changed to Jupiter Notebook) from within your Docker INFO490 course container. You will first learn how to view notebooks online, before downloading them locally to execute. Next you will learn how to enter basic Python commands in the notebook and execute them. Finally, you will learn about IPython magic commands and how they can give you access to the underlying operating system and increased functionality.
+In this lesson, you will learn about regularization techniques that can
+both improve the quality of a fit by reducing the likelihood of
+overfitting and aid in feature selection.
 
 ###Objectives ###
 
 By the end of this lesson, you will be able to:
 
-- View an IPython notebook on github via the nbviewer.
-- Download an IPython notebook and execute it by using your info490 Docker container.
-- Execute Python commands in an IPython notebook.
-- Understand basic IPython magic command syntax.
+- Understand the importance of regularization (or shrinkage) for linear regression.
+- Understand and be able to apply Ridge Regression (L2) by using Python.
+- Understand and be able to apply Lasso to Regression problems (L1) by using Python.
 
 ### Time Estimate ###
 
@@ -18,19 +19,29 @@ Approximately 2 hours.
 
 ### Readings ####
 
-- [Introduction to the iPython Notebook](notebooks/intro2ipy.ipynb)
-- View other notebooks on [nbviewer](http://nbviewer.ipython.org/) website.
+- [Regularized Linear Regression][rlr] using Python. Note there is an
+IPython notebook available at the end of the blog post.
+- Introduction and Motivation sections of the [Wikipedia article on Lasso][wlas] (feel free to read more).
+- Introduction and History sections of the [Wikipedia article on Ridge Regression][wrid] (feel free to read more).
 
 #### *Optional Additional Readings*####
 
-- The Berkeley python Bootcamp [IPython Notebook](http://nbviewer.ipython.org/github/profjsb/python-bootcamp/blob/master/Lectures/04_IPythonNotebookIntroduction/IPython+-+beyond+plain+Python.ipynb).
-	- First, view this online at the provided link
-	- Second, download the notebook (via download icon in the upper right)
-	- Third, upload this notebook to your Docker ipython server and run the commands interactively.
-- Read about how to write [Markdown formatted](http://nbviewer.ipython.org/github/profjsb/python-bootcamp/blob/master/Lectures/04_IPythonNotebookIntroduction/Markdown%20Cells.ipynb) IPython cells.
-- Learn about [IPython extensions](https://github.com/ipython-contrib/IPython-notebook-extensions).
-- Learn more about the basics of iPython in Chapter 1 of [IPython Interactive Computing and Visualization Cookbook](http://proquest.safaribooksonline.com.proxy2.library.illinois.edu/book/programming/python/9781783284818)
+- Section 6.2 from [Introduction to Statistical Learning][isl]  by
+Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
+- Section 3.4 from [Elements of Statistical Learning][esl] by Trevor
+Hastie, Robert Tibshirani, and Jerome Friedman. Note this text is rather
+mathematical in nature.
+
+_Safari Online Books_
+
+- Section on _Regularization_ from **Chapter 15: Machine Learning** from _Data Science from Scratch_, by Joel Grus.
 
 ### Assessment ###
 
-When you have completed and worked through the above readings, please take the [Week 2 Lesson 2 Assessment](https://learn.illinois.edu/mod/quiz/view.php?id=1095482).
+When you have completed and worked through the above readings, please take the [Week 2 Lesson 2 Assessment]()
+
+[rlr]: http://www.datarobot.com/blog/regularized-linear-regression-with-scikit-learn/
+[isl]: http://www-bcf.usc.edu/~gareth/ISL/
+[esl]: http://statweb.stanford.edu/~tibs/ElemStatLearn/
+[wlas]: https://en.wikipedia.org/wiki/Lasso_(statistics)
+[wrid]: https://en.wikipedia.org/wiki/Tikhonov_regularization
