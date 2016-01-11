@@ -44,7 +44,7 @@ _Safari Online Books_
 
 ### Assessment ###
 
-When you have completed and worked through the above readings, please take the [Week 2 Lesson 1 Assessment]()
+When you have completed and worked through the above readings, please take the [Week 2 Lesson 1 Assessment][wa]
 
 [bpsm]: http://connor-johnson.com/2014/02/18/linear-regression-with-python/
 [bglr]: http://www.datarobot.com/blog/ordinary-least-squares-in-python/
@@ -54,3 +54,4 @@ When you have completed and worked through the above readings, please take the [
 [blr]: https://www.openintro.org/download.php?file=os2_08&referrer=/stat/textbook/textbook_os2_chapters.php
 [isl]: http://www-bcf.usc.edu/~gareth/ISL/
 [esl]: http://statweb.stanford.edu/~tibs/ElemStatLearn/
+[wa]: https://learn.illinois.edu/mod/quiz/view.php?id=1325230
