@@ -37,6 +37,6 @@ encodes a _Yes/No_ result.
 *Please note that unless otherwise noted, the due time is 6pm Central time!*
 
 ----------
-[w2q]: https://learn.illinois.edu/mod/quiz/view.php?id=1095158
+[w2q]: https://learn.illinois.edu/mod/quiz/view.php?id=1325080
 [w2v]: https://mediaspace.illinois.edu/
 [w2a]: https://learn.illinois.edu/mod/workshop/view.php?id=1095161
