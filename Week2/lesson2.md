@@ -38,10 +38,11 @@ _Safari Online Books_
 
 ### Assessment ###
 
-When you have completed and worked through the above readings, please take the [Week 2 Lesson 2 Assessment]()
+When you have completed and worked through the above readings, please take the [Week 2 Lesson 2 Assessment][wa]
 
 [rlr]: http://www.datarobot.com/blog/regularized-linear-regression-with-scikit-learn/
 [isl]: http://www-bcf.usc.edu/~gareth/ISL/
 [esl]: http://statweb.stanford.edu/~tibs/ElemStatLearn/
 [wlas]: https://en.wikipedia.org/wiki/Lasso_(statistics)
 [wrid]: https://en.wikipedia.org/wiki/Tikhonov_regularization
+[wa]: https://learn.illinois.edu/mod/quiz/view.php?id=1325233
