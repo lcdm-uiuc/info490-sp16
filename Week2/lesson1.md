@@ -17,6 +17,13 @@ Approximately 2 hours.
 
 ### Readings ###
 
+_Course Notebook_
+
+- Explore the course [Multivariate Regression][mvregress] IPython
+Notebook on the course JupyterHub server.
+
+_Other Material_
+
 - Introduction of [Wikipedia article on Linear Regression][wlr] (feel free to read more).
 - [Simple Linear Regression][bglr] by using Python, including a discussion
 of the fit statistics. Note there is an IPython notebook available at
@@ -46,6 +53,8 @@ _Safari Online Books_
 
 When you have completed and worked through the above readings, please take the [Week 2 Lesson 1 Assessment][wa]
 
+[mvregress]: notebooks/mvregress.ipynb
+
 [bpsm]: http://connor-johnson.com/2014/02/18/linear-regression-with-python/
 [bglr]: http://www.datarobot.com/blog/ordinary-least-squares-in-python/
 [mr]: http://www.datarobot.com/blog/multiple-regression-using-statsmodels/
@@ -55,3 +64,4 @@ When you have completed and worked through the above readings, please take the [
 [isl]: http://www-bcf.usc.edu/~gareth/ISL/
 [esl]: http://statweb.stanford.edu/~tibs/ElemStatLearn/
 [wa]: https://learn.illinois.edu/mod/quiz/view.php?id=1325230
+

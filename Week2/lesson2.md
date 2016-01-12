@@ -19,6 +19,13 @@ Approximately 2 hours.
 
 ### Readings ####
 
+_Course Notebook_
+
+- Explore the course [Introduction to Regularization][regularization]
+IPython Notebook on the course JupyterHub server.
+
+_Other Material_
+
 - [Regularized Linear Regression][rlr] using Python. Note there is an
 IPython notebook available at the end of the blog post.
 - Introduction and Motivation sections of the [Wikipedia article on Lasso][wlas] (feel free to read more).
@@ -39,6 +46,8 @@ _Safari Online Books_
 ### Assessment ###
 
 When you have completed and worked through the above readings, please take the [Week 2 Lesson 2 Assessment][wa]
+
+[regularization]: notebooks/regularization.ipynb
 
 [rlr]: http://www.datarobot.com/blog/regularized-linear-regression-with-scikit-learn/
 [isl]: http://www-bcf.usc.edu/~gareth/ISL/

@@ -31,10 +31,10 @@ the course.
 
 |Activity|Time Estimate|Deadline|Points|
 |-----|---|---|---|
-|[Course Overview Video][OV]|15 Minutes|*Following* Saturday|20|
-|[Course Information and Resources (Syllabus)](syllabus.md)|1 Hour|*Following* Saturday|NA|
-|[Orientation Quiz][OQ]| 30 minutes | *Following* Saturday | 70|
-|[Pre-Class Activity: Introduce Yourself](Pre-Class_Activity.md)|60 Minutes|*Following* Saturday|60|
+|[Course Overview Video][OV]|15 Minutes|*The following* Saturday|20|
+|[Course Information and Resources (Syllabus)](syllabus.md)|1 Hour|*The following* Saturday|NA|
+|[Orientation Quiz][OQ]| 30 minutes | *The following* Saturday | 70|
+|[Pre-Class Activity: Introduce Yourself](Pre-Class_Activity.md)|60 Minutes|*The following* Saturday|60|
 
 You also should logon to the [course server][cs], and locate, run, and
 explore the [Introduction to IPython](notebooks/intro2ipy.ipynb)
