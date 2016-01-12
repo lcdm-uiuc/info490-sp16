@@ -1,5 +1,7 @@
 #Week 2 Overview#
 
+![Draft](../images/Draft_Version_picture.png)
+
 ## Introduction to Regression ##
 
 In this week, you will build on previous material to develop more

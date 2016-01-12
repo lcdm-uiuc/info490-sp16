@@ -1,5 +1,7 @@
 #Week QQ Overview#
 
+![Draft](../images/Draft_Version_picture.png)
+
 ## XXX ##
 
 This week you will XYZ.

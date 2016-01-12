@@ -1,4 +1,18 @@
-#Week 1: Introduction to Machine Learning #
+#Week 1 Overview#
+
+![Draft](../images/Draft_Version_picture.png)
+
+## Introduction to Machine Learning ##
+
+In this week, you will learn basic concepts about machine learning,
+including the basic Python libraries that we will use repeatedly
+throughout this course. This includes learning how to use `scikit-learn`
+to perform different types of machine learning as well as the
+`scikit-learn` and `statsmodel` libraries to perform regression. We also
+will explore the important, and oftne overlooked task, of data
+pre-processing. This includes handling missing or invalid data,
+computation of dates, and understanding the data provenance.
+
 ### Objectives ###
 
 #####By the end of this lesson, you should be able to:######

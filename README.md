@@ -1,5 +1,7 @@
 # Welcome to INFO 490: Advanced Data Science #
 
+![Draft](./images/Draft_Version_picture.png)
+
 ***Professor:*** Dr. Robert Brunner
 
 ***Teaching Assistant:***  Edward Kim
