@@ -21,10 +21,14 @@ Approximately 2 hours.
 
 ### Readings ####
 
+_Course Notebook_
+- Explore the course [Introduction to Machine Learning][intro2ml] IPython Notebook on the course JupyterHub server.
+
+_Other Material_
+
 - An introduction to [the basic concepts of Machine Learning](http://machinelearningmastery.com/basic-concepts-in-machine-learning/)
 - The _Problem Setting_ section, from the [scikit learn Tutorial](http://scikit-learn.org/stable/tutorial/basic/tutorial.html#machine-learning-the-problem-setting)
 - Read [A Few Useful Things to Know about Machine Learning](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
-- Explore the course [Introduction to Machine Learning][intro2ml] IPython Notebook on the course JupyterHub server.
 
 #### *Optional Additional Readings*####
 

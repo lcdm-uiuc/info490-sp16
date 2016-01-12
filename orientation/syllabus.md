@@ -73,6 +73,32 @@ quizzes, your answers must of course be your own. For further info, see
 the [Student Code, Part 4. Academic
 Integrity](http://www.admin.illinois.edu/policy/code/article_1/a1_1-401.html).
 
+## Communication ##
+
+The instructional staff will use the [Announcement Forum][af] on the
+course Moodle to communicate important course information. Do not
+unsubscribe from this forum or you risk missing important news!
+
+The preferred method for student communication in this course is to use
+the [Q&A Forum][qaf] on the course Moodle. The instructional staff monitors this
+forum and will respond in less than 24 hours (in general we will respond
+even faster than this, especially during normal business hours).
+Furthermore, your fellow students may be able to help even faster. We
+also encourage you to search this forum prior to making a new post since
+your question may have already been answered.  You can search a forum on
+Moodle by using the __Search forums__ tool that is located on the upper
+right corner of any Moodle forum.
+
+If you have a question (that is not answered in this syllabus nor on the
+online course forums) you can email the instructional staff, however,
+this should be a last resort. If we feel the question is best answered
+on the [Q&A Forum][qaf], we reserve the right to post your question and
+our answer on Moodle. Also, note the information contained in the
+__Point Reductions__ section of this syllabus.
+
+[qaf]: https://learn.illinois.edu/mod/forum/view.php?id=1325062
+[af]: https://learn.illinois.edu/mod/forum/view.php?id=1325059
+
 ## Course Outline ##
 
 Note: The following list of topics is tentative. We build the course

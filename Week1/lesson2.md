@@ -19,6 +19,10 @@ Approximately 2 hours.
 
 ### Readings ####
 
+_Course Notebook_
+- Explore the course [Introduction to Data Pre-Processing][intro2data] IPython Notebook on the course JupyterHub server.
+
+_Other Material_
 - Read [Data, Learning, and Modeling](http://machinelearningmastery.com/data-learning-and-modeling/)
 - Read [What do I do](http://simplystatistics.org/2014/06/13/what-i-do-when-i-get-a-new-data-set-as-told-through-tweets/)
 - Read the [Quartz guide to Bad Data](https://github.com/Quartz/bad-data-guide)

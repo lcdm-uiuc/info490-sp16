@@ -36,9 +36,10 @@ the course.
 |[Orientation Quiz][OQ]| 30 minutes | *Following* Saturday | 70|
 |[Pre-Class Activity: Introduce Yourself](Pre-Class_Activity.md)|60 Minutes|*Following* Saturday|60|
 
-You also logon to the [course server][cs], locate, run, and explore with
-the [Introduction to IPython](notebooks/intro2ipy.ipynb) notebook to
-become familiar with working on the course JupyterHub server.
+You also should logon to the [course server][cs], and locate, run, and
+explore the [Introduction to IPython](notebooks/intro2ipy.ipynb)
+notebook to become familiar with using notebooks on the course
+JupyterHub server.
 
 ## Tips for Success ##
 

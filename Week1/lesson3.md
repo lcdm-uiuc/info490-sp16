@@ -19,7 +19,10 @@ Approximately 2 hours.
 
 ### Readings ####
 
+_Course Notebook_
 - Explore the course [Introduction to Regression][intro2regress] IPython Notebook on the course JupyterHub server.
+
+_Other Material_
 - Read through Section 3 of [Chapter 7, Linear Regression][blr]
 
 #### *Optional Additional Readings*####
