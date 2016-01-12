@@ -31,10 +31,10 @@ the course.
 
 |Activity|Time Estimate|Deadline|Points|
 |-----|---|---|---|
-|[Course Overview Video][OV]|15 Minutes|Wednesday|20|
-|[Course Information and Resources (Syllabus)](syllabus.md)|1 Hour|Wednesday|NA|
+|[Course Overview Video][OV]|15 Minutes|*Following* Saturday|20|
+|[Course Information and Resources (Syllabus)](syllabus.md)|1 Hour|*Following* Saturday|NA|
 |[Orientation Quiz][OQ]| 30 minutes | Wednesday | 70|
-|[Pre-Class Activity: Introduce Yourself](Pre-Class_Activity.md)|30 Minutes|Wednesday|60|
+|[Pre-Class Activity: Introduce Yourself](Pre-Class_Activity.md)|60 Minutes|*Following* Saturday|60|
 
 
 ## Tips for Success ##

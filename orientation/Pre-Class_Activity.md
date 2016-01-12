@@ -32,7 +32,8 @@ next to your name in discussion forums, which is a great help to those
 individuals who can remember faces more readily than names. So, your
 first task is to update your Moodle profile.
 
-Here are [Instructions for Updating Your Moodle Profile](http://publish.illinois.edu/atlas-tlt/students/editing-your-profile/)
+Here are [Instructions for Updating Your Moodle 
+Profile](http://publish.illinois.edu/atlas-tlt/students/editing-your-profile/)
 
 ### Part 2: Introductions ###
 

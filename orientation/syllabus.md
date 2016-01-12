@@ -38,6 +38,14 @@ since assignments are automatically collected from your cloud-based
 Docker container, you must ensure that you push local changes to your
 course cloud Docker container prior to the deadline.
 
+As part of the orientation week activities, we have provided a demo
+[IPython Notebook](notebooks/intro2ip.ipynb) that you should use to get
+familiar with working in an IPython Notebook on the course JupyterHub
+server. Each week there will be an `index.ipynb` IPython Notebook that
+will give you access to the different course notebooks for that week,
+please use these on the course server to move through the course
+material.
+
 ## Texts ##
 
 There are no required textbooks for this course. Instead, we will
@@ -111,12 +119,10 @@ Each week there will be at least one instructor created video that will
 offer a broader context for the new week, explain key concepts, and
 demonstrate important tasks. To view the instructor videos, you will
 need to login to the Illinois Mediaspace (links are embedded in the
-relevant weekly overview, and as necessary in the appropriate lesson).
-You will be given twenty points for viewing each weekly instructor
-overview video, and ten points for viewing any instructor video that is
-part of a weekly lesson. In case you are wondering, Illinois Mediaspace
-tracks the viewing of course videos, so we know not only if you load a
-video, but how much of the video you actually watched.
+relevant weekly overview). You will be given twenty points for viewing
+each weekly instructor overview video. In case you are wondering,
+Illinois Mediaspace tracks the viewing of course videos, so we know not
+only if you load a video, but how much of the video you actually watched.
 
 ### Readings ###
 
@@ -147,24 +153,36 @@ by 6:00 PM Central on Thursday of that week.
 
 ### Assignments ###
 
+** Note: This section is still being finalized.**
+
 Every week but the first and last will contain an assignment that will
 involve one or more computational tasks related to the focus for that
 given week. Your assignment will be automatically collected at the
-deadline from the course server for instructor grading. However, you
-must submit your assignment for peer grading by using the Moodle
-Assignment tool. (Note we are exploring ways to do this within the
-course server and may update this process during the course).
+deadline from the course JupyterHub server. These assignments will be
+automatically graded for your instructor grade, and will also be
+randomly distributed for peer assessment. You will have **up to five**
+assignments to grade as part of peer assessment. You will receive thirty
+points for simply completing your peer assessment grades. Your peer
+assessment score will be worth a maximum of forty points, and we will
+drop the highest and lowest score and average the three remaining scores.
+
+<!--
+However, you must submit your assignment for peer grading by using the
+Moodle Assignment tool. (Note we are exploring ways to do this within
+the course server and may update this process during the course).
 
 Each week you will be given instructions on how to complete the
 assignment, as well as directions on exactly what you must submit to the
 course Moodle site. Generally this will be in the form of an IPython
-notebook. To receive full credit from instructor grading, your
-assignment must be submitted prior to the deadline. There will be a
-18-hour grace period, in which an assignment can be submitted, albeit
-with an automatic 50% reduction in the maximum possible score. After
-this grace period, no assignments will be accepted. The full credit
-assignment deadline is 6:00 PM Central on the Monday following the
-relevant week.
+notebook. 
+-->
+
+To receive full credit from instructor grading, your assignment must be
+submitted prior to the deadline. There will be a 18-hour grace period,
+in which an assignment can be submitted, albeit with an automatic 50%
+reduction in the maximum possible score. After this grace period, no
+assignments will be accepted. The full credit assignment deadline is
+6:00 PM Central on the Monday following the relevant week. 
 
 ### Peer Review ###
 
@@ -189,6 +207,9 @@ deadline, thus around 1:00 pm Tuesday afternoon of each week.
 |Peer Assessments | 40 points| 
 | **Total** |  **150** points |
 
+Note that we will *only* review clearly erroneous peer assessments (this
+means there needs to be a major problem).
+
 ### Weekly Quizzes ###
 
 In addition to the lesson quizzes, each week will conclude with a weekly
@@ -212,13 +233,11 @@ are no exams in this course.
 |Orientation Quiz|70|1|70|
 |Lesson Assessments|60|14 (Week 15 is only 20 points)|860|
 |Weekly Quizzes|70|14 (No quiz in Week 15)|980|
-|Weekly Overview Videos|20|16 (including the Orientation Week video)|320|
+|Weekly Overview Videos|20|16 (including the Orientation Week Video)|320|
 |Assignments (Weeks 2-14)|150|13 |1950|
 |***Total***|||***4240***|
 
-Note that this total does not include any lesson videos, which will
-increase the total points for that specific week, and the overall total.
-Finally, unlike past courses, we do not plan on dropping any weekly scores.
+Unlike past courses, we do not plan on dropping any weekly scores.
 
 ### Grading Scale ###
 
@@ -279,8 +298,8 @@ are due.
 | Lessons Completed | 3 | Thursday, 6:00 pm |
 | Lesson Assessments |  3 | Thursday, 6:00 pm |
 | Weekly Quiz  |  4 | Friday, 6:00 pm |
-| Assignment Collected  | 7 |  Monday, 6:00 pm |
-| Late Assignments Collected  | 8 |  Tuesday, 12:00 pm |
-| Assignments uploaded for Peer Assessment  | 8 |  Tuesday, 12:00 pm |
-| Assignments distributed for Peer Assessment  | 8 |  Tuesday, 1:00 pm |
-| Peer Assessment Deadline  | 12 |  Saturday, 6:00 pm |
+| Assignment Collected  | 7 |  *following* Monday, 6:00 pm |
+| Late Assignments Collected  | 8 |  *following* Tuesday, 12:00 pm |
+| Assignments uploaded for Peer Assessment  | 8 |  *following* Tuesday, 12:00 pm |
+| Assignments distributed for Peer Assessment  | 8 |  *following* Tuesday, 1:00 pm |
+| Peer Assessment Deadline  | 12 |  *following* Saturday, 6:00 pm |
