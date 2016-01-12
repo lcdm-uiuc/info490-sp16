@@ -96,8 +96,14 @@ on the [Q&A Forum][qaf], we reserve the right to post your question and
 our answer on Moodle. Also, note the information contained in the
 __Point Reductions__ section of this syllabus.
 
+Finally, we have created a [gitter room][gr] for this course. This is a
+completely public, real-time communication channel that you can also use
+to ask questions.
+
+
 [qaf]: https://learn.illinois.edu/mod/forum/view.php?id=1325062
 [af]: https://learn.illinois.edu/mod/forum/view.php?id=1325059
+[gr]: https://gitter.im/UI-DataScience/info490-sp16
 
 ## Course Outline ##
 
