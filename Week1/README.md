@@ -15,7 +15,7 @@
 |**[Week 1 Lesson 1: Intro to Machine Learning](lesson1.md)**| 2 Hours |Thursday| 20|
 |**[Week 1 Lesson 2: Machine Learning: Pre-processing](lesson2.md)**| 2 Hours | Thursday | 20 |
 |**[Week 1 Lesson 3: Introduction to Linear Regression](lesson3.md)**| 2 Hours | Thursday| 20 |
-|**[Week 1 Quiz][w1q]**| 30 Minutes | Friday | 40|
+|**[Week 1 Quiz][w1q]**| 45 Minutes | Friday | 40|
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!
 

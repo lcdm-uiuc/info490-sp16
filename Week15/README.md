@@ -16,8 +16,8 @@ This week you will XYZ.
 
 |Activities and Assignments | Time Estimate | Deadline* | Points|
 |:------| -----|-------|----------:|
-|**[Week 15 Introduction Video][w15v]**|10 Minutes|Monday |20|
-|**[Week 15 Lesson 1: XYZ](lesson1.md)**| 2 Hours |Tuesday| 20|
+|**[Week 15 Introduction Video][w15v]**| 10 Minutes | Tuesday |20|
+|**[Week 15 Lesson 1: XYZ](lesson1.md)**| 2 Hours | Thursday| 20|
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!*
 

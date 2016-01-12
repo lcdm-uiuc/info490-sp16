@@ -20,13 +20,12 @@ This week you will XYZ.
 |**[Week QQ Lesson 1: XXXXXX](lesson1.md)**| 2 Hours |Thursday| 20|
 |**[Week QQ Lesson 2: YYYYYY](lesson2.md)**| 2 Hours | Thursday | 20 |
 |**[Week QQ Lesson 3: ZZZZZZ](lesson3.md)**| 2 Hours | Thursday| 20 |
-|**[Week QQ Quiz][wq]**| 35 Minutes | Friday | 70|
-|**[Week QQ Assignment Submission][wa]**| 4 Hours | *The following* Monday | 80 Instructor, 70 Peer grading | 
-|**Week QQ Completion of Peer Review**| 2 Hours | *The following* Saturday | 50 | 
+|**[Week QQ Quiz][wq]**| 45 Minutes | Friday | 70|
+|**Week QQ Assignment Submission**| 4 Hours | *The following* Monday | 80 Instructor, 40 Peer | 
+|**Week QQ Completion of Peer Review**| 2 Hours | *The following* Saturday | 30 | 
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!*
 
 ----------
-[wv]: https://mediaspace.illinois.edu/media/Week+Three/0_rjhxhl68
-[wa]: https://learn.illinois.edu/mod/workshop/view.php?id=1095182
+[wv]: https://mediaspace.illinois.edu/media/
 [wq]: https://learn.illinois.edu/mod/quiz/view.php?id=1095179
