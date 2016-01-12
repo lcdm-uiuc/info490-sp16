@@ -334,6 +334,7 @@ are due.
 | Weekly Quiz  |  4 | Friday, 6:00 pm |
 | Assignment Collected  | 7 |  *The following* Monday, 6:00 pm |
 | Late Assignments Collected  | 8 |  *The following* Tuesday, 12:00 pm |
-<!--| Assignments uploaded for Peer Assessment  | 8 |  *The following* Tuesday, 12:00 pm | -->
 | Assignments distributed for Peer Assessment  | 8 |  *The following* Tuesday, 1:00 pm |
 | Peer Assessment Deadline  | 12 |  *The following* Saturday, 6:00 pm |
+
+<!--| Assignments uploaded for Peer Assessment  | 8 |  *The following* Tuesday, 12:00 pm | -->
