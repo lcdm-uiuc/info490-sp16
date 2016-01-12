@@ -36,6 +36,9 @@ the course.
 |[Orientation Quiz][OQ]| 30 minutes | Wednesday | 70|
 |[Pre-Class Activity: Introduce Yourself](Pre-Class_Activity.md)|60 Minutes|*Following* Saturday|60|
 
+You also should play with the [Introduction to
+IPython](notebooks/intro2ip.ipynb) notebook to become familiar with
+working on the course JupyterHub server.
 
 ## Tips for Success ##
 
