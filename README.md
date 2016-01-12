@@ -1,5 +1,7 @@
 # Welcome to INFO 490: Advanced Data Science #
 
+[![Join the chat at https://gitter.im/UI-DataScience/info490-sp16](https://badges.gitter.im/UI-DataScience/info490-sp16.svg)](https://gitter.im/UI-DataScience/info490-sp16?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ***Professor:*** Dr. Robert Brunner
 
 ***Teaching Assistant:***  Edward Kim
