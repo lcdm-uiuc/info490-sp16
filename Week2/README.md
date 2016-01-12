@@ -2,10 +2,10 @@
 
 ![Draft](../images/Draft_Version_picture.png)
 
-## Introduction to Regression ##
+## General Linear Models ##
 
 In this week, you will build on previous material to develop more
-powerful techniques for computing regression models by using Python.
+powerful techniques for computing general linear models by using Python.
 First, you will learn how to develop models that include multiple
 variables by performing multiple regression. You also will learn abut
 the different metrics that quantify how well a regression model
