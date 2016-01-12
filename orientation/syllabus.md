@@ -179,7 +179,7 @@ by 6:00 PM Central on Thursday of that week.
 
 ### Assignments ###
 
-** Note: This section is still being finalized.**
+**Note: This section is still being finalized.**
 
 Every week but the first and last will contain an assignment that will
 involve one or more computational tasks related to the focus for that
@@ -188,9 +188,9 @@ deadline from the course JupyterHub server. These assignments will be
 automatically graded for your instructor grade, and will also be
 randomly distributed for peer assessment. You will have **up to five**
 assignments to grade as part of peer assessment. You will receive thirty
-points for simply completing your peer assessment grades. Your peer
-assessment score will be worth a maximum of forty points, and we will
-drop the highest and lowest score and average the three remaining scores.
+points for simply grading your peer's assignments. Your peer assessment
+score will be worth a maximum of forty points, and we will drop the
+highest and lowest score and average the three remaining scores.
 
 <!--
 However, you must submit your assignment for peer grading by using the
@@ -234,7 +234,9 @@ deadline, thus around 1:00 pm Tuesday afternoon of each week.
 | **Total** |  **150** points |
 
 Note that we will *only* review clearly erroneous peer assessments (this
-means there needs to be a major problem).
+means there needs to be a major problem). Review requests that are
+deemed insignificant are subject to an instructor determined point
+reduction.
 
 ### Weekly Quizzes ###
 
