@@ -1,9 +1,7 @@
 #Pre-Class Activity#
 
-This [activity is on
-Moodle](https://learn.illinois.edu/mod/forum/view.php?id=1095101), where
-the instructions are also shown along with the actual forum where you
-can complete these tasks.
+This [activity is on Moodle][pca], where the instructions are also shown
+along with the actual forum where you can complete these tasks.
 
 ## Introduce Yourself##
 
@@ -57,3 +55,6 @@ classmates to see what they have added to their profile.
 ## Evaluation ##
 
 60 points total: (30 points for initial post; 30 points for reply).
+
+-----
+[pca]: https://learn.illinois.edu/mod/forum/view.php?id=1325053

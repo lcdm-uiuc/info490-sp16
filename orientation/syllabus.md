@@ -235,8 +235,8 @@ deadline, thus around 1:00 pm Tuesday afternoon of each week.
 
 Note that we will *only* review clearly erroneous peer assessments (this
 means there needs to be a major problem). Review requests that are
-deemed insignificant are subject to an instructor determined point
-reduction.
+deemed insignificant are subject to an *instructor determined point
+reduction*.
 
 ### Weekly Quizzes ###
 
