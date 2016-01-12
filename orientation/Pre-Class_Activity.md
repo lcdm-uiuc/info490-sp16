@@ -45,7 +45,7 @@ introduction to your classmates. In your post, please consider the following que
 - What type of data are you interested in exploring in more detail?
 - What experience do you have with cloud computing?
 
-Post your self-introduction by clicking the `Add a new discussion topic` button, below.
+Post your self-introduction by clicking the `Add a new discussion topic` button.
 
 Read your classmates’ postings. Pick at least one of your classmates’
 postings that is most interesting to you and add your friendly comments.

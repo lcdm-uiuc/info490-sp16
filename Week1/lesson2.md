@@ -44,5 +44,5 @@ _Safari Online Books_
 When you have completed and worked through the above readings, please
 take the [Week 1 Lesson 2 Assessment](https://learn.illinois.edu/mod/quiz/view.php?id=1325221)
 
-
+[intro2data] : notebooks/intro2data.ipynb
 
