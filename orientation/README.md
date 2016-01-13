@@ -36,10 +36,21 @@ the course.
 |[Orientation Quiz][OQ]| 30 minutes | *The following* Saturday | 70|
 |[Pre-Class Activity: Introduce Yourself](Pre-Class_Activity.md)|60 Minutes|*The following* Saturday|60|
 
-You also should logon to the [course server][cs], and locate, run, and
-explore the [Introduction to IPython](notebooks/intro2ipy.ipynb)
-notebook to become familiar with using notebooks on the course
-JupyterHub server.
+In this course, we will be using a JupyterHub server that is running on
+the CS department's cloud computing system. To access this system, you
+must be on the University network. If you wish to work off campus, you
+must first VPN into campus. To learn how to connect to this server, and
+how to work with the course material, you should logon to the [course
+server][cs], and locate, run, and explore the [Introduction to
+IPython](notebooks/intro2ipy.ipynb) notebook to become familiar with
+using notebooks on the course JupyterHub server. 
+
+To logon on to the server, you will need to authenticate via Shibboleth.
+Next, you will click on the `My Server` button. This will give you a
+Jupyter Server interface, which should be familiar to you from the
+previous INFO490 course. Note that we include read only copies of the
+data and course material and writeable versions so you can experiment
+and learn.
 
 ## Tips for Success ##
 
