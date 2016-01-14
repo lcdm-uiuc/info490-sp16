@@ -1,4 +1,4 @@
-#Week 1 Overview#
+# Week 1 Overview#
 
 ![Draft](../images/Draft_Version_picture.png)
 
@@ -15,7 +15,7 @@ computation of dates, and understanding the data provenance.
 
 ### Objectives ###
 
-#####By the end of this lesson, you should be able to:######
+##### By the end of this lesson, you should be able to:######
 
 - Know the basics concepts that underlie machine learning.
 - Understand the importance of data preparation to enable a succesful machine learning analysis.
