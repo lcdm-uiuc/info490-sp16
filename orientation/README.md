@@ -1,4 +1,4 @@
-#Mandatory Orientation Module#
+# Mandatory Orientation Module#
 
 In this module, you will become familiar with the course, your
 instructor, your classmates, and our learning environment.
@@ -8,7 +8,7 @@ instructor, your classmates, and our learning environment.
 This orientation module should take approximately 1-2 hours of dedicated
 time to complete.
 
-##Objectives##
+## Objectives##
 
 The goal of the orientation module is to familiarize you with the course
 structure and the online learning environment. The orientation also
@@ -39,7 +39,8 @@ the course.
 In this course, we will be using a JupyterHub server that is running on
 the CS department's cloud computing system. To access this system, you
 must be on the University network. If you wish to work off campus, you
-must first VPN into campus. To learn how to connect to this server, and
+must first [VPN](https://techservices.illinois.edu/services/virtual-private-networking-vpn)
+into campus. To learn how to connect to this server, and
 how to work with the course material, you should logon to the [course
 server][cs], and locate, run, and explore the [Introduction to
 IPython](notebooks/intro2ipy.ipynb) notebook to become familiar with
