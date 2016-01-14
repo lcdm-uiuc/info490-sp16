@@ -1,4 +1,4 @@
-#Week 2 Overview#
+# Week 2 Overview#
 
 ![Draft](../images/Draft_Version_picture.png)
 
@@ -18,7 +18,7 @@ encodes a _Yes/No_ result.
 
 ### Objectives ###
 
-#####By the end of this lesson, you should be able to:######
+##### By the end of this lesson, you should be able to:######
 
 - Understand how to perform regression on multiple variables by using Python.
 - Understand the concept of regularization and be able to apply it to regression problems by using Python.
