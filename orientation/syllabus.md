@@ -5,8 +5,6 @@ science by employing a practical approach, including machine learning;
 probabilistic programming; text, network, and graph analysis; and cloud
 computing.
 
-![Draft](../images/Draft_Version_picture.png)
-
 ## Course Goals ##
 
 Upon completion of this course, students will be expected to understand
