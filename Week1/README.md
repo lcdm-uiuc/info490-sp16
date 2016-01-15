@@ -1,7 +1,5 @@
 # Week 1 Overview#
 
-![Draft](../images/Draft_Version_picture.png)
-
 ## Introduction to Machine Learning ##
 
 In this week, you will learn basic concepts about machine learning,
@@ -34,5 +32,5 @@ computation of dates, and understanding the data provenance.
 *Please note that unless otherwise noted, the due time is 6pm Central time!
 
 ----------
-[w1v]: https://mediaspace.illinois.edu/
+[w1v]: https://mediaspace.illinois.edu/media/Week+One/1_468j2lqy/38493712
 [w1q]: https://learn.illinois.edu/mod/quiz/view.php?id=1325077
