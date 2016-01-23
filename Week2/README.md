@@ -1,7 +1,5 @@
 # Week 2 Overview#
 
-![Draft](../images/Draft_Version_picture.png)
-
 ## General Linear Models ##
 
 In this week, you will build on previous material to develop more
