@@ -38,4 +38,4 @@ encodes a _Yes/No_ result.
 
 ----------
 [w2q]: https://learn.illinois.edu/mod/quiz/view.php?id=1325080
-[w2v]: https://mediaspace.illinois.edu/
+[w2v]: https://mediaspace.illinois.edu/media/Week+Two/1_5yj9bsvf
