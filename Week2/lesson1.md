@@ -19,7 +19,7 @@ Approximately 2 hours.
 
 _Course Notebook_
 
-- Explore the course [Multivariate Regression][mvregress] IPython
+- Explore the course [Multiple Variable Linear Regression][mvregress] IPython
 Notebook on the course JupyterHub server.
 
 _Other Material_
