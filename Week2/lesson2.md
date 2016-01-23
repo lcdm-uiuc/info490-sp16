@@ -28,8 +28,12 @@ _Other Material_
 
 - [Regularized Linear Regression][rlr] using Python. Note there is an
 IPython notebook available at the end of the blog post.
-- Introduction and Motivation sections of the [Wikipedia article on Lasso][wlas] (feel free to read more).
-- Introduction and History sections of the [Wikipedia article on Ridge Regression][wrid] (feel free to read more).
+- Introduction and Motivation sections of the [Wikipedia article on
+Lasso][wlas] (feel free to read more).
+- Introduction and History sections of the [Wikipedia article on Ridge
+Regression][wrid] (feel free to read more).
+- Discusion on [Bias-Variance Tradeoff][dbv], which is an important
+factor in reducing the likelihood of overfitting (or underfitting).
 
 #### *Optional Additional Readings*####
 
@@ -55,3 +59,4 @@ When you have completed and worked through the above readings, please take the [
 [wlas]: https://en.wikipedia.org/wiki/Lasso_(statistics)
 [wrid]: https://en.wikipedia.org/wiki/Tikhonov_regularization
 [wa]: https://learn.illinois.edu/mod/quiz/view.php?id=1325233
+[dbv]: http://scott.fortmann-roe.com/docs/BiasVariance.html
