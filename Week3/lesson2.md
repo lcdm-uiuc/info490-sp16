@@ -24,45 +24,45 @@ IPython Notebook on the course JupyterHub server.
 
 _Other Material_
 
-- Dato Blog post on [classification metrics][bcm]
-- Wikipedia Article on [classification metrics][wcm]
-- A discussion of [using k-nn][yknn]
-- An introduction to [k-nearest neighbors][knnb]
+- An introductory discussion on [using SVM][isvm].
+- A [simple introduction][sisvm] to svm
+- [Understanding SVM][usvm] with code
+- An overview of the [math behind SVM][msvm]
 
 ## Optional Readings ##
 
-- Scikit Learn [knn][sknn] documentation
-- Discussion of [using knn in scikit learn][dknn]
-- Kaggle Video Blog post on [Using k-NN][kknnb]
+- Scikit Learn [svm][ssvm] documentation
+- Tutorial on [SVM][tsvm]
+- (Advanced) Blog post on [Using SVM][absvm]
 
-- Section 2.2 (KNN Subsection) from [Introduction to Statistical Learning][isl]  by
+- Chapter 9 from [Introduction to Statistical Learning][isl]  by
 Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
-- Section 13.3 from [Elements of Statistical Learning][esl] by Trevor
+- Chapter 12 from [Elements of Statistical Learning][esl] by Trevor
 Hastie, Robert Tibshirani, and Jerome Friedman. Note this text is rather
 mathematical in nature.
 
 _Safari Online Books_
 
-- **Chapter 12: k-Nearest Neighbors** from _Data Science from Scratch_, by Joel Grus.
-- First three sections in **Chapter 6. Similarity, Neighbors, and
-Clusters** from _Data Science for Business_ by Foster Provost and Tom
-Fawcett.
+- **Section 9.3: Support Vector Machines** from _Data Mining: Concepts
+and Techniques_, 3rd Edition by Jiawei Han, Micheline Kamber, and Jian
+Pei.
+
 
 ### Assessment ###
 
 When you have completed and worked through the above readings, please take the [Week 3 Lesson 2 Assessment][la]
 
 [l2nb]: notebooks/intro2knn.ipynb
-
 [la]: https://learn.illinois.edu/
 
-[bcm]: http://blog.dato.com/how-to-evaluate-machine-learning-models-part-2a-classification-metrics
-[wcm]: https://en.wikipedia.org/wiki/Precision_and_recall
-[sknn]: http://scikit-learn.org/stable/modules/neighbors.html
-[yknn]: http://blog.yhat.com/posts/classification-using-knn-and-python.html
-[knnb]: http://machinelearningmastery.com/tutorial-to-implement-k-nearest-neighbors-in-python-from-scratch/
-[kknnb]: http://blog.kaggle.com/2015/04/30/scikit-learn-video-4-model-training-and-prediction-with-k-nearest-neighbors/
+[isvm]: http://www.yaksis.com/posts/why-use-svm.html
+[msvm]: http://www.svm-tutorial.com/2014/11/svm-understanding-math-part-1/
+[ssvm]: http://scikit-learn.org/stable/modules/svm.html
+[tsvm]: http://research.microsoft.com/en-us/um/people/cburges/papers/svmtutorial.pdf
+[absvm]: https://www.quantstart.com/articles/Support-Vector-Machines-A-Guide-for-Beginners
+[sisvm]: http://www.analyticsvidhya.com/blog/2014/10/support-vector-machine-simplified/
+[usvm]: http://www.analyticsvidhya.com/blog/2015/10/understaing-support-vector-machine-example-code/
 
-[dknn]: http://bigdataexaminer.com/uncategorized/k-nearest-neighbors-and-curse-of-dimensionality-in-python-scikit-learn/
+
 [isl]: http://www-bcf.usc.edu/~gareth/ISL/
 [esl]: http://statweb.stanford.edu/~tibs/ElemStatLearn/
