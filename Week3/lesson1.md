@@ -25,6 +25,7 @@ IPython Notebook on the course JupyterHub server.
 _Other Material_
 
 - Dato Blog post on [classification metrics][bcm]
+- Dato Blog post on [regression metrics][brm]
 - Wikipedia Article on [classification metrics][wcm]
 - A discussion of [using k-nn][yknn]
 - An introduction to [k-nearest neighbors][knnb]
@@ -57,6 +58,7 @@ When you have completed and worked through the above readings, please take the [
 [la]: https://learn.illinois.edu/
 
 [bcm]: http://blog.dato.com/how-to-evaluate-machine-learning-models-part-2a-classification-metrics
+[brm]: http://blog.dato.com/how-to-evaluate-machine-learning-models-part-2b-ranking-and-regression-metrics
 [wcm]: https://en.wikipedia.org/wiki/Precision_and_recall
 [sknn]: http://scikit-learn.org/stable/modules/neighbors.html
 [yknn]: http://blog.yhat.com/posts/classification-using-knn-and-python.html
