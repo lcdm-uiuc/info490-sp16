@@ -1,15 +1,21 @@
 # Week 3 Lesson 3 #
 ## Supervised Learning: Naive Bayes ##
 
-In this lesson, you will XYZ. 
+In this lesson, you will learn about a third simple supervised learning
+technique known as Naive Bayes, or NB. Naive Bayes uses the probability
+for each Attribute belonging to a particular class to make predictions.
+The naive descriptor relates to the underlying assumption that these
+probabilities are independent, which is generally not the case. However,
+this assumption can often be used to easily obtain good results.
+
 
 ###Objectives ###
 
 By the end of this lesson, you will be able to:
 
-- A
-- B 
-- C
+- Understand the basic concepts behind the Naive Bayes algorithm
+- Be able to apply Naive Bayes by using the scikit learn library
+- Understand the class of problems that are appropriate for the Naive Bayes algorithm.
 
 ### Time Estimate ###
 
@@ -48,8 +54,8 @@ Pei.
 
 When you have completed and worked through the above readings, please take the [Week 3 Lesson 3 Assessment][la]
 
-[l3nb]: notebooks/intro2knn.ipynb
-[la]: https://learn.illinois.edu/
+[l3nb]: notebooks/intro2nb.ipynb
+[la]: https://learn.illinois.edu/XXXX
 
 [snb]: http://scikit-learn.org/stable/modules/naive_bayes.html
 [unb]: http://blog.yhat.com/posts/naive-bayes-in-python.html
