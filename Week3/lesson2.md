@@ -1,15 +1,20 @@
 # Week 3 Lesson 2 #
 ## Supervised Learning: Support Vector Machine ##
 
-In this lesson, you will XYZ. 
+In this lesson, you will learn about the supervised learning technique
+known as Support Vector Machine, or SVM. SVM has historically been a
+very popular machine learning algorithm since it is both fairly
+intuitive and rather powerful. SVM can be applied to both classification
+problems, where is may be called SVC, and to regression problems.  
 
 ###Objectives ###
 
 By the end of this lesson, you will be able to:
 
-- A
-- B 
-- C
+- Understand the basic concepts behind the SVM algorithm
+- Be able to apply SVM by using the scikit learn library
+- Understand how to use SVM for classification problems
+- Understand how to use SVM for regression problems
 
 ### Time Estimate ###
 
@@ -24,7 +29,7 @@ IPython Notebook on the course JupyterHub server.
 
 _Other Material_
 
-- An introductory discussion on [using SVM][isvm].
+- An introductory discussion on [using SVM][isvm]
 - A [simple introduction][sisvm] to svm
 - [Understanding SVM][usvm] with code
 - An overview of the [math behind SVM][msvm]
@@ -52,8 +57,8 @@ Pei.
 
 When you have completed and worked through the above readings, please take the [Week 3 Lesson 2 Assessment][la]
 
-[l2nb]: notebooks/intro2knn.ipynb
-[la]: https://learn.illinois.edu/
+[l2nb]: notebooks/intro2svm.ipynb
+[la]: https://learn.illinois.edu/XXX
 
 [isvm]: http://www.yaksis.com/posts/why-use-svm.html
 [msvm]: http://www.svm-tutorial.com/2014/11/svm-understanding-math-part-1/
