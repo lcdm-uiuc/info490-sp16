@@ -8,7 +8,6 @@ The naive descriptor relates to the underlying assumption that these
 probabilities are independent, which is generally not the case. However,
 this assumption can often be used to easily obtain good results.
 
-
 ###Objectives ###
 
 By the end of this lesson, you will be able to:
