@@ -38,4 +38,4 @@ compare the results of different machine learning algorithms.
 
 ----------
 [wv]: https://mediaspace.illinois.edu/media/XXXX
-[wq]: https://learn.illinois.edu/mod/quiz/YYYY
+[wq]: https://learn.illinois.edu/mod/quiz/view.php?id=1325086
