@@ -1,7 +1,5 @@
 #Week 3 Overview#
 
-![Draft](../images/Draft_Version_picture.png)
-
 ## Introduction to Supervised Learning ##
 
 In this week, you will learn about several basic supervised learning
@@ -37,5 +35,5 @@ compare the results of different machine learning algorithms.
 *Please note that unless otherwise noted, the due time is 6pm Central time!*
 
 ----------
-[wv]: https://mediaspace.illinois.edu/media/XXXX
+[wv]: https://mediaspace.illinois.edu/media/Week+Three.mp4/1_kqnpsa84/38493712
 [wq]: https://learn.illinois.edu/mod/quiz/view.php?id=1325086
