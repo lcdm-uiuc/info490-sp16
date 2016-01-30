@@ -24,7 +24,7 @@ Approximately 2 hours.
 
 _Course Notebook_
 
-- Explore the course [knn][l2nb]
+- Explore the course [SVM][l2nb]
 IPython Notebook on the course JupyterHub server.
 
 _Other Material_

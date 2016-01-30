@@ -24,18 +24,18 @@ Approximately 2 hours.
 
 _Course Notebook_
 
-- Explore the course [knn][l3nb]
+- Explore the course [Naive Bayes][l3nb]
 IPython Notebook on the course JupyterHub server.
 
 _Other Material_
 
-- An introduction to [naive Bayes][inb]
-- An blog introduction to [naive Bayes][bnb]
+- An introduction to [Naive Bayes][inb]
+- An blog introduction to [Naive Bayes][bnb]
 
 ## Optional Readings ##
 
 - Scikit Learn [NB][snb] documentation
-- Discussion on [improving naive Bayes][dinb]
+- Discussion on [improving Naive Bayes][dinb]
 - Discussion of [using NV][unb] for text processing.
 
 - Section 6.3.3 from [Elements of Statistical Learning][esl] by Trevor
