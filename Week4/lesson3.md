@@ -36,12 +36,12 @@ IPython Notebook on the course JupyterHub server.
 
 _Other Material_
 
+- Wikpedia article on [Boosting][wb]
 - A comparison between [Bagging and Boosting][cbb]
 - A blog detailing how to use [Gradient Boosted Trees][bgbt] with a corresponding [Notebook][ngbt]
 
 ## Optional Readings ##
 
-- Wikpedia article on [Boosting][wb]
 - Scikit Learn [Adaboost][sada] documentation
 - Scikit Learn [Gradient Tree Boosting][sgbt] documentation
 

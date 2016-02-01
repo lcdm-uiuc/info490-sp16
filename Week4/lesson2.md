@@ -36,17 +36,17 @@ IPython Notebook on the course JupyterHub server.
 
 _Other Material_
 
+- Wikpedia article on [Bagging][wb]
+
 - A short introduction to [Random Forests][frf]
 - A lengthy presentation on [Random Forests in Python][yrfp]
 
-- An introduction to random forests][arf1] Part I
-- An introduction to random forests][arf2] Part II
+- An [introduction to random forests][arf1] Part I
+- An [introduction to random forests][arf2] Part II
 
 ## Optional Readings ##
 
 - A Kaggle [discussion on random forests][krf]
-
-- Wikpedia article on [Bagging][wb]
 - Scikit Learn [Ensemble Techniques: Bagging][seba] documentation
 - An overview of [ensemble methods][ema].
 
