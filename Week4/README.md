@@ -5,7 +5,7 @@
 ## Tree Algorithms and Ensemble Techniques ##
 
 This week, you will learn about decision trees and ensemble techniques
-that often buiklt on tree algorithms to produce more robust machine
+that often built on tree algorithms to produce more robust machine
 learning predictions.
 
 ### Objectives ###
