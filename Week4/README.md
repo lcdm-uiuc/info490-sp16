@@ -6,15 +6,24 @@
 
 This week, you will learn about decision trees and ensemble techniques
 that often built on tree algorithms to produce more robust machine
-learning predictions.
+learning predictions. The two main ensemble approaches we will cover are
+bagging and boosting, which differ in how weak learners are created and
+combined. The random forest algorithm is an example of a bagging
+algorithm, which is extremely popular due to its flexibility and ease of
+use. Likewise, the gradient boosted tree algorithm (or the similar
+Adaboost algorithm) is an example of a popular boosting ensemble
+technique. This week, you will learn how to create decision trees, and
+how to leverage them to build bagging and boosted ensemble learners.
 
 ### Objectives ###
 
 #####By the end of this lesson, you should be able to:######
 
-- A
-- B 
-- C
+- Understand the decision tree algorithm
+- Understand the basic concept behind ensemble techniques
+- Know the difference between bagging and boosting.
+- Understand the random forest algorithm
+- Understand the gradient boosted tree algorithm
 
 ### Activities and Assignments ###
 
@@ -32,4 +41,4 @@ learning predictions.
 
 ----------
 [wv]: https://mediaspace.illinois.edu/media/
-[wq]: https://learn.illinois.edu/mod/quiz/view.php?id=1095179
+[wq]: https://learn.illinois.edu/mod/quiz/

@@ -45,10 +45,13 @@ _Other Material_
 ## Optional Readings ##
 
 - A Kaggle [discussion on random forests][krf]
+
+- Wikpedia article on [Bagging][wb]
 - Scikit Learn [Ensemble Techniques: Bagging][seba] documentation
 - An overview of [ensemble methods][ema].
 
 - Original [Random Forest][orf] article.
+
 - Sections 8.2.1 and 8.2.2 from [Introduction to Statistical Learning][isl]  by
 Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
 - Section 8.7 from [Elements of Statistical Learning][esl] by Trevor
@@ -58,11 +61,6 @@ mathematical in nature.
 _Safari Online Books_
 
 - The Random Forest section in **Chapter 17: Decision Trees** from _Data Science from Scratch_, by Joel Grus.
-
-- **Section 9.3: Support Vector Machines** from _Data Mining: Concepts
-and Techniques_, 3rd Edition by Jiawei Han, Micheline Kamber, and Jian
-Pei.
-
 
 ### Assessment ###
 
@@ -78,6 +76,8 @@ When you have completed and worked through the above readings, please take the [
 [arf1]: http://www.analyticsvidhya.com/blog/2014/06/introduction-random-forest-simplified/
 [arf2]: http://www.analyticsvidhya.com/blog/2015/09/random-forest-algorithm-multiple-challenges/
 [krf]: https://www.kaggle.com/c/titanic/details/getting-started-with-random-forests
+
+[wb]: https://en.wikipedia.org/wiki/Bootstrap_aggregating
 
 [orf]: http://www.stat.berkeley.edu/~breiman/randomforest2001.pdf
 [ema]: http://www.cs.ucl.ac.uk/fileadmin/UCL-CS/research/Research_Notes/RN_11_02.pdf
