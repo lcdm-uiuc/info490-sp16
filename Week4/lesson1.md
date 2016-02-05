@@ -56,7 +56,7 @@ When you have completed and worked through the above readings, please take the [
 
 [l1nb]: notebooks/intro2dt.ipynb
 
-[la]: https://learn.illinois.edu/mod/quiz/
+[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1325254
 
 [vdt]: http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
 [wdt]: https://en.wikipedia.org/wiki/Decision_tree
