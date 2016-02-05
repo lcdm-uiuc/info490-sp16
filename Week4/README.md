@@ -41,4 +41,4 @@ how to leverage them to build bagging and boosted ensemble learners.
 
 ----------
 [wv]: https://mediaspace.illinois.edu/media/
-[wq]: https://learn.illinois.edu/mod/quiz/
+[wq]: https://learn.illinois.edu/mod/quiz/view.php?id=1325092
