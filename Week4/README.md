@@ -1,7 +1,5 @@
 #Week 4 Overview#
 
-![Draft](../images/Draft_Version_picture.png)
-
 ## Tree Algorithms and Ensemble Techniques ##
 
 This week, you will learn about decision trees and ensemble techniques
@@ -40,5 +38,5 @@ how to leverage them to build bagging and boosted ensemble learners.
 *Please note that unless otherwise noted, the due time is 6pm Central time!*
 
 ----------
-[wv]: https://mediaspace.illinois.edu/media/
+[wv]: https://mediaspace.illinois.edu/media/Week+Four/0_2ntuw9us/38493712
 [wq]: https://learn.illinois.edu/mod/quiz/view.php?id=1325092
