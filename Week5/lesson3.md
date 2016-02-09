@@ -1,15 +1,16 @@
-# Week QQ Lesson 3 #
-## XXX YYY ZZZ ##
+# Week 5 Lesson 3 #
+## Unsupervised Learning: Density Estimation ##
 
-In this lesson, you will XYZ. 
+In this lesson, you will learn about 
 
 ###Objectives ###
 
 By the end of this lesson, you will be able to:
 
-- A
-- B 
-- C
+- Understand the basic concepts behind 
+- Understand the basic concepts behind 
+- Be able to apply XXXX by using the scikit learn library
+- Understand how to use these algorithms effectively for different types of learning problems.
 
 ### Time Estimate ###
 
@@ -19,28 +20,28 @@ Approximately 2 hours.
 
 _Course Notebook_
 
-- Explore the course [XXX][l3nb]
+- Explore the course [Introduction to Density Estimation][l2nb]
 IPython Notebook on the course JupyterHub server.
 
 _Other Material_
 
-- ABC
-- DEF
+- 
+-
 
 ## Optional Readings ##
 
-- GHI
-- JKL
 
-_Safari Online Books_
+- Chapter 6 from [Elements of Statistical Learning][esl] by Trevor
+Hastie, Robert Tibshirani, and Jerome Friedman. Note this text is rather
+mathematical in nature.
 
-- ???
- 
 ### Assessment ###
 
-When you have completed and worked through the above readings, please take the [Week QQ Lesson 3 Assessment][la]
+When you have completed and worked through the above readings, please take the [Week 5 Lesson 3 Assessment][la]
 
-----
-[l3nb]: notebooks/xxx.ipynb
+[l2nb]: notebooks/intro2de.ipynb
+[la]: https://learn.illinois.edu/mod/quiz/
 
-[la]: https://learn.illinois.edu/
+
+[isl]: http://www-bcf.usc.edu/~gareth/ISL/
+[esl]: http://statweb.stanford.edu/~tibs/ElemStatLearn/

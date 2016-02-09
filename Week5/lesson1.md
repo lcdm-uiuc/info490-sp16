@@ -1,15 +1,18 @@
-# Week QQ Lesson 1 #
-## XXX YYY ZZZ ##
+# Week 5 Lesson 1 #
+## Unsupervised Learning: Introduction to Dimension Reduction ##
 
-In this lesson, you will XYZ. 
+In this lesson, you will gain an introduction to Unsupervised Learning,
+specifically via dimension reduction. 
+
 
 ###Objectives ###
 
 By the end of this lesson, you will be able to:
 
-- A
-- B 
-- C
+- Understand the reasons for performing dimension reduction
+- Understand the basic concepts of Principal Component Analysis (PCA)
+- Be able to apply  PCA to a data set by using the scikit learn library
+- Be aware of alternative dimension reduction techniques including 
 
 ### Time Estimate ###
 
@@ -19,28 +22,48 @@ Approximately 2 hours.
 
 _Course Notebook_
 
-- Explore the course [XXX][l1nb]
+- Explore the course [PCA][l1nb]
 IPython Notebook on the course JupyterHub server.
 
 _Other Material_
 
-- ABC
-- DEF
+- A [simple introduction][spca] PCA
+- A [three step guide][bpca] to PCA.
 
 ## Optional Readings ##
 
-- GHI
-- JKL
+- A [gentle introduction][gipca], including the linear algebra required to understand PCA.
+
+- A [detailed coverage][crpca] of dimensional reduction techniques.
+
+- Sections 10.2 from [Introduction to Statistical Learning][isl]  by
+Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
+- Section 14.5 from [Elements of Statistical Learning][esl] by Trevor
+Hastie, Robert Tibshirani, and Jerome Friedman. Note this text is rather
+mathematical in nature.
 
 _Safari Online Books_
 
-- ???
- 
+- The _Dimensionality Reduction_ section in**Chapter 10: Working with Data** from _Data Science from Scratch_, by Joel Grus.
+- The _Dimensionality reduction_ section in **Chapter 3: The Data Science Pipeline** from _Python Data Science Essentials_, by Luca Massaron and Alberto Boschetti
+- **Chapter 14: Reducing Dimensionality** from _Python for Data Science For Dummies_, by John Paul Mueller and Luca Massaron.
+
+- **Chapter 17: Decision Trees** from _Data Science from Scratch_, by Joel Grus.
+- **Chapter 3. Introduction to Predictive Modeling** from _Data Science for Business_ by Foster Provost and Tom
+Fawcett.
+
 ### Assessment ###
 
-When you have completed and worked through the above readings, please take the [Week QQ Lesson 1 Assessment][la]
+When you have completed and worked through the above readings, please take the [Week 5 Lesson 1 Assessment][la]
 
-----
-[l1nb]: notebooks/xxx.ipynb
+[l1nb]: notebooks/intro2dr.ipynb
+[la]: https://learn.illinois.edu/mod/quiz/
 
-[la]: https://learn.illinois.edu/
+[bpca]: http://sebastianraschka.com/Articles/2014_pca_step_by_step.html
+[spca]: http://www.lauradhamilton.com/introduction-to-principal-component-analysis-pca
+
+[gipca]: http://www.cs.otago.ac.nz/cosc453/student_tutorials/principal_components.pdf
+[crpca]: http://disp.ee.ntu.edu.tw/~pujols/Dimensionality%20Reduction.pdf
+
+[isl]: http://www-bcf.usc.edu/~gareth/ISL/
+[esl]: http://statweb.stanford.edu/~tibs/ElemStatLearn/
