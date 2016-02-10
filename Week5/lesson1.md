@@ -2,8 +2,13 @@
 ## Unsupervised Learning: Introduction to Dimension Reduction ##
 
 In this lesson, you will gain an introduction to Unsupervised Learning,
-specifically via dimension reduction. 
-
+specifically via dimension reduction. Dimension reduction is used to
+identify the statistically most important dimensions in a data set,
+either for visualization (as we have been doing with the Iris data set)
+or further processing. In some cases, dimension reduction can be used
+for optimal feature selection. The most basic form of dimension
+reduction is principal component analysis, or PCA. We can apply PCA to
+a data set by using the scikit learn library.
 
 ###Objectives ###
 
@@ -12,7 +17,8 @@ By the end of this lesson, you will be able to:
 - Understand the reasons for performing dimension reduction
 - Understand the basic concepts of Principal Component Analysis (PCA)
 - Be able to apply  PCA to a data set by using the scikit learn library
-- Be aware of alternative dimension reduction techniques including 
+- Be aware of alternative dimension reduction techniques including
+incremental PCA< sparse PCA, and non-negative matrix factorization.
 
 ### Time Estimate ###
 

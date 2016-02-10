@@ -1,7 +1,15 @@
 # Week 5 Lesson 2 #
 ## Unsupervised Learning: Introduction to Clustering ##
 
-In this lesson, you will learn about the Unsupervised Learning technique of clustering.
+In this lesson, you will learn about the Unsupervised Learning technique
+of clustering. Cluster finding can be used to find groups or clusters
+(the difference between these is generally the size of the identified
+set of points, groups are smaller than clusters). Cluster finding is a
+very popular machine learning technique since it can be used to find
+related items in a much larger data set or to summarize data by focusing
+on the identified clusters as opposed to the much larger data. In this
+lesson, we focus on the two simple, yet popular cluster detection
+techniques: k-means and DBSCAN.   
 
 ###Objectives ###
 
@@ -37,6 +45,8 @@ _Other Material_
 - An introduction to [k-means in Python][ikmp]
 - Finding the [k in k-means in Python][fkkmp]
 
+- A *very* gentle guide to [cluster detection with Python][vsgc].
+
 - A sample chapter on [Clustering][bc-clust] from Introduction to Data Mining by Tan, Steinbach, and Kumar
 
 - Sections 10.3 from [Introduction to Statistical Learning][isl]  by
@@ -66,6 +76,8 @@ When you have completed and worked through the above readings, please take the [
 [vdbs]: http://www.naftaliharris.com/blog/visualizing-dbscan-clustering/
 
 [bpc]: http://blog.yhat.com/posts/customer-segmentation-using-python.html
+
+[vsgc]: http://guidetodatamining.com/assets/guideChapters/DataMining-ch8.pdf
 
 [wcl]: https://en.wikipedia.org/wiki/Cluster_analysis
 [wkm]: https://en.wikipedia.org/wiki/K-means_clustering
