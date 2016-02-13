@@ -8,7 +8,7 @@ set of points, groups are smaller than clusters). Cluster finding is a
 very popular machine learning technique since it can be used to find
 related items in a much larger data set or to summarize data by focusing
 on the identified clusters as opposed to the much larger data. In this
-lesson, we focus on the two simple, yet popular cluster detection
+lesson, we focus on two simple, yet popular cluster detection
 techniques: k-means and DBSCAN.   
 
 ###Objectives ###
@@ -41,12 +41,9 @@ _Other Material_
 
 - Wikpedia article on [k-means][wkm]
 - Wikpedia article on [DBSCAN][wdbs]
-
 - An introduction to [k-means in Python][ikmp]
 - Finding the [k in k-means in Python][fkkmp]
-
 - A *very* gentle guide to [cluster detection with Python][vsgc].
-
 - A sample chapter on [Clustering][bc-clust] from Introduction to Data Mining by Tan, Steinbach, and Kumar
 
 - Sections 10.3 from [Introduction to Statistical Learning][isl]  by

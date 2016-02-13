@@ -44,7 +44,6 @@ _Other Material_
 
 - Wikpedia article on [density estimation][wde]
 - Wikpedia article on [kernel density estimation][wde]
-
 - A comparison of different methods for [density estimation in Python][jde]
 
 - Chapter 6 from [Elements of Statistical Learning][esl] by Trevor

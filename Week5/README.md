@@ -1,7 +1,5 @@
 #Week 5 Overview#
 
-![Draft](../images/Draft_Version_picture.png)
-
 ## Introduction to Unsupervised Learning ##
 
 This week you will learn about unsupervised learning, where knowledge is
@@ -20,7 +18,7 @@ discrete data set, respectively.
 
 - Understand the basic concepts of dimension reduction and be able to apply PCA
 - Understand the basic principles of cluster detection and be able to apply k-means and DBSCAN
-- Understand the density estimation and be able to apply KDE
+- Understand density estimation and be able to apply KDE
 
 ### Activities and Assignments ###
 

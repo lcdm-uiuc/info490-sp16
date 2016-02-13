@@ -54,9 +54,6 @@ _Safari Online Books_
 - The _Dimensionality reduction_ section in **Chapter 3: The Data Science Pipeline** from _Python Data Science Essentials_, by Luca Massaron and Alberto Boschetti
 - **Chapter 14: Reducing Dimensionality** from _Python for Data Science For Dummies_, by John Paul Mueller and Luca Massaron.
 
-- **Chapter 17: Decision Trees** from _Data Science from Scratch_, by Joel Grus.
-- **Chapter 3. Introduction to Predictive Modeling** from _Data Science for Business_ by Foster Provost and Tom
-Fawcett.
 
 ### Assessment ###
 
