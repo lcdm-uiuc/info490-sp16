@@ -18,7 +18,7 @@ By the end of this lesson, you will be able to:
 - Understand the basic concepts of Principal Component Analysis (PCA)
 - Be able to apply  PCA to a data set by using the scikit learn library
 - Be aware of alternative dimension reduction techniques including
-incremental PCA< sparse PCA, and non-negative matrix factorization.
+incremental PCA, sparse PCA, and non-negative matrix factorization.
 
 ### Time Estimate ###
 
@@ -53,7 +53,6 @@ _Safari Online Books_
 - The _Dimensionality Reduction_ section in**Chapter 10: Working with Data** from _Data Science from Scratch_, by Joel Grus.
 - The _Dimensionality reduction_ section in **Chapter 3: The Data Science Pipeline** from _Python Data Science Essentials_, by Luca Massaron and Alberto Boschetti
 - **Chapter 14: Reducing Dimensionality** from _Python for Data Science For Dummies_, by John Paul Mueller and Luca Massaron.
-
 
 ### Assessment ###
 
