@@ -35,5 +35,5 @@ discrete data set, respectively.
 *Please note that unless otherwise noted, the due time is 6pm Central time!*
 
 ----------
-[wv]: https://mediaspace.illinois.edu/media/
+[wv]: https://mediaspace.illinois.edu/media/Week+Five.mp4/1_hz006jca/38493712
 [wq]: https://learn.illinois.edu/mod/quiz/view.php?id=1325104
