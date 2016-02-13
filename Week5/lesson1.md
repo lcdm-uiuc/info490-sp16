@@ -59,7 +59,7 @@ _Safari Online Books_
 When you have completed and worked through the above readings, please take the [Week 5 Lesson 1 Assessment][la]
 
 [l1nb]: notebooks/intro2dr.ipynb
-[la]: https://learn.illinois.edu/mod/quiz/
+[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1325275
 
 [bpca]: http://sebastianraschka.com/Articles/2014_pca_step_by_step.html
 [spca]: http://www.lauradhamilton.com/introduction-to-principal-component-analysis-pca
