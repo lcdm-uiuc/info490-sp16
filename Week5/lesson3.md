@@ -44,7 +44,6 @@ _Other Material_
 
 - Wikpedia article on [density estimation][wde]
 - Wikpedia article on [kernel density estimation][wde]
-
 - A comparison of different methods for [density estimation in Python][jde]
 
 - Chapter 6 from [Elements of Statistical Learning][esl] by Trevor
@@ -56,7 +55,7 @@ mathematical in nature.
 When you have completed and worked through the above readings, please take the [Week 5 Lesson 3 Assessment][la]
 
 [l2nb]: notebooks/intro2de.ipynb
-[la]: https://learn.illinois.edu/mod/quiz/
+[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1325281
 
 [gde]: http://www.lancs.ac.uk/~struijke/density/index.html
 [sde]: http://ned.ipac.caltech.edu/level5/March02/Silverman/Silver_contents.html

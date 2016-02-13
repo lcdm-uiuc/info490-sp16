@@ -1,7 +1,5 @@
 #Week 5 Overview#
 
-![Draft](../images/Draft_Version_picture.png)
-
 ## Introduction to Unsupervised Learning ##
 
 This week you will learn about unsupervised learning, where knowledge is
@@ -20,7 +18,7 @@ discrete data set, respectively.
 
 - Understand the basic concepts of dimension reduction and be able to apply PCA
 - Understand the basic principles of cluster detection and be able to apply k-means and DBSCAN
-- Understand the density estimation and be able to apply KDE
+- Understand density estimation and be able to apply KDE
 
 ### Activities and Assignments ###
 
@@ -37,5 +35,5 @@ discrete data set, respectively.
 *Please note that unless otherwise noted, the due time is 6pm Central time!*
 
 ----------
-[wv]: https://mediaspace.illinois.edu/media/
-[wq]: https://learn.illinois.edu/mod/quiz/
+[wv]: https://mediaspace.illinois.edu/media/Week+Five.mp4/1_hz006jca/38493712
+[wq]: https://learn.illinois.edu/mod/quiz/view.php?id=1325104

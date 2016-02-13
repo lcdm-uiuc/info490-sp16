@@ -21,5 +21,8 @@ def confusion(test, predict, names, bins=3, title='Confusion Matrix'):
     
     sns.set(font_scale=2.0)
     hm.axes.set_title(title)
-    
+    hm.axes.set_xlabel('Predicted')
+    hm.axes.set_ylabel('Actual')
+    sns.set(font_scale=1.0)
+
     return None
