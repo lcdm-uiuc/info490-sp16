@@ -44,7 +44,7 @@ _Other Material_
 - An introduction to [k-means in Python][ikmp]
 - Finding the [k in k-means in Python][fkkmp]
 - A *very* gentle guide to [cluster detection with Python][vsgc].
-- A sample chapter on [Clustering][bc-clust] from Introduction to Data Mining by Tan, Steinbach, and Kumar
+- A sample chapter on [Clustering][bc-clust] from _Introduction to Data Mining_ by Tan, Steinbach, and Kumar
 
 - Sections 10.3 from [Introduction to Statistical Learning][isl]  by
 Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani

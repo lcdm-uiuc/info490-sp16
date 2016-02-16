@@ -23,24 +23,20 @@ _Course Notebook_
 - Explore the course [Recommender System][l1nb]
 IPython Notebook on the course JupyterHub server.
 
-
-Pearson
-cosine similarity
-distance measures
-
 _Other Material_
 
-https://en.wikipedia.org/wiki/Recommender_system
-- 
-http://magpiehall.com/apriori-algorithm/
+- An IBM developerWorks article [introducing recommender systems][ibm-rs]
+- Wikipedia article on [Recommender Systems][wrs]
+- Wikipedia article on [A Priori Algorithm][wap]
 
 ## Optional Readings ##
 
-- A 
-http://www.prem-melville.com/publications/recommender-systems-eml2010.pdf
+- A sample chapter on [Association Rules][bc-ar] from _Introduction to Data Mining_ by Tan, Steinbach, and Kumar
+- Wikipedia article on [Cosine Similarity][wcs]
+- Machine Learning Review of [Recommender Systems][rrs]
+- Python Blog on [Association Rules][bar] 
 
-http://aimotion.blogspot.com/2013/01/machine-learning-and-data-mining.html
-http://infolab.stanford.edu/~ullman/mmds/ch9.pdf
+- **Chapter 8: [Recommendation Systems][mmds-rs]** from _Mining Massive Datasets_ by Jure Leskovec, Anand Rajaraman, and Jeff Ullman
 
 _Safari Online Books_
 
@@ -56,3 +52,15 @@ When you have completed and worked through the above readings, please take the [
 
 [l1nb]: notebooks/intro2rs.ipynb
 [la]: https://learn.illinois.edu/mod/quiz/
+
+[wrs]: https://en.wikipedia.org/wiki/Recommender_system
+[wap]: https://en.wikipedia.org/wiki/Apriori_algorithm
+[wcs]: https://en.wikipedia.org/wiki/Cosine_similarity
+
+[rrs]: http://www.prem-melville.com/publications/recommender-systems-eml2010.pdf
+
+[bc-ar]: http://www-users.cs.umn.edu/~kumar/dmbook/ch6.pdf
+[bar]: http://aimotion.blogspot.com/2013/01/machine-learning-and-data-mining.html
+
+[ibm-rs]: http://www.ibm.com/developerworks/library/os-recommender1/index.html
+[mmds-rs]: http://infolab.stanford.edu/~ullman/mmds/ch9.pdf
