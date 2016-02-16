@@ -50,6 +50,14 @@ Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
 Hastie, Robert Tibshirani, and Jerome Friedman. Note this text is rather
 mathematical in nature.
 
+_Safari Online Books_
+
+- **Chapter 5.  Overfitting and Its Avoidance** from _Data Science for
+Business_ by Foster Provost and Tom Fawcett.
+- **Chapter 8.  Visualizing Model Performance** from _Data Science for
+Business_ by Foster Provost and Tom Fawcett.
+
+ 
 ### Assessment ###
 
 When you have completed and worked through the above readings, please take the [Week 6 Lesson 3 Assessment][la]
