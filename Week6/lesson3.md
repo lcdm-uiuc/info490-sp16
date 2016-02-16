@@ -1,15 +1,28 @@
-# Week QQ Lesson 3 #
-## XXX YYY ZZZ ##
+# Week 6 Lesson 3 #
+## Machine Learning: Practical Concepts ##
 
-In this lesson, you will XYZ. 
+In this lesson, you will learn about 
 
 ###Objectives ###
 
 By the end of this lesson, you will be able to:
 
-- A
-- B 
-- C
+- Understand the basic concepts behind 
+- Understand the basic concepts behind 
+- Be able to apply 
+- Understand how to 
+
+
+Pipelines
+Feature Selection
+Grid Search
+http://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html#parameter-tuning-using-grid-search
+
+Scaling
+Bias/Variance
+Validation/Learning Curves:
+PDSE: 6: Learning Curves
+
 
 ### Time Estimate ###
 
@@ -19,28 +32,32 @@ Approximately 2 hours.
 
 _Course Notebook_
 
-- Explore the course [XXX][l3nb]
+- Explore the course [Practical Concepts][l2nb]
 IPython Notebook on the course JupyterHub server.
 
 _Other Material_
 
-- ABC
-- DEF
+- 
+
 
 ## Optional Readings ##
 
-- GHI
-- JKL
+- Wikpedia article on [something][ws]
 
-_Safari Online Books_
+- Sections 10.3 from [Introduction to Statistical Learning][isl]  by
+Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
+- Section 14.3 from [Elements of Statistical Learning][esl] by Trevor
+Hastie, Robert Tibshirani, and Jerome Friedman. Note this text is rather
+mathematical in nature.
 
-- ???
- 
 ### Assessment ###
 
-When you have completed and worked through the above readings, please take the [Week QQ Lesson 3 Assessment][la]
+When you have completed and worked through the above readings, please take the [Week 6 Lesson 3 Assessment][la]
 
-----
-[l3nb]: notebooks/xxx.ipynb
+[l2nb]: notebooks/intro2pc.ipynb
+[la]: https://learn.illinois.edu/mod/quiz/
 
-[la]: https://learn.illinois.edu/
+[ws]: https://en.wikipedia.org/wiki/
+
+[isl]: http://www-bcf.usc.edu/~gareth/ISL/
+[esl]: http://statweb.stanford.edu/~tibs/ElemStatLearn/
