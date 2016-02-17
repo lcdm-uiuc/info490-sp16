@@ -55,7 +55,7 @@ _Other Material_
 - Documentation describing scikit learn [grid search][skgs]
 - Documentation describing scikit learn [validation/learning curves][sklc]
 
-_ _
+    
 
 - Sections 5.1 from [Introduction to Statistical Learning][isl]  by
 Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
