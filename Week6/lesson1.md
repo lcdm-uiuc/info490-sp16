@@ -1,16 +1,28 @@
 # Week 6 Lesson 1 #
 ## Machine Learning: Introduction to Recommender Systems ##
 
-In this lesson, you will 
+In this lesson, you will be introduced to recommendation systems. Anyone
+who has used Internet sites for shopping has been exposed to a
+recommendation system. For example, when you shop at Amazon, you will be
+given recommendations for items that are often bought together and also
+items that are similar to the current item of interest. The former is an
+example of user-based collaborative filtering, where the results from
+other _similar users_ are summarized to make recommendations/ The latter
+is an example of item-based collaborative filtering, where other
+_similar items_ are summarized to make recommendations. Recommendation
+systems are often easy to understand conceptually, since they can be
+develop from simple association rules (i.e., A goes with B) and have been
+frequently used with success by both traditional brick-n-mortar shops
+and online sites.
 
 ###Objectives ###
 
 By the end of this lesson, you will be able to:
 
-- Understand the 
-- Understand the 
-- Be able to apply 
-
+- Understand the difference between user and item based recommendation
+- Understand the basic concepts of the _a priori_ algorithm
+- Understand the basic concepts of frequent itemsets, their construction, and their use in making recommendations.
+- Be able to develop a simple recommendation algorithm. 
 
 ### Time Estimate ###
 
@@ -31,11 +43,11 @@ _Other Material_
 
 ## Optional Readings ##
 
-- A sample chapter on [Association Rules][bc-ar] from _Introduction to Data Mining_ by Tan, Steinbach, and Kumar
 - Wikipedia article on [Cosine Similarity][wcs]
 - Machine Learning Review of [Recommender Systems][rrs]
 - Python Blog on [Association Rules][bar] 
-
+-
+- **Chapter6: [Association Rules][bc-ar]** from _Introduction to Data Mining_ by Tan, Steinbach, and Kumar
 - **Chapter 8: [Recommendation Systems][mmds-rs]** from _Mining Massive Datasets_ by Jure Leskovec, Anand Rajaraman, and Jeff Ullman
 
 _Safari Online Books_
@@ -63,4 +75,5 @@ When you have completed and worked through the above readings, please take the [
 [bar]: http://aimotion.blogspot.com/2013/01/machine-learning-and-data-mining.html
 
 [ibm-rs]: http://www.ibm.com/developerworks/library/os-recommender1/index.html
+
 [mmds-rs]: http://infolab.stanford.edu/~ullman/mmds/ch9.pdf
