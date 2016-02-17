@@ -1,5 +1,7 @@
 #Week 6 Overview#
 
+![Draft](../images/Draft_Version_picture.png)
+
 ## Machine Learning ##
 
 This week you will build on previous lessons to learn about two specific
