@@ -46,7 +46,7 @@ _Other Material_
 - Wikipedia article on [Cosine Similarity][wcs]
 - Machine Learning Review of [Recommender Systems][rrs]
 - Python Blog on [Association Rules][bar] 
--
+
 - **Chapter6: [Association Rules][bc-ar]** from _Introduction to Data Mining_ by Tan, Steinbach, and Kumar
 - **Chapter 8: [Recommendation Systems][mmds-rs]** from _Mining Massive Datasets_ by Jure Leskovec, Anand Rajaraman, and Jeff Ullman
 
