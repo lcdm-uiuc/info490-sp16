@@ -1,15 +1,26 @@
 # Week 6 Lesson 2 #
-## Machine Learning: Introduction to Outlier Detection ##
+## Machine Learning: Introduction to Anomaly Detection ##
 
-In this lesson, you will    
+In this lesson, you will be introduced to the concept of anomaly
+detection. An anomaly is simple something that is unexpected or that
+does not conform to an expected pattern. Anomaly detection is the search
+for these events or observations in a (potentially) large data set.
+Anomaly detection is important in many fields, and is used to identify
+fraudulent transactions, imposters in social communities, errors in
+textual data, issues in medical data (e.g., images), or intrusions in
+network data. In some cases, we simple want to identify and remove
+outliers to improve the accuracy of a model. In other cases, we are
+actually interested in the outliers themselves. As a result, anomaly
+detection is a rich field with a number of different approaches
+available for use, including within the scikit learn library.
 
 ###Objectives ###
 
 By the end of this lesson, you will be able to:
 
-- Understand the basic concepts behind outlier detection
-- Understand the 
-- Be able to apply 
+- Understand the basic concept of an anomaly.
+- Understand the different types of anomalies, including outliers, novelties, or noise.
+- Be able to apply apply scikit learn to detect anomalies.
 
 ### Time Estimate ###
 
@@ -19,12 +30,12 @@ Approximately 2 hours.
 
 _Course Notebook_
 
-- Explore the course [Introduction to Outlier Detection][l2nb]
+- Explore the course [Introduction to Anomaly Detection][l2nb]
 IPython Notebook on the course JupyterHub server.
 
 _Other Material_
 
-- Wikpedia article on [Anomaly Detection][wad]
+- Wikipedia article on [Anomaly Detection][wad]
 - An overview of statistical approaches to the [Detection of Outliers][doo] by NIST
 - Through Section 1.2 of the [Anomaly Detection: A Survey][ads]
 
@@ -32,7 +43,7 @@ _Other Material_
 
 - Blog article from Sift Science on including [Decision Forests][df] in their fraud detection pipeline
 - The full text of [Anomaly Detection: A Survey][ads]
-- A recent book, [_Outlier Analysis][odb] by Charu Aggarwal
+- A recent book, **[Outlier Analysis][odb]** by Charu Aggarwal
 
 _Safari Online Books_
 
@@ -44,7 +55,7 @@ _Safari Online Books_
 
 When you have completed and worked through the above readings, please take the [Week 6 Lesson 2 Assessment][la]
 
-[l2nb]: notebooks/intro2od.ipynb
+[l2nb]: notebooks/intro2ad.ipynb
 [la]: https://learn.illinois.edu/mod/quiz/
 
 [doo]: http://www.itl.nist.gov/div898/handbook/eda/section3/eda35h.htm
