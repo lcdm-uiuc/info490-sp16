@@ -48,14 +48,15 @@ _Other Material_
 ## Optional Readings ##
 
 - Wikipedia article on [Cross-Validation][wcv]
-- Documentation describing scikit learn [pipelines][skp]
-- Documentation describing scikit learn [validation/learning curves][sklc]
-- Documentation describing scikit learn [grid search][skgs]
-- Documentation describing scikit learn [cross validation][skcv]
-- Documentation describing scikit learn [feature selection][skfs]
 - Documentation describing scikit learn [feature scaling][sksc]  
-  
-  
+- Documentation describing scikit learn [feature selection][skfs]
+- Documentation describing scikit learn [pipelines][skp]
+- Documentation describing scikit learn [cross validation][skcv]
+- Documentation describing scikit learn [grid search][skgs]
+- Documentation describing scikit learn [validation/learning curves][sklc]
+
+_ _
+
 - Sections 5.1 from [Introduction to Statistical Learning][isl]  by
 Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
 - Section 7.10 from [Elements of Statistical Learning][esl] by Trevor

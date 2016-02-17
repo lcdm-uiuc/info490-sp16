@@ -18,7 +18,7 @@ This week you will learn about
 |:------| -----|-------|----------:|
 |**[Week 6 Introduction Video][wv]** |10 Minutes|Tuesday|20|
 |**[Week 6 Lesson 1: Introduction to recommender systems](lesson1.md)**| 2 Hours |Thursday| 20|
-|**[Week 6 Lesson 2: Introduction to outlier detection](lesson2.md)**| 2 Hours | Thursday | 20 |
+|**[Week 6 Lesson 2: Introduction to anomaly detection](lesson2.md)**| 2 Hours | Thursday | 20 |
 |**[Week 6 Lesson 3: Practical Concepts](lesson3.md)**| 2 Hours | Thursday| 20 |
 |**[Week 6 Quiz][wq]**| 45 Minutes | Friday | 70|
 |**Week 6 Assignment Submission**| 4 Hours | *The following* Monday | 80 Instructor, 40 Peer | 
