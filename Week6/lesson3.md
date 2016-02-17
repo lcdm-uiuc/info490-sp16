@@ -1,16 +1,31 @@
 # Week 6 Lesson 3 #
 ## Machine Learning: Practical Concepts ##
 
-In this lesson, you will learn about 
+In this lesson, you will learn about several related practical concepts
+that can improve the performance of a machine learning application.
+First is feature scaling, which is used to change the distribution of
+values for each feature in order to more effectively compare different
+dimensions. Second is feature selection, which identifies the most
+important features in a data set for a particular machine learning
+approach. Third, is the concept of a pipeline where different components
+in the machine learning process can be combined to run more efficiently.
+Fourth is cross-validation, where multiple different train/test splits
+are used to explore the efficacy of an algorithm to all of the data.
+Fifth is the use of a grid search to identify optimal hyperparameters
+for a machine learning algorithm,. Finally, we look at validation and
+learning curves, which provide visual guidance on the effectiveness of a
+particular algorithm and parameter values.
 
 ###Objectives ###
 
 By the end of this lesson, you will be able to:
 
-- Understand the basic concepts behind 
-- Understand the basic concepts behind 
-- Be able to apply 
-- Understand how to 
+- Understand the basic concept of feature scaling and know when to use it.
+- Understand how to build a machine learning pipeline in scikit learn. 
+- Understand the basic techniques of feature selection
+- Understand the cross-validation and how it can improve your machine learning results.
+- Understand the validation and learning curves and how they can help improve machine learning results
+- Understand how to use grid search to perform machine learning parameter estimation.
 
 ### Time Estimate ###
 
@@ -25,24 +40,20 @@ IPython Notebook on the course JupyterHub server.
 
 _Other Material_
 
-- Wikpedia article on [Feature Scaling][wfs]
+- Wikipedia article on [Feature Scaling][wfs]
+- Wikipedia article on [Feature Selection][wfse]
 - Dato Blog post on [Validation and Testing][bvt]
 - Dato Blog post on [Hyperparameter Testing][bht]
-- Article on [Rescaling Data for ML][rdml]
-- Article on [Feature Selection for ML][fsml]
-- Documentation describing scikit learn [pipelines][skp]
-- Documentation describing scikit learn [validation/learning curves][sklc]
-
 
 ## Optional Readings ##
 
-- Wikpedia article on [Feature Selection][wfse]
-- Wikpedia article on [Cross-Validation][wcv]
-
+- Wikipedia article on [Cross-Validation][wcv]
+- Documentation describing scikit learn [pipelines][skp]
+- Documentation describing scikit learn [validation/learning curves][sklc]
 - Documentation describing scikit learn [grid search][skgs]
 - Documentation describing scikit learn [cross validation][skcv]
 - Documentation describing scikit learn [feature selection][skfs]
-- Documentation describing scikit learn [feature scaling][sksc]
+- Documentation describing scikit learn [feature scaling][sksc]  
 
 - Sections 5.1 from [Introduction to Statistical Learning][isl]  by
 Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
