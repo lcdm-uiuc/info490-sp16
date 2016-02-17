@@ -20,7 +20,7 @@ By the end of this lesson, you will be able to:
 
 - Understand the basic concept of an anomaly.
 - Understand the different types of anomalies, including outliers, novelties, or noise.
-- Be able to apply apply scikit learn to detect anomalies.
+- Be able to apply scikit learn to detect anomalies.
 
 ### Time Estimate ###
 
