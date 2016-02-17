@@ -54,7 +54,8 @@ _Other Material_
 - Documentation describing scikit learn [cross validation][skcv]
 - Documentation describing scikit learn [feature selection][skfs]
 - Documentation describing scikit learn [feature scaling][sksc]  
-
+  
+  
 - Sections 5.1 from [Introduction to Statistical Learning][isl]  by
 Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
 - Section 7.10 from [Elements of Statistical Learning][esl] by Trevor
