@@ -52,10 +52,8 @@ _Other Material_
 - Documentation describing scikit learn [feature selection][skfs]
 - Documentation describing scikit learn [pipelines][skp]
 - Documentation describing scikit learn [cross validation][skcv]
-- Documentation describing scikit learn [grid search][skgs]
-- Documentation describing scikit learn [validation/learning curves][sklc]
-
-    
+- Documentation describing scikit learn [grid search][skgs]  
+- Documentation describing scikit learn [validation/learning curves][sklc]  
 
 - Sections 5.1 from [Introduction to Statistical Learning][isl]  by
 Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
@@ -85,9 +83,6 @@ When you have completed and worked through the above readings, please take the [
 
 [bvt]: http://blog.dato.com/how-to-evaluate-ml-models-part-3-validation-and-offline-testing
 [bht]: http://blog.dato.com/how-to-evaluate-machine-learning-models-part-4-hyperparameter-tuning
-
-[rdml]: http://machinelearningmastery.com/rescaling-data-for-machine-learning-in-python-with-scikit-learn/
-[fsml]: http://machinelearningmastery.com/feature-selection-in-python-with-scikit-learn/
 
 [skfs]: http://scikit-learn.org/stable/modules/feature_selection.html
 [skcv]: http://scikit-learn.org/stable/modules/cross_validation.html
