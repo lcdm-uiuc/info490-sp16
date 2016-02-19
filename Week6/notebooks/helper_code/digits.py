@@ -74,9 +74,48 @@ def make_sevens():
   
     return(sevens)
 
+def make_fakes():
+    fakes = np.zeros((16, 64))
+    
+    for idx in range(fakes.shape[0]):
+        fake = np.zeros((8, 8))    
+        fakes[idx] = fake.ravel()
+
+    bar = np.zeros((8, 8)) 
+    bar[:,0] = 16
+    fakes[0] = bar.ravel()
+    fakes[1] = np.rot90(bar, 1).ravel()
+    fakes[2] = np.rot90(bar, 2).ravel()
+    fakes[3] = np.rot90(bar, 3).ravel()
+
+    ell = bar + np.rot90(bar, 1)
+    ell[ell > 16] = 16
+
+    fakes[4] = ell.ravel()
+    fakes[5] = np.rot90(ell, 1).ravel()
+    fakes[6] = np.rot90(ell, 2).ravel()
+    fakes[7] = np.rot90(ell, 3).ravel()
+
+    you = ell + np.rot90(bar, 1) + np.rot90(bar, 3)
+    you[you > 16] = 16
+
+    fakes[8] = you.ravel()
+    fakes[9] = np.rot90(you, 1).ravel()
+    fakes[10] = np.rot90(you, 2).ravel()
+    fakes[11] = np.rot90(you, 3).ravel()
+
+    atee = bar + np.roll(np.rot90(bar, 1), 4, axis=0)
+    atee[atee > 16] = 16
+
+    fakes[12] = atee.ravel()
+    fakes[13] = np.rot90(atee, 1).ravel()
+    fakes[14] = np.rot90(atee, 2).ravel()
+    fakes[15] = np.rot90(atee, 3).ravel()
+    
+    return(fakes)
+
 # Simple function to plot images of different numbers in a row
 def plot_numbers(numbers):
-
     size = len(numbers)
     plt.figure(figsize=(size,1))
     plt.title('Hello')
