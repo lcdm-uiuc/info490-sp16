@@ -56,7 +56,7 @@ _Safari Online Books_
 When you have completed and worked through the above readings, please take the [Week 6 Lesson 2 Assessment][la]
 
 [l2nb]: notebooks/intro2ad.ipynb
-[la]: https://learn.illinois.edu/mod/quiz/
+[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1325290
 
 [doo]: http://www.itl.nist.gov/div898/handbook/eda/section3/eda35h.htm
 
