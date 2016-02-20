@@ -37,12 +37,12 @@ _Other Material_
 
 - Wikipedia article on [Anomaly Detection][wad]
 - An overview of statistical approaches to the [Detection of Outliers][doo] by NIST
-- Through Section 1.2 of the [Anomaly Detection: A Survey][ads]
+- Through Section 1.2 of the [Anomaly Detection: A Survey][ads] (note you need to be on the campus network to access).
 
 ## Optional Readings ##
 
 - Blog article from Sift Science on including [Decision Forests][df] in their fraud detection pipeline
-- The full text of [Anomaly Detection: A Survey][ads]
+- The full text of [Anomaly Detection: A Survey][ads] (note you need to be on the campus network to access).
 - A recent book, **[Outlier Analysis][odb]** by Charu Aggarwal
 
 _Safari Online Books_
