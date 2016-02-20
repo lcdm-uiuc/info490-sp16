@@ -74,7 +74,7 @@ Business_ by Foster Provost and Tom Fawcett.
 When you have completed and worked through the above readings, please take the [Week 6 Lesson 3 Assessment][la]
 
 [l2nb]: notebooks/intro2pc.ipynb
-[la]: https://learn.illinois.edu/mod/quiz/
+[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1325293
 
 [wfs]: https://en.wikipedia.org/wiki/Feature_scaling
 [wfse]: https://en.wikipedia.org/wiki/Feature_selection
