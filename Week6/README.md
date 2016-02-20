@@ -44,4 +44,4 @@ performance of a machine learning technique.
 
 ----------
 [wv]: https://mediaspace.illinois.edu/media/
-[wq]: https://learn.illinois.edu/mod/quiz/
+[wq]: https://learn.illinois.edu/mod/quiz/view.php?id=1325113
