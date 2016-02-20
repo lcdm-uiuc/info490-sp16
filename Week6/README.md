@@ -1,7 +1,5 @@
 #Week 6 Overview#
 
-![Draft](../images/Draft_Version_picture.png)
-
 ## Machine Learning ##
 
 This week you will build on previous lessons to learn about two specific
@@ -43,5 +41,5 @@ performance of a machine learning technique.
 *Please note that unless otherwise noted, the due time is 6pm Central time!*
 
 ----------
-[wv]: https://mediaspace.illinois.edu/media/
+[wv]: https://mediaspace.illinois.edu/media/Week+Six.mp4/1_zjo1n3os/38493712
 [wq]: https://learn.illinois.edu/mod/quiz/view.php?id=1325113
