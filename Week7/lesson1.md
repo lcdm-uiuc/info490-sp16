@@ -42,12 +42,12 @@ _Other Material_
 - Introduction to [Natural Language Processing][inlp]
 - Wikipedia article on [Bag of Words][wbow] model
 - Wikipedia article on [Document Term Matrix][wdtm]
+- Gentle Introduction (in Python 2) to text analysis with Python, [part 1][nctap1] and [part 2][nctap2]
 
 ## Optional Readings ##
 
 - NY Times [article on NLP][nytnlp]
 - Wikipedia article on [Natural Language Processing][wnlp]
-- Gentle Introduction (in Python 2) to text analysis with Python, [part 1][nctap1] and [part 2][nctap2]
 - Kaggle tutorial on [Bag of Words][kbow]
 - Sections 2, 3, 5, and 6 from Chapter 1 of the free [NLTK version 3.0][nltk3] book
 
