@@ -56,7 +56,8 @@ _Safari Online Books_
 - **Chapter 1: Language Processing and Python** from _Natural Language Processing with Python_, by Steven Bird, Ewan Klein, and Edward Loper
 - **Chapter 2: Accessing Text Corpora and Lexical Resources** from _Natural Language Processing with Python_, by Steven Bird, Ewan Klein, and Edward Loper
 - **Chapter 3: Processing Raw Text** from _Natural Language Processing with Python_, by Steven Bird, Ewan Klein, and Edward Loper
-- **Chapter 1: Tokenizing Text and WordNet Basics** from __Python 3 Text Processing with NLTK 3 Cookbook_, by Jacob Perkins
+- **Chapter 1: Tokenizing Text and WordNet Basics** from _Python 3 Text Processing with NLTK 3 Cookbook_, by Jacob Perkins
+
 
 ### Assessment ###
 

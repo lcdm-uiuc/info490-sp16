@@ -35,6 +35,7 @@ _Other Material_
 
 - Overview of text mining in the [digital humanities][tudh]
 - Wikipedia article on [Text Mining][wtm]
+- Gentle Introduction (in Python 2) to text analysis with Python, [part 3][nctap3]
 - Blog on computing TF-IDF, [Part 1][btf1] and [Part II][btf2]
 - Blog on Sentiment Analysis with NLTK, [Part 1][bsa1] and [Part II][bsa2]
 
@@ -45,7 +46,6 @@ _Other Material_
 - Wikipedia article on [Stop Words][wsw]
 - [Text classification][sktc] using scikit learn
 - scikit learn documentation on [Text Feature Extraction][sktfe], sections 4.2.3.1 through 4.2.3.5
-- Gentle Introduction (in Python 2) to text analysis with Python, [part 3][nctap3]
 - Computing [Term Frequencies][ctf] in Python
 - Sections 3, 4, and 5 from Chapter 6 of the free [NLTK version 3.0][nltk3-6] book
 
