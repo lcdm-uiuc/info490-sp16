@@ -37,6 +37,8 @@ IPython Notebook on the course JupyterHub server.
 _Other Material_
 
 - Wikipedia article on [n-grams][wng]
+- Wikipedia article on [Stemming][wst]
+- Wikipedia article on [Lemmatisation][wl]
 - Google [n-gram viewer][gnv]
 - Alternative [n-gram viewer][anv]
 - Wikipedia article on [Text Clustering][wtc]
@@ -44,8 +46,7 @@ _Other Material_
 
 ## Optional Readings ##
 
-- Wikipedia article on [Stemming][wst]
-- Wikipedia article on [Lemmatisation][wl]
+
 - An online [Stemming Demo][std] using NLTK
 - A [treatise on Snowball][tsb] discussing, in depth, the process of stemming.
 - A discourse on [Dimension Reduction][msdr]
