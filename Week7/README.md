@@ -31,9 +31,9 @@ Python.
 |Activities and Assignments | Time Estimate | Deadline* | Points|
 |:------| -----|-------|----------:|
 |**[Week 7 Introduction Video][wv]** |10 Minutes|Tuesday|20|
-|**[Week 7 Lesson 1: Introduction to Text Analysis (Basic Concepts)](lesson1.md)**| 2 Hours |Thursday| 20|
-|**[Week 7 Lesson 2: Introduction to Text Analysis (Classification)](lesson2.md)**| 2 Hours | Thursday | 20 |
-|**[Week 7 Lesson 3: Introduction to Text Analysis (Text Mining)](lesson3.md)**| 2 Hours | Thursday| 20 |
+|**[Week 7 Lesson 1: Introduction to Text Analysis](lesson1.md)**| 2 Hours |Thursday| 20|
+|**[Week 7 Lesson 2: Introduction to Text Classification](lesson2.md)**| 2 Hours | Thursday | 20 |
+|**[Week 7 Lesson 3: Introduction to Text Mining](lesson3.md)**| 2 Hours | Thursday| 20 |
 |**[Week 7 Quiz][wq]**| 45 Minutes | Friday | 70|
 |**Week 7 Assignment Submission**| 4 Hours | *The following* Monday | 80 Instructor, 40 Peer | 
 |**Week 7 Completion of Peer Review**| 2 Hours | *The following* Saturday | 30 | 

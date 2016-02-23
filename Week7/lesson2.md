@@ -1,5 +1,5 @@
 # Week 7 Lesson 2 #
-## Introduction to Text Analysis: Classification ##
+## Introduction to Text Classification ##
 
 In this lesson, you will be introduced to  classifying text documents,
 including to perform sentiment analysis. To improve machine
@@ -28,7 +28,7 @@ Approximately 2 hours.
 
 _Course Notebook_
 
-- Explore the course [Introduction to Text Analysis: Classification][l2nb]
+- Explore the course [Introduction to Text Classification][l2nb]
 IPython Notebook on the course JupyterHub server.
 
 _Other Material_
@@ -58,7 +58,7 @@ _Safari Online Books_
 
 When you have completed and worked through the above readings, please take the [Week 7 Lesson 2 Assessment][la]
 
-[l2nb]: notebooks/intro2ad.ipynb
+[l2nb]: notebooks/intro2tc.ipynb
 [la]: https://learn.illinois.edu/mod/quiz/
 
 [tudh]: http://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/

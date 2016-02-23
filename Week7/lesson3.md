@@ -1,5 +1,5 @@
 # Week 7 Lesson 3 #
-## Introduction to Text Analysis: Text Mining ##
+## Introduction to Text Mining ##
 
 In this lesson, we will be build on previous concepts to produce more
 powerful text mining applications. First, we will introduce the concept
@@ -31,7 +31,7 @@ Approximately 2 hours.
 
 _Course Notebook_
 
-- Explore the course [Introduction to Text Analysis: Text Mining][l2nb]
+- Explore the course [Introduction to Text Mining][l3nb]
 IPython Notebook on the course JupyterHub server.
 
 _Other Material_
@@ -60,7 +60,7 @@ _Safari Online Books_
 
 When you have completed and worked through the above readings, please take the [Week 7 Lesson 3 Assessment][la]
 
-[l2nb]: notebooks/intro2ad.ipynb
+[l3nb]: notebooks/intro2tm.ipynb
 [la]: https://learn.illinois.edu/mod/quiz/
 
 [wst]: https://en.wikipedia.org/wiki/Stemming

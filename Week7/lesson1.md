@@ -1,5 +1,5 @@
 # Week 7 Lesson 1 #
-## Introduction to Text Analysis: Bag of Words ##
+## Introduction to Text Analysis ##
 
 In this lesson, you will be introduced to basic concepts in text
 analysis, starting with the conversion of a sequence of characters that
@@ -34,7 +34,7 @@ Approximately 2 hours.
 
 _Course Notebook_
 
-- Explore the course [Introduction to Text Analysis: Basic Concepts][l1nb]
+- Explore the course [Introduction to Text Analysis][l1nb]
 IPython Notebook on the course JupyterHub server.
 
 _Other Material_
@@ -62,7 +62,7 @@ _Safari Online Books_
 
 When you have completed and worked through the above readings, please take the [Week 7 Lesson 1 Assessment][la]
 
-[l1nb]: notebooks/intro2rs.ipynb
+[l1nb]: notebooks/intro2ta.ipynb
 [la]: https://learn.illinois.edu/mod/quiz/
 
 [inlp]: https://blog.monkeylearn.com/the-definitive-guide-to-natural-language-processing/
