@@ -1,5 +1,7 @@
 #Week 7 Overview#
 
+![Draft](../images/Draft_Version_picture.png)
+
 ## Introduction to Text Analysis ##
 
 This week you will start applying your new machine learning skills to
