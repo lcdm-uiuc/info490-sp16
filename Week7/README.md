@@ -1,7 +1,5 @@
 #Week 7 Overview#
 
-![Draft](../images/Draft_Version_picture.png)
-
 ## Introduction to Text Analysis ##
 
 This week you will start applying your new machine learning skills to
@@ -41,5 +39,5 @@ Python.
 *Please note that unless otherwise noted, the due time is 6pm Central time!*
 
 ----------
-[wv]: https://mediaspace.illinois.edu/media/
+[wv]: https://mediaspace.illinois.edu/media/Week+Seven/1_a9z3g6y9
 [wq]: https://learn.illinois.edu/mod/quiz/view.php?id=1325122
