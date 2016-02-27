@@ -62,7 +62,7 @@ _Safari Online Books_
 When you have completed and worked through the above readings, please take the [Week 7 Lesson 3 Assessment][la]
 
 [l3nb]: notebooks/intro2tm.ipynb
-[la]: https://learn.illinois.edu/mod/quiz/
+[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1325305
 
 [wst]: https://en.wikipedia.org/wiki/Stemming
 [wl]: https://en.wikipedia.org/wiki/Lemmatisation
