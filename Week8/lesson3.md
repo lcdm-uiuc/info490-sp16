@@ -42,13 +42,13 @@ _Other Material_
 _Safari Online Books_
 
 - **Chapter 5: Mining Web Pages** from _Mining the Social Web , 2nd Edition_, by Matthew A. Russell
-- **Web Scraping with Python**, by Ryan Mitchell
+- Entire Book: **Web Scraping with Python**, by Ryan Mitchell
 
 ### Assessment ###
 
 When you have completed and worked through the above readings, please take the [Week 8 Lesson 3 Assessment][la]
 
-[l3nb]: notebooks/.ipynb
+[l3nb]: notebooks/intro2smw.ipynb
 [la]: https://learn.illinois.edu/mod/quiz/
 
 [wws]: https://en.wikipedia.org/wiki/Web_scraping
