@@ -1,0 +1,172 @@
+Received: from uex135.ad.uillinois.edu (192.17.212.211) by
+ CITESHT1.ad.uillinois.edu (192.17.212.151) with Microsoft SMTP Server (TLS)
+ id 14.3.266.1; Sat, 27 Feb 2016 16:32:08 -0600
+Received: from uex131.ad.uillinois.edu (192.17.212.207) by
+ uex135.ad.uillinois.edu (192.17.212.211) with Microsoft SMTP Server (TLS) id
+ 15.0.1156.6; Sat, 27 Feb 2016 16:32:08 -0600
+Received: from pps05.cites.illinois.edu (192.17.82.72) by
+ uex131.ad.uillinois.edu (192.17.212.207) with Microsoft SMTP Server (TLS) id
+ 15.0.1156.6 via Frontend Transport; Sat, 27 Feb 2016 16:32:07 -0600
+Received: from mcron.learn.illinois.edu (mcron.learn.illinois.edu
+ [128.174.199.143])	by pps05.cites.illinois.edu (8.15.0.59/8.15.0.59) with
+ ESMTP id u1RMW8P7007942	for <xxxyyy@illinois.edu>; Sat, 27 Feb 2016 16:32:08
+ -0600
+Received: from mcron (mcron.learn.illinois.edu [128.174.199.143])	by
+ mcron.learn.illinois.edu (Postfix) with ESMTP id F14487ECAE	for
+ <xxxyyy@illinois.edu>; Sat, 27 Feb 2016 16:32:07 -0600 (CST)
+Date: Sat, 27 Feb 2016 16:32:07 -0600
+To: Robert Brunner <xxxyyy@illinois.edu>
+From: Robert Brunner <xxxyyy@illinois.edu>
+Subject: INFO 490 RB2 SP16: Re: w6p2 plot_validation_curve
+Message-ID: <ba3c42f5c7f050f4cec4f96d51d5420a59d15ee2f7e112865c803743d347343c@learn.illinois.edu>
+X-Mailer: PHPMailer Moodle 2014111009 (https://github.com/PHPMailer/PHPMailer/)
+List-Id: "Q &amp; A Forum" <moodleforum109621@learn.illinois.edu>
+List-Help: https://learn.illinois.edu/mod/forum/view.php?f=109621
+X-Course-Id: 15109
+X-Course-Name: INFO 490 RB2 SP16: Special Topics (Brunner, R)
+Precedence: Bulk
+X-Auto-Response-Suppress: All
+Auto-Submitted: auto-generated
+In-Reply-To: <a6f455db5c81ff47b86217b98be616b9549ffd3d45f983c048552abe51d34ead@learn.illinois.edu>
+References: <a6f455db5c81ff47b86217b98be616b9549ffd3d45f983c048552abe51d34ead@learn.illinois.edu>
+Content-Type: multipart/alternative;
+	boundary="b1_cc205708e3403827d21314caeae9f8de"
+X-Spam-Reason: safe
+Return-Path: atlasILMoodleAdmin@mx.uillinois.edu
+X-MS-Exchange-Organization-AuthSource: uex131.ad.uillinois.edu
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Organization-Antispam-Report: MessageSecurityAntispamBypass
+X-MS-Exchange-Organization-SCL: -1
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+MIME-Version: 1.0
+
+--b1_cc205708e3403827d21314caeae9f8de
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+INFO 490 RB2 SP16 -> Forums -> Q &amp; A Forum -> w6p2 plot_validation_curv=
+e
+https://learn.illinois.edu/mod/forum/discuss.php?d=3D937012
+---------------------------------------------------------------------
+Re: w6p2 plot_validation_curve
+by Robert Brunner - Saturday, 27 February 2016, 4:01 PM
+---------------------------------------------------------------------
+Let me re-empohasize that you should not only read, but run the course
+notebooks. They are probably the most important material each week, and
+often form the basis for homework assignments.=20
+
+Robert
+
+---------------------------------------------------------------------
+This=20is a copy of a message posted on the INFO 490 RB2 SP16 website.
+
+To reply click on this link:
+https://learn.illinois.edu/mod/forum/post.php?reply=3D2472898
+
+---------------------------------------------------------------------
+Unsubscribe from this forum:
+https://learn.illinois.edu/mod/forum/subscribe.php?id=3D109621
+
+---------------------------------------------------------------------
+Unsubscribe from this discussion:
+https://learn.illinois.edu/mod/forum/subscribe.php?id=3D109621&d=3D937012
+
+---------------------------------------------------------------------
+Change your forum digest preferences:
+https://learn.illinois.edu/mod/forum/index.php?id=3D15109
+
+
+
+--b1_cc205708e3403827d21314caeae9f8de
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: Quoted-printable
+
+<html><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8"></=
+head>
+<body id=3D"email">
+
+<div class=3D"navbar"><a target=3D"_blank" href=3D"https://urldefense.proof=
+point.com/v2/url?u=3Dhttps-3A__learn.illinois.edu_course_view.php-3Fid-3D15=
+109&amp;d=3DBQMFaQ&amp;c=3D8hUWFZcy2Z-Za5rBPlktOQ&amp;r=3DO_6ckC2-W1REgY_jB=
+F9kJ25-Hp-9sYdc1-HuZG5JGv8&amp;m=3DC7h8uWlb3pFRstaPaulcm_pBdaGVD9VPIoCqBl6J=
+8Cw&amp;s=3DxraOMefvweosH2x0RIH_wcTtekpXNr-0A8hCcRjRwwY&amp;e=3D">INFO 490 =
+RB2 SP16</a> =C2=BB <a target=3D"_blank" href=3D"https://urldefense.proofpo=
+int.com/v2/url?u=3Dhttps-3A__learn.illinois.edu_mod_forum_index.php-3Fid-3D=
+15109&amp;d=3DBQMFaQ&amp;c=3D8hUWFZcy2Z-Za5rBPlktOQ&amp;r=3DO_6ckC2-W1REgY_=
+jBF9kJ25-Hp-9sYdc1-HuZG5JGv8&amp;m=3DC7h8uWlb3pFRstaPaulcm_pBdaGVD9VPIoCqBl=
+6J8Cw&amp;s=3DC32sH23eVhFtGYqVnNXqrJBw8Z4mGC1gjJ8nBVVfopw&amp;e=3D">Forums<=
+/a> =C2=BB <a target=3D"_blank" href=3D"https://urldefense.proofpoint.com/v=
+2/url?u=3Dhttps-3A__learn.illinois.edu_mod_forum_view.php-3Ff-3D109621&amp;=
+d=3DBQMFaQ&amp;c=3D8hUWFZcy2Z-Za5rBPlktOQ&amp;r=3DO_6ckC2-W1REgY_jBF9kJ25-H=
+p-9sYdc1-HuZG5JGv8&amp;m=3DC7h8uWlb3pFRstaPaulcm_pBdaGVD9VPIoCqBl6J8Cw&amp;=
+s=3Dl-Pbtypq6XG66TdfcHGH1JlcfCinHy2OvrFmx_DVESw&amp;e=3D">Q &amp; A Forum</=
+a> =C2=BB <a target=3D"_blank" href=3D"https://urldefense.proofpoint.com/v2=
+/url?u=3Dhttps-3A__learn.illinois.edu_mod_forum_discuss.php-3Fd-3D937012&am=
+p;d=3DBQMFaQ&amp;c=3D8hUWFZcy2Z-Za5rBPlktOQ&amp;r=3DO_6ckC2-W1REgY_jBF9kJ25=
+-Hp-9sYdc1-HuZG5JGv8&amp;m=3DC7h8uWlb3pFRstaPaulcm_pBdaGVD9VPIoCqBl6J8Cw&am=
+p;s=3DNY3xE7oOWXkPTQdDvCZas9d3iMvG4_lNSumWsMGjXbY&amp;e=3D">w6p2 plot_valid=
+ation_curve</a></div><table border=3D"0" cellpadding=3D"3" cellspacing=3D"0=
+" class=3D"forumpost"><tr class=3D"header"><td width=3D"35" valign=3D"top" =
+class=3D"picture left"><a href=3D"https://urldefense.proofpoint.com/v2/url?=
+u=3Dhttps-3A__learn.illinois.edu_user_view.php-3Fid-3D1861-26course-3D15109=
+&amp;d=3DBQMFaQ&amp;c=3D8hUWFZcy2Z-Za5rBPlktOQ&amp;r=3DO_6ckC2-W1REgY_jBF9k=
+J25-Hp-9sYdc1-HuZG5JGv8&amp;m=3DC7h8uWlb3pFRstaPaulcm_pBdaGVD9VPIoCqBl6J8Cw=
+&amp;s=3DZwWvnXdH7VlFQ-10iSQaMEQoysOQJfZSJ1i0MZDp7zk&amp;e=3D"><img src=3D"=
+https://learn.illinois.edu/pluginfile.php/3519/user/icon/bootstrap_atlas/f2=
+?rev=3D1" alt=3D"Picture of Robert Brunner" title=3D"Picture of Robert Brun=
+ner" class=3D"userpicture" width=3D"35" height=3D"35"></a></td><td class=3D=
+"topic"><div class=3D"subject">Re: w6p2 plot_validation_curve</div><div cla=
+ss=3D"author">by <a href=3D"https://urldefense.proofpoint.com/v2/url?u=3Dht=
+tps-3A__learn.illinois.edu_user_view.php-3Fid-3D1861-26course-3D15109&amp;d=
+=3DBQMFaQ&amp;c=3D8hUWFZcy2Z-Za5rBPlktOQ&amp;r=3DO_6ckC2-W1REgY_jBF9kJ25-Hp=
+-9sYdc1-HuZG5JGv8&amp;m=3DC7h8uWlb3pFRstaPaulcm_pBdaGVD9VPIoCqBl6J8Cw&amp;s=
+=3DZwWvnXdH7VlFQ-10iSQaMEQoysOQJfZSJ1i0MZDp7zk&amp;e=3D">Robert Brunner</a>=
+ - Saturday, 27 February 2016, 4:01 PM</div></td></tr><tr><td class=3D"left=
+ side" valign=3D"top">&nbsp;</td><td class=3D"content"><p>Let me re-empohas=
+ize that you should not only read, but run the course notebooks. They are p=
+robably the most important material each week, and often form the basis for=
+ homework assignments.</p>
+<p>Robert</p><div class=3D"commands"><a target=3D"_blank" href=3D"https://u=
+rldefense.proofpoint.com/v2/url?u=3Dhttps-3A__learn.illinois.edu_mod_forum_=
+discuss.php-3Fd-3D937012-26parent-3D2472691&amp;d=3DBQMFaQ&amp;c=3D8hUWFZcy=
+2Z-Za5rBPlktOQ&amp;r=3DO_6ckC2-W1REgY_jBF9kJ25-Hp-9sYdc1-HuZG5JGv8&amp;m=3D=
+C7h8uWlb3pFRstaPaulcm_pBdaGVD9VPIoCqBl6J8Cw&amp;s=3D1V70eDI4_4DhuiYH95ioCJa=
+yOlpUY8yY7kzGSuryNWY&amp;e=3D">Show parent</a> | <a target=3D"_blank" href=
+=3D"https://urldefense.proofpoint.com/v2/url?u=3Dhttps-3A__learn.illinois.e=
+du_mod_forum_post.php-3Freply-3D2472898&amp;d=3DBQMFaQ&amp;c=3D8hUWFZcy2Z-Z=
+a5rBPlktOQ&amp;r=3DO_6ckC2-W1REgY_jBF9kJ25-Hp-9sYdc1-HuZG5JGv8&amp;m=3DC7h8=
+uWlb3pFRstaPaulcm_pBdaGVD9VPIoCqBl6J8Cw&amp;s=3Dgr6g8QpoUXzsx_yp5f51is4GWea=
+XHkH-mxckly-M1-E&amp;e=3D">Reply</a></div><div class=3D"link"><a target=3D"=
+_blank" href=3D"https://urldefense.proofpoint.com/v2/url?u=3Dhttps-3A__lear=
+n.illinois.edu_mod_forum_discuss.php-3Fd-3D937012-23p2472898&amp;d=3DBQMFaQ=
+&amp;c=3D8hUWFZcy2Z-Za5rBPlktOQ&amp;r=3DO_6ckC2-W1REgY_jBF9kJ25-Hp-9sYdc1-H=
+uZG5JGv8&amp;m=3DC7h8uWlb3pFRstaPaulcm_pBdaGVD9VPIoCqBl6J8Cw&amp;s=3DiUzzN1=
+YbBcAlzZE-JzCI8KV-7PA8TfuBhhvm4M49RiM&amp;e=3D">See this post in context</a=
+></div></td></tr></table>
+
+<hr><div class=3D"mdl-align unsubscribelink"><a href=3D"https://urldefense.=
+proofpoint.com/v2/url?u=3Dhttps-3A__learn.illinois.edu_mod_forum_subscribe.=
+php-3Fid-3D109621&amp;d=3DBQMFaQ&amp;c=3D8hUWFZcy2Z-Za5rBPlktOQ&amp;r=3DO_6=
+ckC2-W1REgY_jBF9kJ25-Hp-9sYdc1-HuZG5JGv8&amp;m=3DC7h8uWlb3pFRstaPaulcm_pBda=
+GVD9VPIoCqBl6J8Cw&amp;s=3D3CTno3MMMsWI3Iv_-xvgkHd7dNA41xYbQlzF0b2pJEw&amp;e=
+=3D">Unsubscribe from this forum</a>&nbsp;<a href=3D"https://urldefense.pro=
+ofpoint.com/v2/url?u=3Dhttps-3A__learn.illinois.edu_mod_forum_subscribe.php=
+-3Fid-3D109621-26d-3D937012&amp;d=3DBQMFaQ&amp;c=3D8hUWFZcy2Z-Za5rBPlktOQ&a=
+mp;r=3DO_6ckC2-W1REgY_jBF9kJ25-Hp-9sYdc1-HuZG5JGv8&amp;m=3DC7h8uWlb3pFRstaP=
+aulcm_pBdaGVD9VPIoCqBl6J8Cw&amp;s=3DTqS-XPIm5lgmgkbkke0X6DoSiMEhSFOOJsIgkzq=
+WFdM&amp;e=3D">Unsubscribe from this discussion</a>&nbsp;<a href=3D"https:/=
+/urldefense.proofpoint.com/v2/url?u=3Dhttps-3A__learn.illinois.edu_mod_foru=
+m_unsubscribeall.php&amp;d=3DBQMFaQ&amp;c=3D8hUWFZcy2Z-Za5rBPlktOQ&amp;r=3D=
+O_6ckC2-W1REgY_jBF9kJ25-Hp-9sYdc1-HuZG5JGv8&amp;m=3DC7h8uWlb3pFRstaPaulcm_p=
+BdaGVD9VPIoCqBl6J8Cw&amp;s=3DdaXm72i2FUnflFemifbqpKT__gQagHHB6gPkBjIyR34&am=
+p;e=3D">Unsubscribe from all forums</a>&nbsp;<a href=3D"https://urldefense.=
+proofpoint.com/v2/url?u=3Dhttps-3A__learn.illinois.edu_mod_forum_index.php-=
+3Fid-3D15109&amp;d=3DBQMFaQ&amp;c=3D8hUWFZcy2Z-Za5rBPlktOQ&amp;r=3DO_6ckC2-=
+W1REgY_jBF9kJ25-Hp-9sYdc1-HuZG5JGv8&amp;m=3DC7h8uWlb3pFRstaPaulcm_pBdaGVD9V=
+PIoCqBl6J8Cw&amp;s=3DC32sH23eVhFtGYqVnNXqrJBw8Z4mGC1gjJ8nBVVfopw&amp;e=3D">=
+Change your forum digest preferences</a></div></body>
+
+
+--b1_cc205708e3403827d21314caeae9f8de--

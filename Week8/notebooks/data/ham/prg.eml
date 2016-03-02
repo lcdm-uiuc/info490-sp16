@@ -1,0 +1,222 @@
+Received: from uex133.ad.uillinois.edu (192.17.212.209) by
+ CHIHT1.ad.uillinois.edu (64.22.177.16) with Microsoft SMTP Server (TLS) id
+ 14.3.266.1; Mon, 29 Feb 2016 10:55:43 -0600
+Received: from cex1311.ad.uillinois.edu (64.22.177.38) by
+ uex133.ad.uillinois.edu (192.17.212.209) with Microsoft SMTP Server (TLS) id
+ 15.0.1156.6; Mon, 29 Feb 2016 10:55:43 -0600
+Received: from pps08.cites.illinois.edu (192.17.82.103) by
+ cex1311.ad.uillinois.edu (64.22.177.38) with Microsoft SMTP Server (TLS) id
+ 15.0.1156.6 via Frontend Transport; Mon, 29 Feb 2016 10:55:43 -0600
+Received: from mcron.learn.illinois.edu (mcron.learn.illinois.edu
+ [128.174.199.143])	by pps08.cites.illinois.edu (8.15.0.59/8.15.0.59) with
+ ESMTP id u1TGtfwF012349	for <xxxyyy@illinois.edu>; Mon, 29 Feb 2016 10:55:43
+ -0600
+Received: from mcron (mcron.learn.illinois.edu [128.174.199.143])	by
+ mcron.learn.illinois.edu (Postfix) with ESMTP id 07E2C7EC38	for
+ <xxxyyy@illinois.edu>; Mon, 29 Feb 2016 10:55:43 -0600 (CST)
+Date: Mon, 29 Feb 2016 10:55:43 -0600
+To: Robert Brunner <xxxyyy@illinois.edu>
+From: Robert Brunner <xxxyyy@illinois.edu>
+Subject: INFO 490 RB2 SP16: Peer Review Grading
+Message-ID: <afef0ac2b5e9b22d5f07bcd8a9202b5895f456c1f5715d203dd276e5393223a0@learn.illinois.edu>
+X-Mailer: PHPMailer Moodle 2014111009 (https://github.com/PHPMailer/PHPMailer/)
+List-Id: "Announcements" <moodleforum109618@learn.illinois.edu>
+List-Help: https://learn.illinois.edu/mod/forum/view.php?f=109618
+X-Course-Id: 15109
+X-Course-Name: INFO 490 RB2 SP16: Special Topics (Brunner, R)
+Precedence: Bulk
+X-Auto-Response-Suppress: All
+Auto-Submitted: auto-generated
+Content-Type: multipart/alternative;
+	boundary="b1_ee307e99b45ee44b9b82bbdb29eb15a3"
+X-Spam-Reason: safe
+Return-Path: atlasILMoodleAdmin@mx.uillinois.edu
+X-MS-Exchange-Organization-AuthSource: cex1311.ad.uillinois.edu
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Organization-Antispam-Report: MessageSecurityAntispamBypass
+X-MS-Exchange-Organization-SCL: -1
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+MIME-Version: 1.0
+
+--b1_ee307e99b45ee44b9b82bbdb29eb15a3
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+INFO 490 RB2 SP16 -> Forums -> Announcements -> Peer Review Grading
+https://learn.illinois.edu/mod/forum/discuss.php?d=3D938611
+---------------------------------------------------------------------
+Peer Review Grading
+by Robert Brunner - Monday, 29 February 2016, 10:22 AM
+---------------------------------------------------------------------
+I have received several emails or private Moodle messages regarding peer
+grading. The basic context seems to be concern about losing a few points
+from one reviewer.=20
+
+To=20be clear, we do not intervene in Peer Assessment unless there has ben =
+an
+egregious violation. An example of this would be someone giving a zero and
+saying 'The code does not run' when it clearly does run. Or 'The code is
+empty' when the assignment was completed. Losing a few points occasionally
+will not lower your grade. And other than write the best code you possibly
+can and document it thoroughly, we do not have any advice!=20
+
+The=20point of peer review is two-fold:=20
+
+1)=20You get a chance to see how your peers completed an assignment. In som=
+e
+case, you might learn how to improve your own code, learn new coding
+tricks, or see ways that your coding style could improve.=20
+
+2)=20You have your code reviewed by your peers and obtain comments from the=
+m
+that (hopefully) will be constructive and help you improve your work. In
+some cases, a review might grade you lower than you like, or in seeming
+contrast to others.=20
+
+Learning=20to deal with situations like this is part of the course. You wil=
+l
+(probably) experience many of these situations later in your career, either
+via an interview (which is a form of peer assessment), in the workplace
+with pair coding or code reviews, or just via general interactions at
+conferences or public meetings. And if you ever release code online, expect
+comments and criticisms!=20
+
+Finally,=20please remember that this is a large online course, which Edward
+and I are building as the course is being offered. Please refrain from
+frivolous questions or peer assessment regrade requests; otherwise, we will
+be forced to invoke point reductions:=20
+
+https://github.com/UI-DataScience/info490-sp16/blob/master/orientation/syll=
+abus.md#point-reductions
+
+
+and=20also the special point reduction under the Peer Review section:=20
+
+https://github.com/UI-DataScience/info490-sp16/blob/master/orientation/syll=
+abus.md#peer-review
+
+
+Having=20said this, please understand we encourage valid questions; we do n=
+ot
+want to stifle the learning process.=20
+
+Robert=20
+
+=C2=A0
+
+---------------------------------------------------------------------
+This is a copy of a message posted on the INFO 490 RB2 SP16 website.
+
+To reply click on this link:
+https://learn.illinois.edu/mod/forum/post.php?reply=3D2477776
+
+---------------------------------------------------------------------
+Change your forum digest preferences:
+https://learn.illinois.edu/mod/forum/index.php?id=3D15109
+
+
+
+--b1_ee307e99b45ee44b9b82bbdb29eb15a3
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: Quoted-printable
+
+<html><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8"></=
+head>
+<body id=3D"email">
+
+<div class=3D"navbar"><a target=3D"_blank" href=3D"https://urldefense.proof=
+point.com/v2/url?u=3Dhttps-3A__learn.illinois.edu_course_view.php-3Fid-3D15=
+109&amp;d=3DBQMFaQ&amp;c=3D8hUWFZcy2Z-Za5rBPlktOQ&amp;r=3DO_6ckC2-W1REgY_jB=
+F9kJ25-Hp-9sYdc1-HuZG5JGv8&amp;m=3DgYTUNA_nqJH7sLR31Nt0DbtPC08xlWozFkhx4rjm=
+B9M&amp;s=3Dm5T6oKzMak6YY0JWwdJLRbtHekX2plOBZVUzElIkoR8&amp;e=3D">INFO 490 =
+RB2 SP16</a> =C2=BB <a target=3D"_blank" href=3D"https://urldefense.proofpo=
+int.com/v2/url?u=3Dhttps-3A__learn.illinois.edu_mod_forum_index.php-3Fid-3D=
+15109&amp;d=3DBQMFaQ&amp;c=3D8hUWFZcy2Z-Za5rBPlktOQ&amp;r=3DO_6ckC2-W1REgY_=
+jBF9kJ25-Hp-9sYdc1-HuZG5JGv8&amp;m=3DgYTUNA_nqJH7sLR31Nt0DbtPC08xlWozFkhx4r=
+jmB9M&amp;s=3DbA6Bc25b5EUiaV1CepFrRg3vjtHgoIv2kIeTmTPXjuM&amp;e=3D">Forums<=
+/a> =C2=BB <a target=3D"_blank" href=3D"https://urldefense.proofpoint.com/v=
+2/url?u=3Dhttps-3A__learn.illinois.edu_mod_forum_view.php-3Ff-3D109618&amp;=
+d=3DBQMFaQ&amp;c=3D8hUWFZcy2Z-Za5rBPlktOQ&amp;r=3DO_6ckC2-W1REgY_jBF9kJ25-H=
+p-9sYdc1-HuZG5JGv8&amp;m=3DgYTUNA_nqJH7sLR31Nt0DbtPC08xlWozFkhx4rjmB9M&amp;=
+s=3DiQ6fSH3TuLYp-awgLY9ZRt3g-ivSKSQgIlbsCBXn5rE&amp;e=3D">Announcements</a>=
+ =C2=BB <a target=3D"_blank" href=3D"https://urldefense.proofpoint.com/v2/u=
+rl?u=3Dhttps-3A__learn.illinois.edu_mod_forum_discuss.php-3Fd-3D938611&amp;=
+d=3DBQMFaQ&amp;c=3D8hUWFZcy2Z-Za5rBPlktOQ&amp;r=3DO_6ckC2-W1REgY_jBF9kJ25-H=
+p-9sYdc1-HuZG5JGv8&amp;m=3DgYTUNA_nqJH7sLR31Nt0DbtPC08xlWozFkhx4rjmB9M&amp;=
+s=3DH6IS8ugW_i7ZJ0gbpiK9kt50LABnyJdFAJltftJkD04&amp;e=3D">Peer Review Gradi=
+ng</a></div><table border=3D"0" cellpadding=3D"3" cellspacing=3D"0" class=
+=3D"forumpost"><tr class=3D"header"><td width=3D"35" valign=3D"top" class=
+=3D"picture left"><a href=3D"https://urldefense.proofpoint.com/v2/url?u=3Dh=
+ttps-3A__learn.illinois.edu_user_view.php-3Fid-3D1861-26course-3D15109&amp;=
+d=3DBQMFaQ&amp;c=3D8hUWFZcy2Z-Za5rBPlktOQ&amp;r=3DO_6ckC2-W1REgY_jBF9kJ25-H=
+p-9sYdc1-HuZG5JGv8&amp;m=3DgYTUNA_nqJH7sLR31Nt0DbtPC08xlWozFkhx4rjmB9M&amp;=
+s=3DQuPMNXl9dczRUqitLIgdH7V0LWer93xdz8q1L7lw5gE&amp;e=3D"><img src=3D"https=
+://learn.illinois.edu/pluginfile.php/3519/user/icon/bootstrap_atlas/f2?rev=
+=3D1" alt=3D"Picture of Robert Brunner" title=3D"Picture of Robert Brunner"=
+ class=3D"userpicture" width=3D"35" height=3D"35"></a></td><td class=3D"top=
+ic starter"><div class=3D"subject">Peer Review Grading</div><div class=3D"a=
+uthor">by <a href=3D"https://urldefense.proofpoint.com/v2/url?u=3Dhttps-3A_=
+_learn.illinois.edu_user_view.php-3Fid-3D1861-26course-3D15109&amp;d=3DBQMF=
+aQ&amp;c=3D8hUWFZcy2Z-Za5rBPlktOQ&amp;r=3DO_6ckC2-W1REgY_jBF9kJ25-Hp-9sYdc1=
+-HuZG5JGv8&amp;m=3DgYTUNA_nqJH7sLR31Nt0DbtPC08xlWozFkhx4rjmB9M&amp;s=3DQuPM=
+NXl9dczRUqitLIgdH7V0LWer93xdz8q1L7lw5gE&amp;e=3D">Robert Brunner</a> - Mond=
+ay, 29 February 2016, 10:22 AM</div></td></tr><tr><td class=3D"left side" v=
+align=3D"top">&nbsp;</td><td class=3D"content"><p>I have received several e=
+mails or private Moodle messages regarding peer grading. The basic context =
+seems to be concern about losing a few points from one reviewer.</p>
+<p>To be clear, we do not intervene in Peer Assessment unless there has ben=
+ an egregious violation. An example of this would be someone giving a zero =
+and saying 'The code does not run' when it clearly does run. Or 'The code i=
+s empty' when the assignment was completed. Losing a few points occasionall=
+y will not lower your grade. And other than write the best code you possibl=
+y can and document it thoroughly, we do not have any advice!</p>
+<p>The point of peer review is two-fold:</p>
+<p>1) You get a chance to see how your peers completed an assignment. In so=
+me case, you might learn how to improve your own code, learn new coding tri=
+cks, or see ways that your coding style could improve.</p>
+<p>2) You have your code reviewed by your peers and obtain comments from th=
+em that (hopefully) will be constructive and help you improve your work. In=
+ some cases, a review might grade you lower than you like, or in seeming co=
+ntrast to others.</p>
+<p>Learning to deal with situations like this is part of the course. You wi=
+ll (probably) experience many of these situations later in your career, eit=
+her via an interview (which is a form of peer assessment), in the workplace=
+ with pair coding or code reviews, or just via general interactions at conf=
+erences or public meetings. And if you ever release code online, expect com=
+ments and criticisms!</p>
+<p>Finally, please remember that this is a large online course, which Edwar=
+d and I are building as the course is being offered. Please refrain from fr=
+ivolous questions or peer assessment regrade requests; otherwise, we will b=
+e forced to invoke point reductions:</p>
+<p>https://github.com/UI-DataScience/info490-sp16/blob/master/orientation/s=
+yllabus.md#point-reductions</p>
+<p>and also the special point reduction under the Peer Review section:</p>
+<p>https://github.com/UI-DataScience/info490-sp16/blob/master/orientation/s=
+yllabus.md#peer-review</p>
+<p>Having said this, please understand we encourage valid questions; we do =
+not want to stifle the learning process.</p>
+<p>Robert</p>
+<p>&nbsp;</p><div class=3D"commands"><a target=3D"_blank" href=3D"https://u=
+rldefense.proofpoint.com/v2/url?u=3Dhttps-3A__learn.illinois.edu_mod_forum_=
+post.php-3Freply-3D2477776&amp;d=3DBQMFaQ&amp;c=3D8hUWFZcy2Z-Za5rBPlktOQ&am=
+p;r=3DO_6ckC2-W1REgY_jBF9kJ25-Hp-9sYdc1-HuZG5JGv8&amp;m=3DgYTUNA_nqJH7sLR31=
+Nt0DbtPC08xlWozFkhx4rjmB9M&amp;s=3DXC2jTGNGGVT3o48qTZ-pxUM40PJOnKjwYYQ9T1Im=
+YqI&amp;e=3D">Reply</a></div><div class=3D"link"><a target=3D"_blank" href=
+=3D"https://urldefense.proofpoint.com/v2/url?u=3Dhttps-3A__learn.illinois.e=
+du_mod_forum_discuss.php-3Fd-3D938611-23p2477776&amp;d=3DBQMFaQ&amp;c=3D8hU=
+WFZcy2Z-Za5rBPlktOQ&amp;r=3DO_6ckC2-W1REgY_jBF9kJ25-Hp-9sYdc1-HuZG5JGv8&amp=
+;m=3DgYTUNA_nqJH7sLR31Nt0DbtPC08xlWozFkhx4rjmB9M&amp;s=3DD60VY-nQ1oQLDrx3Hr=
+jnX5vRN--IgpP43fyX60Sp_Gw&amp;e=3D">See this post in context</a></div></td>=
+</tr></table>
+
+<hr><div class=3D"mdl-align unsubscribelink"><a href=3D"https://urldefense.=
+proofpoint.com/v2/url?u=3Dhttps-3A__learn.illinois.edu_mod_forum_index.php-=
+3Fid-3D15109&amp;d=3DBQMFaQ&amp;c=3D8hUWFZcy2Z-Za5rBPlktOQ&amp;r=3DO_6ckC2-=
+W1REgY_jBF9kJ25-Hp-9sYdc1-HuZG5JGv8&amp;m=3DgYTUNA_nqJH7sLR31Nt0DbtPC08xlWo=
+zFkhx4rjmB9M&amp;s=3DbA6Bc25b5EUiaV1CepFrRg3vjtHgoIv2kIeTmTPXjuM&amp;e=3D">=
+Change your forum digest preferences</a></div></body>
+
+
+--b1_ee307e99b45ee44b9b82bbdb29eb15a3--

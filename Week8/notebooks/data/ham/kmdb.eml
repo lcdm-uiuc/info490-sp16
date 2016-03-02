@@ -1,0 +1,191 @@
+Received: from uex131.ad.uillinois.edu (192.17.212.207) by
+ CHIHT1.ad.uillinois.edu (64.22.177.16) with Microsoft SMTP Server (TLS) id
+ 14.3.279.2; Mon, 22 Feb 2016 09:48:11 -0600
+Received: from uex132.ad.uillinois.edu (192.17.212.208) by
+ uex131.ad.uillinois.edu (192.17.212.207) with Microsoft SMTP Server (TLS) id
+ 15.0.1156.6; Mon, 22 Feb 2016 09:48:10 -0600
+Received: from pps08.cites.illinois.edu (192.17.82.103) by
+ uex132.ad.uillinois.edu (192.17.212.208) with Microsoft SMTP Server (TLS) id
+ 15.0.1156.6 via Frontend Transport; Mon, 22 Feb 2016 09:48:11 -0600
+Received: from mcron.learn.illinois.edu (mcron.learn.illinois.edu
+ [128.174.199.143])	by pps08.cites.illinois.edu (8.15.0.59/8.15.0.59) with
+ ESMTP id u1MFmB8n013816	for <xxxyyy@illinois.edu>; Mon, 22 Feb 2016 09:48:11
+ -0600
+Received: from mcron (mcron.learn.illinois.edu [128.174.199.143])	by
+ mcron.learn.illinois.edu (Postfix) with ESMTP id F2B447EC9C	for
+ <xxxyyy@illinois.edu>; Mon, 22 Feb 2016 09:48:10 -0600 (CST)
+Date: Mon, 22 Feb 2016 09:48:10 -0600
+To: Robert Brunner <xxxyyy@illinois.edu>
+From: Robert Brunner <xxxyyy@illinois.edu>
+Subject: INFO 490 RB2 SP16: Re: Some observations of K-Means and DBSCAN
+Message-ID: <f38d290dde3cbf4a78050de9784bfde0a1d53acec44ec23f1e79cccc7ce12de8@learn.illinois.edu>
+X-Mailer: PHPMailer Moodle 2014111009 (https://github.com/PHPMailer/PHPMailer/)
+List-Id: "Q &amp; A Forum" <moodleforum109621@learn.illinois.edu>
+List-Help: https://learn.illinois.edu/mod/forum/view.php?f=109621
+X-Course-Id: 15109
+X-Course-Name: INFO 490 RB2 SP16: Special Topics (Brunner, R)
+Precedence: Bulk
+X-Auto-Response-Suppress: All
+Auto-Submitted: auto-generated
+In-Reply-To: <a37508a1c4d626478e5a72e3ecbae97e3842e7349131a8242362699fd95cf68b@learn.illinois.edu>
+References: <a37508a1c4d626478e5a72e3ecbae97e3842e7349131a8242362699fd95cf68b@learn.illinois.edu>
+Content-Type: multipart/alternative;
+	boundary="b1_79aecec3cb608e624b80d3b80a88c8b0"
+X-Spam-Reason: safe
+Return-Path: atlasILMoodleAdmin@mx.uillinois.edu
+X-MS-Exchange-Organization-AuthSource: uex132.ad.uillinois.edu
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Organization-Antispam-Report: MessageSecurityAntispamBypass
+X-MS-Exchange-Organization-SCL: -1
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+MIME-Version: 1.0
+
+--b1_79aecec3cb608e624b80d3b80a88c8b0
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+INFO 490 RB2 SP16 -> Forums -> Q &amp; A Forum -> Some observations of K-Me=
+ans
+and DBSCAN
+https://learn.illinois.edu/mod/forum/discuss.php?d=3D926083
+---------------------------------------------------------------------
+Re: Some observations of K-Means and DBSCAN
+by Robert Brunner - Monday, 22 February 2016, 9:15 AM
+---------------------------------------------------------------------
+Daniel, This is an excellent discussion post. I am sorry no one responded
+to continue the thread.=20
+
+There=20are automated techniques for finding the value of k, but they are
+more complicated to run (which is always the tradeoff).=20
+
+I,=20personally, was quite impressed by the visual nature of the digit data
+set with these algorithms. The PCA clearly demonstrates how the pixels are
+combined to recover the signal in the specific digits. We will see this
+again in Week 6 with feature selection.=20
+
+We=20also will explore parameter selection.=20
+
+Thanks,=20for posting this.=20
+
+Robert
+
+---------------------------------------------------------------------
+This=20is a copy of a message posted on the INFO 490 RB2 SP16 website.
+
+To reply click on this link:
+https://learn.illinois.edu/mod/forum/post.php?reply=3D2457813
+
+---------------------------------------------------------------------
+Unsubscribe from this forum:
+https://learn.illinois.edu/mod/forum/subscribe.php?id=3D109621
+
+---------------------------------------------------------------------
+Unsubscribe from this discussion:
+https://learn.illinois.edu/mod/forum/subscribe.php?id=3D109621&d=3D926083
+
+---------------------------------------------------------------------
+Change your forum digest preferences:
+https://learn.illinois.edu/mod/forum/index.php?id=3D15109
+
+
+
+--b1_79aecec3cb608e624b80d3b80a88c8b0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: Quoted-printable
+
+<html><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8"></=
+head>
+<body id=3D"email">
+
+<div class=3D"navbar"><a target=3D"_blank" href=3D"https://urldefense.proof=
+point.com/v2/url?u=3Dhttps-3A__learn.illinois.edu_course_view.php-3Fid-3D15=
+109&amp;d=3DBQMFaQ&amp;c=3D8hUWFZcy2Z-Za5rBPlktOQ&amp;r=3DO_6ckC2-W1REgY_jB=
+F9kJ25-Hp-9sYdc1-HuZG5JGv8&amp;m=3DTP5DJcTGd-IWp8IBVKkcYezBNr5ugiJWBuH8-rqz=
+O6o&amp;s=3D3urTCzILE4R_K9umx52VZGtctAo-yA6cVBioCabQUxI&amp;e=3D">INFO 490 =
+RB2 SP16</a> =C2=BB <a target=3D"_blank" href=3D"https://urldefense.proofpo=
+int.com/v2/url?u=3Dhttps-3A__learn.illinois.edu_mod_forum_index.php-3Fid-3D=
+15109&amp;d=3DBQMFaQ&amp;c=3D8hUWFZcy2Z-Za5rBPlktOQ&amp;r=3DO_6ckC2-W1REgY_=
+jBF9kJ25-Hp-9sYdc1-HuZG5JGv8&amp;m=3DTP5DJcTGd-IWp8IBVKkcYezBNr5ugiJWBuH8-r=
+qzO6o&amp;s=3DVM4IGhmBw1TaO5eFNmT1aIpO5SJYmS3kSiZ7pbwmloM&amp;e=3D">Forums<=
+/a> =C2=BB <a target=3D"_blank" href=3D"https://urldefense.proofpoint.com/v=
+2/url?u=3Dhttps-3A__learn.illinois.edu_mod_forum_view.php-3Ff-3D109621&amp;=
+d=3DBQMFaQ&amp;c=3D8hUWFZcy2Z-Za5rBPlktOQ&amp;r=3DO_6ckC2-W1REgY_jBF9kJ25-H=
+p-9sYdc1-HuZG5JGv8&amp;m=3DTP5DJcTGd-IWp8IBVKkcYezBNr5ugiJWBuH8-rqzO6o&amp;=
+s=3D4X2Iu3Lai3g2iIZoXRIx2QDNM-1cbKdwvXlBnjH4Mdo&amp;e=3D">Q &amp; A Forum</=
+a> =C2=BB <a target=3D"_blank" href=3D"https://urldefense.proofpoint.com/v2=
+/url?u=3Dhttps-3A__learn.illinois.edu_mod_forum_discuss.php-3Fd-3D926083&am=
+p;d=3DBQMFaQ&amp;c=3D8hUWFZcy2Z-Za5rBPlktOQ&amp;r=3DO_6ckC2-W1REgY_jBF9kJ25=
+-Hp-9sYdc1-HuZG5JGv8&amp;m=3DTP5DJcTGd-IWp8IBVKkcYezBNr5ugiJWBuH8-rqzO6o&am=
+p;s=3DAFT5Yo7BA0vbOc2FHAivYtRcUUXFehhX30HUaETQm1w&amp;e=3D">Some observatio=
+ns of K-Means and DBSCAN</a></div><table border=3D"0" cellpadding=3D"3" cel=
+lspacing=3D"0" class=3D"forumpost"><tr class=3D"header"><td width=3D"35" va=
+lign=3D"top" class=3D"picture left"><a href=3D"https://urldefense.proofpoin=
+t.com/v2/url?u=3Dhttps-3A__learn.illinois.edu_user_view.php-3Fid-3D1861-26c=
+ourse-3D15109&amp;d=3DBQMFaQ&amp;c=3D8hUWFZcy2Z-Za5rBPlktOQ&amp;r=3DO_6ckC2=
+-W1REgY_jBF9kJ25-Hp-9sYdc1-HuZG5JGv8&amp;m=3DTP5DJcTGd-IWp8IBVKkcYezBNr5ugi=
+JWBuH8-rqzO6o&amp;s=3DtIu_QBLjT5aZZds6twxLY8rAPeis4kIXsFeKkVyMdyg&amp;e=3D"=
+><img src=3D"https://learn.illinois.edu/pluginfile.php/3519/user/icon/boots=
+trap_atlas/f2?rev=3D1" alt=3D"Picture of Robert Brunner" title=3D"Picture o=
+f Robert Brunner" class=3D"userpicture" width=3D"35" height=3D"35"></a></td=
+><td class=3D"topic"><div class=3D"subject">Re: Some observations of K-Mean=
+s and DBSCAN</div><div class=3D"author">by <a href=3D"https://urldefense.pr=
+oofpoint.com/v2/url?u=3Dhttps-3A__learn.illinois.edu_user_view.php-3Fid-3D1=
+861-26course-3D15109&amp;d=3DBQMFaQ&amp;c=3D8hUWFZcy2Z-Za5rBPlktOQ&amp;r=3D=
+O_6ckC2-W1REgY_jBF9kJ25-Hp-9sYdc1-HuZG5JGv8&amp;m=3DTP5DJcTGd-IWp8IBVKkcYez=
+BNr5ugiJWBuH8-rqzO6o&amp;s=3DtIu_QBLjT5aZZds6twxLY8rAPeis4kIXsFeKkVyMdyg&am=
+p;e=3D">Robert Brunner</a> - Monday, 22 February 2016, 9:15 AM</div></td></=
+tr><tr><td class=3D"left side" valign=3D"top">&nbsp;</td><td class=3D"conte=
+nt"><p>Daniel, This is an excellent discussion post. I am sorry no one resp=
+onded to continue the thread.</p>
+<p>There are automated techniques for finding the value of k, but they are =
+more complicated to run (which is always the tradeoff).</p>
+<p>I, personally, was quite impressed by the visual nature of the digit dat=
+a set with these algorithms. The PCA clearly demonstrates how the pixels ar=
+e combined to recover the signal in the specific digits. We will see this a=
+gain in Week 6 with feature selection.</p>
+<p>We also will explore parameter selection.</p>
+<p>Thanks, for posting this.</p>
+<p>Robert</p><div class=3D"commands"><a target=3D"_blank" href=3D"https://u=
+rldefense.proofpoint.com/v2/url?u=3Dhttps-3A__learn.illinois.edu_mod_forum_=
+discuss.php-3Fd-3D926083-26parent-3D2444842&amp;d=3DBQMFaQ&amp;c=3D8hUWFZcy=
+2Z-Za5rBPlktOQ&amp;r=3DO_6ckC2-W1REgY_jBF9kJ25-Hp-9sYdc1-HuZG5JGv8&amp;m=3D=
+TP5DJcTGd-IWp8IBVKkcYezBNr5ugiJWBuH8-rqzO6o&amp;s=3DcKrYmm225N3WH9-bxS_NFvi=
+3k6pG9t6APTUkhyWuXY0&amp;e=3D">Show parent</a> | <a target=3D"_blank" href=
+=3D"https://urldefense.proofpoint.com/v2/url?u=3Dhttps-3A__learn.illinois.e=
+du_mod_forum_post.php-3Freply-3D2457813&amp;d=3DBQMFaQ&amp;c=3D8hUWFZcy2Z-Z=
+a5rBPlktOQ&amp;r=3DO_6ckC2-W1REgY_jBF9kJ25-Hp-9sYdc1-HuZG5JGv8&amp;m=3DTP5D=
+JcTGd-IWp8IBVKkcYezBNr5ugiJWBuH8-rqzO6o&amp;s=3D6JlfqpywBNahok-Sf5axeTE7-AG=
+DIAm1id04uWmuV-U&amp;e=3D">Reply</a></div><div class=3D"link"><a target=3D"=
+_blank" href=3D"https://urldefense.proofpoint.com/v2/url?u=3Dhttps-3A__lear=
+n.illinois.edu_mod_forum_discuss.php-3Fd-3D926083-23p2457813&amp;d=3DBQMFaQ=
+&amp;c=3D8hUWFZcy2Z-Za5rBPlktOQ&amp;r=3DO_6ckC2-W1REgY_jBF9kJ25-Hp-9sYdc1-H=
+uZG5JGv8&amp;m=3DTP5DJcTGd-IWp8IBVKkcYezBNr5ugiJWBuH8-rqzO6o&amp;s=3DcwfLGn=
+GU6R2AQDePZxbq2pFatWs2jL9DKHMVrwtlyEo&amp;e=3D">See this post in context</a=
+></div></td></tr></table>
+
+<hr><div class=3D"mdl-align unsubscribelink"><a href=3D"https://urldefense.=
+proofpoint.com/v2/url?u=3Dhttps-3A__learn.illinois.edu_mod_forum_subscribe.=
+php-3Fid-3D109621&amp;d=3DBQMFaQ&amp;c=3D8hUWFZcy2Z-Za5rBPlktOQ&amp;r=3DO_6=
+ckC2-W1REgY_jBF9kJ25-Hp-9sYdc1-HuZG5JGv8&amp;m=3DTP5DJcTGd-IWp8IBVKkcYezBNr=
+5ugiJWBuH8-rqzO6o&amp;s=3DFvbmOfjn9pLRt-ueukwVW_fHMH5xd3DMhyTXbSQnkIc&amp;e=
+=3D">Unsubscribe from this forum</a>&nbsp;<a href=3D"https://urldefense.pro=
+ofpoint.com/v2/url?u=3Dhttps-3A__learn.illinois.edu_mod_forum_subscribe.php=
+-3Fid-3D109621-26d-3D926083&amp;d=3DBQMFaQ&amp;c=3D8hUWFZcy2Z-Za5rBPlktOQ&a=
+mp;r=3DO_6ckC2-W1REgY_jBF9kJ25-Hp-9sYdc1-HuZG5JGv8&amp;m=3DTP5DJcTGd-IWp8IB=
+VKkcYezBNr5ugiJWBuH8-rqzO6o&amp;s=3DJBU08veTphXBY5avxIXI0FNhrTrsfyWaeZkRBjE=
+8eNc&amp;e=3D">Unsubscribe from this discussion</a>&nbsp;<a href=3D"https:/=
+/urldefense.proofpoint.com/v2/url?u=3Dhttps-3A__learn.illinois.edu_mod_foru=
+m_unsubscribeall.php&amp;d=3DBQMFaQ&amp;c=3D8hUWFZcy2Z-Za5rBPlktOQ&amp;r=3D=
+O_6ckC2-W1REgY_jBF9kJ25-Hp-9sYdc1-HuZG5JGv8&amp;m=3DTP5DJcTGd-IWp8IBVKkcYez=
+BNr5ugiJWBuH8-rqzO6o&amp;s=3Dj7HsR3u-d1i4sh9CcZbRtGqJuAiGIdvKoifv8rVhKLw&am=
+p;e=3D">Unsubscribe from all forums</a>&nbsp;<a href=3D"https://urldefense.=
+proofpoint.com/v2/url?u=3Dhttps-3A__learn.illinois.edu_mod_forum_index.php-=
+3Fid-3D15109&amp;d=3DBQMFaQ&amp;c=3D8hUWFZcy2Z-Za5rBPlktOQ&amp;r=3DO_6ckC2-=
+W1REgY_jBF9kJ25-Hp-9sYdc1-HuZG5JGv8&amp;m=3DTP5DJcTGd-IWp8IBVKkcYezBNr5ugiJ=
+WBuH8-rqzO6o&amp;s=3DVM4IGhmBw1TaO5eFNmT1aIpO5SJYmS3kSiZ7pbwmloM&amp;e=3D">=
+Change your forum digest preferences</a></div></body>
+
+
+--b1_79aecec3cb608e624b80d3b80a88c8b0--

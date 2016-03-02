@@ -1,0 +1,159 @@
+Received: from cex1310.ad.uillinois.edu (64.22.177.37) by
+ CHIHT2.ad.uillinois.edu (64.22.177.17) with Microsoft SMTP Server (TLS) id
+ 14.3.266.1; Sat, 27 Feb 2016 16:16:28 -0600
+Received: from cex139.ad.uillinois.edu (64.22.177.35) by
+ cex1310.ad.uillinois.edu (64.22.177.37) with Microsoft SMTP Server (TLS) id
+ 15.0.1156.6; Sat, 27 Feb 2016 16:16:28 -0600
+Received: from pps05.cites.illinois.edu (192.17.82.72) by
+ cex139.ad.uillinois.edu (64.22.177.35) with Microsoft SMTP Server (TLS) id
+ 15.0.1156.6 via Frontend Transport; Sat, 27 Feb 2016 16:16:28 -0600
+Received: from mcron.learn.illinois.edu (mcron.learn.illinois.edu
+ [128.174.199.143])	by pps05.cites.illinois.edu (8.15.0.59/8.15.0.59) with
+ ESMTP id u1RMGSpw027962	for <xxxyyy@illinois.edu>; Sat, 27 Feb 2016 16:16:28
+ -0600
+Received: from mcron (mcron.learn.illinois.edu [128.174.199.143])	by
+ mcron.learn.illinois.edu (Postfix) with ESMTP id 09A227ECAE	for
+ <xxxyyy@illinois.edu>; Sat, 27 Feb 2016 16:16:28 -0600 (CST)
+Date: Sat, 27 Feb 2016 16:16:28 -0600
+To: Robert Brunner <xxxyyy@illinois.edu>
+From: Junhyung Kim <zzzwww@illinois.edu>
+Subject: INFO 490 RB2 SP16: Week 7
+Message-ID: <bf373abaf9e9f85a0e0e7026bcf49d5ff36320d8b9a087ad321e78c699f61706@learn.illinois.edu>
+X-Mailer: PHPMailer Moodle 2014111009 (https://github.com/PHPMailer/PHPMailer/)
+List-Id: "Announcements" <moodleforum109618@learn.illinois.edu>
+List-Help: https://learn.illinois.edu/mod/forum/view.php?f=109618
+X-Course-Id: 15109
+X-Course-Name: INFO 490 RB2 SP16: Special Topics (Brunner, R)
+Precedence: Bulk
+X-Auto-Response-Suppress: All
+Auto-Submitted: auto-generated
+Content-Type: multipart/alternative;
+	boundary="b1_ab1a64f51d6b354fac46c786a4fe44b8"
+X-Spam-Reason: safe
+Return-Path: atlasILMoodleAdmin@mx.uillinois.edu
+X-MS-Exchange-Organization-AuthSource: cex139.ad.uillinois.edu
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-MS-Exchange-Organization-Antispam-Report: MessageSecurityAntispamBypass
+X-MS-Exchange-Organization-SCL: -1
+X-MS-Exchange-Organization-AVStamp-Mailbox: MSFTFF;1;0;0 0 0
+MIME-Version: 1.0
+
+--b1_ab1a64f51d6b354fac46c786a4fe44b8
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+INFO 490 RB2 SP16 -> Forums -> Announcements -> Week 7
+https://learn.illinois.edu/mod/forum/discuss.php?d=3D937132
+---------------------------------------------------------------------
+Week 7
+by Junhyung Kim - Saturday, 27 February 2016, 3:46 PM
+---------------------------------------------------------------------
+Week 7 is now open, except for the assignments. The assignments will be
+released tomorrow (Sunday).=20
+
+We=20start natural language processing this week, which requires the nltk
+library and new data sets (e.g. 20 newsgroups and movie reviews). If you
+are not aware by now, your notebook server is running in a separate docker
+container spawned by Jupyterhub for each student. We have installed nltk
+and the data sets, and updated the docker image on the server, but your
+container might still be running on the old docker image. If you have any
+problems with the lesson notebooks (e.g. "import nltk" doesn't work), go to
+Control Panel, click Stop Server, wait until the Stop Server button
+disappears, and then click Start Server. This will create a new container
+from the updated image that contains nltk.=20
+
+Edward
+
+---------------------------------------------------------------------
+This=20is a copy of a message posted on the INFO 490 RB2 SP16 website.
+
+To reply click on this link:
+https://learn.illinois.edu/mod/forum/post.php?reply=3D2472892
+
+---------------------------------------------------------------------
+Change your forum digest preferences:
+https://learn.illinois.edu/mod/forum/index.php?id=3D15109
+
+
+
+--b1_ab1a64f51d6b354fac46c786a4fe44b8
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: Quoted-printable
+
+<html><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8"></=
+head>
+<body id=3D"email">
+
+<div class=3D"navbar"><a target=3D"_blank" href=3D"https://urldefense.proof=
+point.com/v2/url?u=3Dhttps-3A__learn.illinois.edu_course_view.php-3Fid-3D15=
+109&amp;d=3DBQMFaQ&amp;c=3D8hUWFZcy2Z-Za5rBPlktOQ&amp;r=3DO_6ckC2-W1REgY_jB=
+F9kJ25-Hp-9sYdc1-HuZG5JGv8&amp;m=3D8tWFohDQ-CSjSm2hbgDwDsIKbQsbTuZbcKRKQ6xh=
+2Es&amp;s=3DDNt8syThp28qDP1oVMjmPRVoKbJ3pFhwtxq1BO7xHT8&amp;e=3D">INFO 490 =
+RB2 SP16</a> =C2=BB <a target=3D"_blank" href=3D"https://urldefense.proofpo=
+int.com/v2/url?u=3Dhttps-3A__learn.illinois.edu_mod_forum_index.php-3Fid-3D=
+15109&amp;d=3DBQMFaQ&amp;c=3D8hUWFZcy2Z-Za5rBPlktOQ&amp;r=3DO_6ckC2-W1REgY_=
+jBF9kJ25-Hp-9sYdc1-HuZG5JGv8&amp;m=3D8tWFohDQ-CSjSm2hbgDwDsIKbQsbTuZbcKRKQ6=
+xh2Es&amp;s=3DQFAKldT1PNTVO19oY9_t2YK5YFoRVf6P-Eh-R-BE1_w&amp;e=3D">Forums<=
+/a> =C2=BB <a target=3D"_blank" href=3D"https://urldefense.proofpoint.com/v=
+2/url?u=3Dhttps-3A__learn.illinois.edu_mod_forum_view.php-3Ff-3D109618&amp;=
+d=3DBQMFaQ&amp;c=3D8hUWFZcy2Z-Za5rBPlktOQ&amp;r=3DO_6ckC2-W1REgY_jBF9kJ25-H=
+p-9sYdc1-HuZG5JGv8&amp;m=3D8tWFohDQ-CSjSm2hbgDwDsIKbQsbTuZbcKRKQ6xh2Es&amp;=
+s=3DAIFPRB-SPOu9BrmMqZRFTX1tNw_1OiQtAM_xkVdTSS4&amp;e=3D">Announcements</a>=
+ =C2=BB <a target=3D"_blank" href=3D"https://urldefense.proofpoint.com/v2/u=
+rl?u=3Dhttps-3A__learn.illinois.edu_mod_forum_discuss.php-3Fd-3D937132&amp;=
+d=3DBQMFaQ&amp;c=3D8hUWFZcy2Z-Za5rBPlktOQ&amp;r=3DO_6ckC2-W1REgY_jBF9kJ25-H=
+p-9sYdc1-HuZG5JGv8&amp;m=3D8tWFohDQ-CSjSm2hbgDwDsIKbQsbTuZbcKRKQ6xh2Es&amp;=
+s=3DbFUW3tLoENkUDJgjHIgeOnOLVgrhtF5YOCN_UqWybUY&amp;e=3D">Week 7</a></div><=
+table border=3D"0" cellpadding=3D"3" cellspacing=3D"0" class=3D"forumpost">=
+<tr class=3D"header"><td width=3D"35" valign=3D"top" class=3D"picture left"=
+><a href=3D"https://urldefense.proofpoint.com/v2/url?u=3Dhttps-3A__learn.il=
+linois.edu_user_view.php-3Fid-3D56983-26course-3D15109&amp;d=3DBQMFaQ&amp;c=
+=3D8hUWFZcy2Z-Za5rBPlktOQ&amp;r=3DO_6ckC2-W1REgY_jBF9kJ25-Hp-9sYdc1-HuZG5JG=
+v8&amp;m=3D8tWFohDQ-CSjSm2hbgDwDsIKbQsbTuZbcKRKQ6xh2Es&amp;s=3D4bgVcYNV9ed5=
+UzmdTEDVQ5wIXdPADC4qh2nebuqI-bU&amp;e=3D"><img src=3D"https://learn.illinoi=
+s.edu/theme/image.php/_s/bootstrap_atlas/core/1455712685/u/f2" alt=3D"Pictu=
+re of Junhyung Kim" title=3D"Picture of Junhyung Kim" class=3D"userpicture =
+defaultuserpic" width=3D"35" height=3D"35"></a></td><td class=3D"topic star=
+ter"><div class=3D"subject">Week 7</div><div class=3D"author">by <a href=3D=
+"https://urldefense.proofpoint.com/v2/url?u=3Dhttps-3A__learn.illinois.edu_=
+user_view.php-3Fid-3D56983-26course-3D15109&amp;d=3DBQMFaQ&amp;c=3D8hUWFZcy=
+2Z-Za5rBPlktOQ&amp;r=3DO_6ckC2-W1REgY_jBF9kJ25-Hp-9sYdc1-HuZG5JGv8&amp;m=3D=
+8tWFohDQ-CSjSm2hbgDwDsIKbQsbTuZbcKRKQ6xh2Es&amp;s=3D4bgVcYNV9ed5UzmdTEDVQ5w=
+IXdPADC4qh2nebuqI-bU&amp;e=3D">Junhyung Kim</a> - Saturday, 27 February 201=
+6, 3:46 PM</div></td></tr><tr><td class=3D"left side" valign=3D"top">&nbsp;=
+</td><td class=3D"content"><p>Week 7 is now open, except for the assignment=
+s. The assignments will be released tomorrow (Sunday).</p>
+<p>We start natural language processing this week, which requires the nltk =
+library and new data sets (e.g. 20 newsgroups and movie reviews). If you ar=
+e not aware by now, your notebook server is running in a separate docker co=
+ntainer spawned by Jupyterhub for each student. We have installed nltk and =
+the data sets, and updated the docker image on the server, but your contain=
+er might still be running on the old docker image. If you have any problems=
+ with the lesson notebooks (e.g. &quot;import nltk&quot; doesn't work), go =
+to Control Panel, click Stop Server, wait until the Stop Server button disa=
+ppears, and then click Start Server. This will create a new container from =
+the updated image that contains nltk.</p>
+<p>Edward</p><div class=3D"commands"><a target=3D"_blank" href=3D"https://u=
+rldefense.proofpoint.com/v2/url?u=3Dhttps-3A__learn.illinois.edu_mod_forum_=
+post.php-3Freply-3D2472892&amp;d=3DBQMFaQ&amp;c=3D8hUWFZcy2Z-Za5rBPlktOQ&am=
+p;r=3DO_6ckC2-W1REgY_jBF9kJ25-Hp-9sYdc1-HuZG5JGv8&amp;m=3D8tWFohDQ-CSjSm2hb=
+gDwDsIKbQsbTuZbcKRKQ6xh2Es&amp;s=3D5_WMW2t-IFb13XUJoDxco6FaX9NV0XinON3ypfdD=
+MUs&amp;e=3D">Reply</a></div><div class=3D"link"><a target=3D"_blank" href=
+=3D"https://urldefense.proofpoint.com/v2/url?u=3Dhttps-3A__learn.illinois.e=
+du_mod_forum_discuss.php-3Fd-3D937132-23p2472892&amp;d=3DBQMFaQ&amp;c=3D8hU=
+WFZcy2Z-Za5rBPlktOQ&amp;r=3DO_6ckC2-W1REgY_jBF9kJ25-Hp-9sYdc1-HuZG5JGv8&amp=
+;m=3D8tWFohDQ-CSjSm2hbgDwDsIKbQsbTuZbcKRKQ6xh2Es&amp;s=3Dy9ePnQnHHSfyWE3q_A=
+vWfhST3YU1sboZy5NZEZL6eko&amp;e=3D">See this post in context</a></div></td>=
+</tr></table>
+
+<hr><div class=3D"mdl-align unsubscribelink"><a href=3D"https://urldefense.=
+proofpoint.com/v2/url?u=3Dhttps-3A__learn.illinois.edu_mod_forum_index.php-=
+3Fid-3D15109&amp;d=3DBQMFaQ&amp;c=3D8hUWFZcy2Z-Za5rBPlktOQ&amp;r=3DO_6ckC2-=
+W1REgY_jBF9kJ25-Hp-9sYdc1-HuZG5JGv8&amp;m=3D8tWFohDQ-CSjSm2hbgDwDsIKbQsbTuZ=
+bcKRKQ6xh2Es&amp;s=3DQFAKldT1PNTVO19oY9_t2YK5YFoRVf6P-Eh-R-BE1_w&amp;e=3D">=
+Change your forum digest preferences</a></div></body>
+
+
+--b1_ab1a64f51d6b354fac46c786a4fe44b8--
