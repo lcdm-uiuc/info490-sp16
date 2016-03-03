@@ -48,7 +48,7 @@ _Safari Online Books_
 When you have completed and worked through the above readings, please take the [Week 8 Lesson 1 Assessment][la]
 
 [l1nb]: notebooks/intro2sme.ipynb
-[la]: https://learn.illinois.edu/mod/quiz/
+[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1325311
 
 [we]: https://en.wikipedia.org/wiki/Email
 [wmbox]: https://en.wikipedia.org/wiki/Mbox
