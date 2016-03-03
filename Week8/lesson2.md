@@ -51,7 +51,7 @@ _Safari Online Books_
 When you have completed and worked through the above readings, please take the [Week 8 Lesson 2 Assessment][la]
 
 [l2nb]: notebooks/intro2smt.ipynb
-[la]: https://learn.illinois.edu/mod/quiz/
+[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1325314
 
 [wt]: https://en.wikipedia.org/wiki/Twitter
 [wsm]: https://en.wikipedia.org/wiki/Social_media
