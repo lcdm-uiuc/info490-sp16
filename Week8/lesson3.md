@@ -49,7 +49,7 @@ _Safari Online Books_
 When you have completed and worked through the above readings, please take the [Week 8 Lesson 3 Assessment][la]
 
 [l3nb]: notebooks/intro2smw.ipynb
-[la]: https://learn.illinois.edu/mod/quiz/
+[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1325317
 
 [wws]: https://en.wikipedia.org/wiki/Web_scraping
 [sw]: http://scrapy.org
