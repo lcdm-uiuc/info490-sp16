@@ -1,7 +1,5 @@
 #Week 8 Overview#
 
-![Draft](../images/Draft_Version_picture.png)
-
 ## Introduction to Social Media ##
 
 This week we will introduce social media, which is a form of data that
@@ -37,5 +35,5 @@ how to obtain, parse, and process web-accessible data.
 *Please note that unless otherwise noted, the due time is 6pm Central time!*
 
 ----------
-[wv]: https://mediaspace.illinois.edu/media/
+[wv]: https://mediaspace.illinois.edu/media/Week+Eight/1_gnrwxyge
 [wq]: https://learn.illinois.edu/mod/quiz/view.php?id=1325131
