@@ -1,16 +1,25 @@
 # Week 8 Lesson 2 #
 ## Introduction to Social Media: Twitter ##
 
-In this lesson, you will be introduced to 
+In this lesson, you will be introduced to twitter data. Twitter is one
+of the most popular social media data types due to the wealth of data,
+the amount of metadata associate with each tweet, and the ease of
+obtaining twitter data. To access twitter data, we will use a Python
+library that wraps the official twitter application programming
+interface (or API). First you will learn how to authenticate by using
+OAUTH via the twitter API. Next, we will use the twitter API to find
+specific tweets, analyze the tweet metadata, and to extract a set of
+tweets. Finally, we will perform a sentiment analysis on twitter data to
+classify tweets as positive or negative.
 
 ###Objectives ###
 
 By the end of this lesson, you will be able to:
 
-- Understand the 
-- Understand the 
-- Understand the 
-- Be able to create 
+- Understand how to authenticate by using OAUTH 
+- Understand the data and metadata contents of a tweet.
+- Understand how to search for users and their tweets
+- Be able to create an application that analyzes twitter data.
 
 ### Time Estimate ###
 
@@ -51,7 +60,7 @@ _Safari Online Books_
 When you have completed and worked through the above readings, please take the [Week 8 Lesson 2 Assessment][la]
 
 [l2nb]: notebooks/intro2smt.ipynb
-[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1325314
+[la]: https://learn.illinois.edu/mod/quiz/
 
 [wt]: https://en.wikipedia.org/wiki/Twitter
 [wsm]: https://en.wikipedia.org/wiki/Social_media

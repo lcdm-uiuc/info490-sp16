@@ -1,16 +1,25 @@
 # Week 8 Lesson 1 #
 ## Introduction to Social Media: Email ##
 
-In this lesson, you will be introduced to 
+In this lesson, you will be introduced to social media data, which are a
+popular source of data for analytics projects. In particular, this
+lesson focuses on email, which are a rich sort of data based on both
+overall content as well as the social connections they imply. First, we
+will review the basic components of an email message: header, body, and
+(optional) footer. Next, we will discus how to parse an email message to
+extract the body and possibly useful metadata. Finally, we will look at
+applying text analytics to emails, specifically to  classify emails as
+either spam or ham (i.e., bad or good messages).
+
 
 ###Objectives ###
 
 By the end of this lesson, you will be able to:
 
-- Understand the 
-- Understand the 
-- Understand the 
-- Be able to create 
+- Understand the different components of an email.
+- Understand the different components of an email header and the extra information they convey.
+- Understand how to parse an email message to extract useful data.
+- Be able to apply text analytics, like classification, to an email corpus.
 
 ### Time Estimate ###
 

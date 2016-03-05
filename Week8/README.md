@@ -4,15 +4,23 @@
 
 ## Introduction to Social Media ##
 
-This week you will XYZ.
+This week we will introduce social media, which is a form of data that
+is constructed by users and either distributed to others or publicly
+released. Popular examples of this type of data include emails, tweets,
+and web pages. These types of data can be accessed either via build-in
+Python libraries, public APIs, or simple web scraping. Specifically,
+this week you will learn how to parse and classify emails, how to
+authenticate to twitter to enable searching the twitter data stream, and
+how to obtain, parse, and process web-accessible data. 
 
 ### Objectives ###
 
 #####By the end of this lesson, you should be able to:######
 
-- A
-- B 
-- C
+- Understand how to parse and classify email data
+- Understand how to use OAUTH to authenticate an application
+- Understand how to perform sentiment analysis on a large text corpus
+- Understand how to parse and process web-accessible data
 
 ### Activities and Assignments ###
 

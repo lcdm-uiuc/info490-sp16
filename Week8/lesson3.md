@@ -1,16 +1,25 @@
 # Week 8 Lesson 3 #
 ## Introduction to Social Media: Web ##
 
-In this lesson, you will be introduced to 
+In this lesson, you will be introduced to web-accessible data. While web
+data might be less popular than other forms of social media, the number
+and diversity of web accessible data sets make this form of social data
+among the most rich for text analysis. First we will analyze a web page
+to extract data. Second, we will analyze a website as a networked
+resource to construct a summary document of data spread across multiple
+pages. As a demonstration of these concepts, we use the University of
+Illinois Course explorer website. This project requires programmatically
+accessing web data, parsing web pages, and extracting information from
+structured documents.
 
 ###Objectives ###
 
 By the end of this lesson, you will be able to:
 
-- Understand the 
-- Understand the 
-- Understand the 
-- Be able to create 
+- Understand how to access web-accessible data
+- Understand how to parse webpages
+- Understand how to traverse web-based networked data
+- Be able to create a text analysis application that leverages web-based data
 
 ### Time Estimate ###
 
