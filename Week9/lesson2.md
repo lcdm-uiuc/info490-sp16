@@ -43,6 +43,7 @@ _Other Material_
 - Wikipedia article on [Non-negative Matrix Factorization][wnmf] (focus on text-mining)
 - Tutorial on using gensim for [topic modeling][gtm] 
 - [Text Analysis with topic Models][tatm] for the Humanities and Social Sciences
+- Blog article on [matrix factorization][bmf], with application to NMF
 
 _Safari Online Books_
 
@@ -68,5 +69,7 @@ When you have completed and worked through the above readings, please take the [
 [itm-2]: http://journalofdigitalhumanities.org/2-1/topic-modeling-and-digital-humanities-by-david-m-blei/
 [gtm]: http://radimrehurek.com/gensim/tut2.html
 [tatm]: https://www.de.dariah.eu/tatom/index.html
+
+[bnmf]: http://www.quuxlabs.com/blog/2010/09/matrix-factorization-a-simple-tutorial-and-implementation-in-python/
 
 [botm]: https://www.oreilly.com/ideas/topic-models-past-present-and-future
