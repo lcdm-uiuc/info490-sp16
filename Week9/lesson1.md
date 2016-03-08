@@ -1,13 +1,14 @@
-# Week 7 Lesson 1 #
-## Introduction to Text Analysis: Basic Concepts ##
+# Week 9 Lesson 1 #
+## Introduction to Natural Language Processing ##
 
-In this lesson, you will be introduced to the basic concepts in text analysis.
+In this lesson, you will be introduced to the basic concepts of natural language processing.
 
-parsing text
-word counts
-word frequency
-bag of words
-document matrix
+tokenizing beyond words.
+parsing by sentence and paragraph. Removing non text characters (i.e, punctuation)
+part of speech, named entities. Colocations.
+
+Classify based on pos?
+
 
 ###Objectives ###
 
@@ -26,45 +27,50 @@ Approximately 2 hours.
 
 _Course Notebook_
 
-- Explore the course [Introduction to Text Analysis: Basic Concepts][l1nb]
+- Explore the course [Introduction to NLP: Basic Concepts][l1nb]
 IPython Notebook on the course JupyterHub server.
 
 _Other Material_
 
-- Wikipedia article on [Natural Language Processing][wnlp]
-- Wikipedia article on [Bag of Words][wbow] model
-- Wikipedia article on [Document Term Matrix][wdtm]
-
+- Wikipedia article on [Part of Speech][wpos]
+- Wikipedia article on [Named Entity Recognition][wner]
+- [Online demo][dsp] of parsing text data
 
 ## Optional Readings ##
 
-- NY Times [article on NLP][nytnlp]
-- Sections 2, 3, 5, and 6 from Chapter 1 of the free [NLTK version 3.0][nltk3] book
-- Gentle Introduction (in Python 2) to text analysis with Python, [part 1][nctap1] and [part 2][nctap2]
+- Wikipedia article on [Treebanks][wtb]
+- The [Penn Treebank][ptb] project
+- Wikipedia article on [Garden Path Sentences][wgps]
+- Sections 1, 2, and 4-7 from Chapter 5 of the free [NLTK version 3.0][nltk3-5] book
+- Sections 5 and 6 from Chapter 7 of the free [NLTK version 3.0][nltk3-7] book
+- [Spacy][sp], a new natural language processing library.
+- Blog entry on using spacy to [mark adverbs][bma]
+- Blog entry on [Named Entity Recognition][yner]
 
 _Safari Online Books_
 
-- **Chapter 1: Language Processing and Python** from _Natural Language Processing with Python_, by Steven Bird, Ewan Klein, and Edward Loper
-- **Chapter 2: Accessing Text Corpora and Lexical Resources** from _Natural Language Processing with Python_, by Steven Bird, Ewan Klein, and Edward Loper
-- **Chapter 3: Processing Raw Text** from _Natural Language Processing with Python_, by Steven Bird, Ewan Klein, and Edward Loper
-
-- **Chapter 1: Tokenizing Text and WordNet Basics** from __Python 3 Text Processing with NLTK 3 Cookbook_, by Jacob Perkins
+- **Chapter 4: Part-of-speech Tagging** from _Python 3 Text Processing with NLTK 3 Cookbook_, by Jacob Perkins
+- **Chapter 3: Part of Speech Tagging** from _NLTK Essentials_, by Nitin Hardeniya
 
 ### Assessment ###
 
-When you have completed and worked through the above readings, please take the [Week 7 Lesson 1 Assessment][la]
+When you have completed and worked through the above readings, please take the [Week 9 Lesson 1 Assessment][la]
 
-[l1nb]: notebooks/intro2rs.ipynb
+[l1nb]: notebooks/intro2nlp.ipynb
 [la]: https://learn.illinois.edu/mod/quiz/
 
-[wnlp]: https://en.wikipedia.org/wiki/Natural_language_processing
-[wbow]: https://en.wikipedia.org/wiki/Bag-of-words_model
-[wdtm]: https://en.wikipedia.org/wiki/Document-term_matrix
+[wner]: https://en.wikipedia.org/wiki/Named-entity_recognition
+[wpos]: https://en.wikipedia.org/wiki/Part-of-speech_tagging
+[wtb]: https://en.wikipedia.org/wiki/Treebank
+[wgps]: https://en.wikipedia.org/wiki/Garden_path_sentence
+
+[yner]: http://blog.yhat.com/posts/named-entities-in-law-and-order-using-nlp.html
 
 
-[nytnlp]: http://www.nytimes.com/2003/10/16/technology/circuits/16mine.html?pagewanted=print
-[nltk3]: http://www.nltk.org/book/ch01.html
+[nltk3-5]: http://www.nltk.org/book/ch05.html
+[nltk3-7]: http://www.nltk.org/book/ch07.html
 
-[nctap1]: http://nealcaren.web.unc.edu/an-introduction-to-text-analysis-with-python-part-1/
-[nctap2]: http://nealcaren.web.unc.edu/an-introduction-to-text-analysis-with-python-part-2/
-
+[bma]: https://spacy.io/tutorials/mark-adverbs
+[dsp]: https://api.spacy.io/displacy/index.html
+[sp]: https://spacy.io
+[ptb]: http://www.cis.upenn.edu/~treebank/

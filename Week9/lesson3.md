@@ -1,13 +1,10 @@
-# Week 7 Lesson 3 #
-## Introduction to Text Analysis: Unsupervised Learning ##
+# Week 9 Lesson 3 #
+## Introduction to Semantic Analysis ##
 
 In this lesson, you will be introduced to the .
 
-named entity references
-chunking
-
-clustering
-top words in cluster
+semantic analysis, building on words as vectors. Use word2vec. Discuss doc2vec.
+Find similar items.
  
 ###Objectives ###
 
@@ -25,37 +22,41 @@ Approximately 2 hours.
 
 _Course Notebook_
 
-- Explore the course [Introduction to Text Analysis: Unsupervised Learning][l2nb]
+- Explore the course [Introduction to Semantic Analysis][l3nb]
 IPython Notebook on the course JupyterHub server.
 
 _Other Material_
 
-- Wikipedia article on [Stemming][wst]
-- Wikipedia article on [Named Entity Recognition][wner]
+- Wikipedia article on [word2vec][ww2v]
+- Introduction to Word Vectors, [Part 1][ip1] and [Part 2][ip2], via Kaggle
 
 ## Optional Readings ##
 
-- Wikipedia article on [Text Clustering][wtc]
-- Blog entry on [Named Entity Recognition][yner]
-- Sections 1, 2, 5, and 6 from Chapter 7 of the free [NLTK version 3.0][nltk3-7] book
-
-_Safari Online Books_
-
-- **Chapter 7: Extracting Information from Text** from _Natural Language Processing with Python_, by Steven Bird, Ewan Klein, and Edward Loper
-- **Chapter 5: Extracting Chunks** from __Python 3 Text Processing with NLTK 3 Cookbook_, by Jacob Perkins
-- **Chapter 6: Transforming Chunks and Trees** from __Python 3 Text Processing with NLTK 3 Cookbook_, by Jacob Perkins
-
+- Wikipedia article on [Vector Space Models][wvsm]
+- Wikipedia article on [Latent Semantic Analysis (LSA)[wlsa] 
+- Wikipedia article on [Semantic Similarity][wss]
+- Blog discussing the use of [semantic analysis for fashion][bwe] 
+- Implementation of [word2vec in python][wip], via gensim.
+- Blog article discussing the use of [word2vec for text analysis][wta].
+- Original Google [word2vec][gw2v] implementation. 
 
 ### Assessment ###
 
-When you have completed and worked through the above readings, please take the [Week 7 Lesson 3 Assessment][la]
+When you have completed and worked through the above readings, please take the [Week 9 Lesson 3 Assessment][la]
 
-[l2nb]: notebooks/intro2ad.ipynb
+[l3nb]: notebooks/intro2nlp-sa.ipynb
 [la]: https://learn.illinois.edu/mod/quiz/
 
-[wst]: https://en.wikipedia.org/wiki/Stemming
-[wner]: https://en.wikipedia.org/wiki/Named-entity_recognition
-[wtc]: https://en.wikipedia.org/wiki/Document_clustering
+[bwe]: http://developers.lyst.com/2014/11/11/word-embeddings-for-fashion/
 
-[nltk3-7]: http://www.nltk.org/book/ch07.html
-[yner]: http://blog.yhat.com/posts/named-entities-in-law-and-order-using-nlp.html
+[ip1]: https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-2-word-vectors
+[ip2]: https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-3-more-fun-with-word-vectors
+
+[wvsm]: https://en.wikipedia.org/wiki/Vector_space_model
+[ww2v]: https://en.wikipedia.org/wiki/Word2vec
+[wlsa]: https://en.wikipedia.org/wiki/Latent_semantic_analysis
+[wss]: https://en.wikipedia.org/wiki/Semantic_similarity
+
+[gw2v]: https://code.google.com/archive/p/word2vec/
+[wip]: http://radimrehurek.com/gensim/models/word2vec.html
+[wta]: http://blog.dato.com/practical-text-analysis-using-deep-learning

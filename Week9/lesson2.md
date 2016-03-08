@@ -1,11 +1,12 @@
-# Week 7 Lesson 2 #
-## Introduction to Text Analysis: Supervised Learning ##
+# Week 9 Lesson 2 #
+## Introduction to Topic Modelling ##
 
 In this lesson, you will be introduced to the .
 
-Part of speech tagging
-classification
-nltk + scikit-learn
+Topic Modelling
+LDA
+NMF
+LSA
 
 ###Objectives ###
 
@@ -23,48 +24,41 @@ Approximately 2 hours.
 
 _Course Notebook_
 
-- Explore the course [Introduction to Text Analysis: Supervised Learning][l2nb]
+- Explore the course [Introduction to Topic Modelling][l2nb]
 IPython Notebook on the course JupyterHub server.
 
 _Other Material_
 
-- Overview of text mining in the [digital humanities][tudh]
-- Wikipedia article on [Text Mining][wtm]
-- Wikipedia article on [Part of Speech Tagging][wtm]
-- scikit learn documentation on [Text Feature Extraction][sktfe], sections 4.2.3.1 through 4.2.3.5
+- Wikipedia article on [Topic Models][wtm] 
+- Introduction to topic modelling, [part 1][[itm] and [part 2][itm-2]
 
 **Part of speech?**
 
 ## Optional Readings ##
 
-- Wikipedia article on [Stop Words][wsw]
-- [Text classification][sktc] using scikit learn
-- Gentle Introduction (in Python 2) to text analysis with Python, [part 3][nctap3]
-- Sections 1, 2, and 5 from Chapter 5 of the free [NLTK version 3.0][nltk3-5] book
-- Sections 3, 4, and 5 from Chapter 6 of the free [NLTK version 3.0][nltk3-6] book
+- Blog article on [topic modelling][botm]
+- Wikipedia article on [Latent Dirichlet Allocation (LDA)[wlda] 
+- Tutorial on using gensim for [topic modelling][gtm] 
+- [Text Analysis with topic Models][tatm] for the Humanities and Social Sciences
 
 _Safari Online Books_
 
-- **Chapter 5. Categorizing and Tagging Words** from _Natural Language Processing with Python_, by Steven Bird, Ewan Klein, and Edward Loper
-- **Chapter 6:  Learning to Classify Text** from _Natural Language Processing with Python_, by Steven Bird, Ewan Klein, and Edward Loper
-- **Chapter 4: Part-of-speech Tagging** from _Python 3 Text Processing with NLTK 3 Cookbook_, by Jacob Perkins
-- **Chapter 7: Text Classification** from _Python 3 Text Processing with NLTK 3 Cookbook_, by Jacob Perkins
+- **Chapter 4: Topic Modeling** from _Building Machine Learning Systems
+with Python (2nd Ed.)_ by Willi Richert and Luis Pedro Coelho
 
 ### Assessment ###
 
-When you have completed and worked through the above readings, please take the [Week 7 Lesson 2 Assessment][la]
+When you have completed and worked through the above readings, please take the [Week 9 Lesson 2 Assessment][la]
 
-[l2nb]: notebooks/intro2ad.ipynb
+[l2nb]: notebooks/intro2nlp-tm.ipynb
 [la]: https://learn.illinois.edu/mod/quiz/
 
-[tudh]: http://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/
-[wtm]: https://en.wikipedia.org/wiki/Text_mining
-[wpos]: https://en.wikipedia.org/wiki/Part-of-speech_tagging
-[sktc]: http://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html
-[sktfe]: http://scikit-learn.org/stable/modules/feature_extraction.html#text-feature-extraction
+[wlda]: https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation
+[wtm]: https://en.wikipedia.org/wiki/Topic_model
 
-[wsw]: https://en.wikipedia.org/wiki/Stop_words
+[itm]: http://journalofdigitalhumanities.org/2-1/topic-modeling-a-basic-introduction-by-megan-r-brett/
+[itm-2]: http://journalofdigitalhumanities.org/2-1/topic-modeling-and-digital-humanities-by-david-m-blei/
+[gtm]: http://radimrehurek.com/gensim/tut2.html
+[tatm]: https://www.de.dariah.eu/tatom/index.html
 
-[nctap3]: http://nealcaren.web.unc.edu/an-introduction-to-text-analysis-with-python-part-3/
-[nltk3-5]: http://www.nltk.org/book/ch05.html
-[nltk3-6]: http://www.nltk.org/book/ch06.html
+[botm]: https://www.oreilly.com/ideas/topic-models-past-present-and-future
