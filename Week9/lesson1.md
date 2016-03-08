@@ -1,23 +1,26 @@
 # Week 9 Lesson 1 #
 ## Introduction to NLP: Basic Concepts ##
 
-In this lesson, you will be introduced to the basic concepts of natural language processing.
-
-tokenizing beyond words.
-parsing by sentence and paragraph. Removing non text characters (i.e, punctuation)
-part of speech, named entities. Colocations.
-
-Classify based on pos?
-
+In this lesson, we will build on the lessons in Week 7 to learn several
+basic concepts in natural language processing (NLP). First, we will
+learn, in more detail, the concepts of tokenization, specifically beyond
+just word level tokens, and how associations between tokens can be
+important for NLP. We also will learn how to parse larger sections of
+text such as a sentence or paragraph, including the removal of
+punctuation. Next, we will learn about tagging text to identify the
+different grammatical components such as a noun, verb, adjective, or
+adverb. Finally, we will learn about entities and how to perform named
+entity recognition. 
 
 ###Objectives ###
 
 By the end of this lesson, you will be able to:
 
-- Understand the 
-- Understand the 
-- Understand the 
-- Be able to develop a 
+- Understand how to token text by paragraph, sentence, or word.
+- Be familiar with the basic concepts of part of speech (POS) tagging
+- Be familiar with the basic concepts of named entity recognition (NER)
+- Be able to apply and use part of speech tagging and named entity
+recognition in a Python application.
 
 ### Time Estimate ###
 
@@ -65,7 +68,6 @@ When you have completed and worked through the above readings, please take the [
 [wgps]: https://en.wikipedia.org/wiki/Garden_path_sentence
 
 [yner]: http://blog.yhat.com/posts/named-entities-in-law-and-order-using-nlp.html
-
 
 [nltk3-5]: http://www.nltk.org/book/ch05.html
 [nltk3-7]: http://www.nltk.org/book/ch07.html

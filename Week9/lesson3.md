@@ -1,18 +1,23 @@
 # Week 9 Lesson 3 #
 ## Introduction to NLP: Semantic Analysis ##
 
-In this lesson, you will be introduced to the .
-
-semantic analysis, building on words as vectors. Use word2vec. Discuss doc2vec.
-Find similar items.
+In this lesson, you will be introduced to the concept of semantic
+analysis, where we try to infer the meaning of text data. In part this
+will build on the concepts of part of speech tagging and named entity
+recognition presented in Lesson 1. Other concepts, however, are also
+important, including the relative locations of words, and colocations.
+To perform semantic analysius, we will develop the word vector space
+model that underlies to the _word2vec_ appraoch. We will learn to employ
+word2vec (and other related models) by using the _gensim_ Python
+library. 
  
 ###Objectives ###
 
 By the end of this lesson, you will be able to:
 
-- Understand the basic concept
-- Understand the 
-- Be able to apply 
+- Understand the basic concepts of semantic analysis
+- Be familiar with the word2vec model
+- Be able to apply semantic analysis within a Python application
 
 ### Time Estimate ###
 
