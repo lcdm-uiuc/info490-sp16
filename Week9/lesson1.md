@@ -1,5 +1,5 @@
 # Week 9 Lesson 1 #
-## Introduction to Natural Language Processing ##
+## Introduction to NLP: Basic Concepts ##
 
 In this lesson, you will be introduced to the basic concepts of natural language processing.
 
@@ -56,7 +56,7 @@ _Safari Online Books_
 
 When you have completed and worked through the above readings, please take the [Week 9 Lesson 1 Assessment][la]
 
-[l1nb]: notebooks/intro2nlp.ipynb
+[l1nb]: notebooks/intro2nlp-bc.ipynb
 [la]: https://learn.illinois.edu/mod/quiz/
 
 [wner]: https://en.wikipedia.org/wiki/Named-entity_recognition

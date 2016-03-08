@@ -1,5 +1,5 @@
 # Week 9 Lesson 3 #
-## Introduction to Semantic Analysis ##
+## Introduction to NLP: Semantic Analysis ##
 
 In this lesson, you will be introduced to the .
 
@@ -22,7 +22,7 @@ Approximately 2 hours.
 
 _Course Notebook_
 
-- Explore the course [Introduction to Semantic Analysis][l3nb]
+- Explore the course [Introduction to NLP: Semantic Analysis][l3nb]
 IPython Notebook on the course JupyterHub server.
 
 _Other Material_

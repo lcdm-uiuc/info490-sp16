@@ -1,5 +1,5 @@
 # Week 9 Lesson 2 #
-## Introduction to Topic Modelling ##
+## Introduction to NLP: Topic Modelling ##
 
 In this lesson, you will be introduced to the .
 
@@ -24,7 +24,7 @@ Approximately 2 hours.
 
 _Course Notebook_
 
-- Explore the course [Introduction to Topic Modelling][l2nb]
+- Explore the course [Introduction to NLP: Topic Modelling][l2nb]
 IPython Notebook on the course JupyterHub server.
 
 _Other Material_
