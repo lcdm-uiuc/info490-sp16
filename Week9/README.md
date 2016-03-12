@@ -1,7 +1,5 @@
 #Week 9 Overview#
 
-![Draft](../images/Draft_Version_picture.png)
-
 ## Natural Language Processing ##
 
 This week we will delve more deeply into natural language processing
@@ -46,5 +44,5 @@ Break (e.g., peer assignments will be distributed on 3/29).**
 *Please note that unless otherwise noted, the due time is 6pm Central time!*
 
 ----------
-[wv]: https://mediaspace.illinois.edu/media/
+[wv]: https://mediaspace.illinois.edu/media/Week+Nine/1_d5vzydx5
 [wq]: https://learn.illinois.edu/mod/quiz/view.php?id=1325140
