@@ -60,7 +60,7 @@ _Safari Online Books_
 When you have completed and worked through the above readings, please take the [Week 9 Lesson 1 Assessment][la]
 
 [l1nb]: notebooks/intro2nlp-bc.ipynb
-[la]: https://learn.illinois.edu/mod/quiz/
+[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1325323
 
 [wner]: https://en.wikipedia.org/wiki/Named-entity_recognition
 [wpos]: https://en.wikipedia.org/wiki/Part-of-speech_tagging
