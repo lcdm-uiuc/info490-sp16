@@ -34,8 +34,6 @@ _Other Material_
 - Wikipedia article on [Topic Models][wtm] 
 - Introduction to topic modeling, [part 1][[itm] and [part 2][itm-2]
 
-**Part of speech?**
-
 ## Optional Readings ##
 
 - Blog article on [topic modeling][botm]
