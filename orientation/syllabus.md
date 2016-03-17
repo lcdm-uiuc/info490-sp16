@@ -130,7 +130,7 @@ pace and material to benefit the majority of enrolled students.
 |*Week 8*| Introduction to Social Media Analysis| |
 |*Week 9*| Advanced Text Mining | |
 |*Week 10*| Introduction to Network Analysis| |
-|*Week 11*| Advanced Network Analysis |  |
+|*Week 11*| Probabilistic Programming |  |
 |*Week 12*| Introduction to Cloud Computing| |
 |*Week 13*| Introduction to NoSQL| |
 |*Week 14*| Advanced Cloud Computing | | 
