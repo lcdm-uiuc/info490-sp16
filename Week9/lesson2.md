@@ -41,7 +41,7 @@ _Other Material_
 - Wikipedia article on [Non-negative Matrix Factorization][wnmf] (focus on text-mining)
 - Tutorial on using gensim for [topic modeling][gtm] 
 - [Text Analysis with topic Models][tatm] for the Humanities and Social Sciences
-- Blog article on [matrix factorization][bmf], with application to NMF
+- Blog article on [matrix factorization][bnmf], with application to NMF
 
 _Safari Online Books_
 
