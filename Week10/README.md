@@ -1,5 +1,7 @@
 #Week 10 Overview#
 
+![Draft](../images/Draft_Version_picture.png)
+
 ## Network Analysis ##
 
 This week we introduce basic network analysis by using the Python

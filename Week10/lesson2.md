@@ -1,7 +1,7 @@
 # Week 10 Lesson 2 #
 ## Introduction to Network Analysis: Graph Analysis ##
 
-In this lesson, you will about special types of graphs, including
+In this lesson, you will learn about special types of graphs, including
 cycles, complete graphs, and complete bipartite graphs. Next, you will
 learn about traversing graphs, which can be done via a depth-first
 search, a breadth-first search, or a general exploration. Finally, you

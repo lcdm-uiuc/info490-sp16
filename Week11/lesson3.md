@@ -1,15 +1,15 @@
-# Week QQ Lesson 3 #
-## XXX YYY ZZZ ##
+# Week 11 Lesson 3 #
+## Introduction to Mixture Models ##
 
-In this lesson, you will XYZ. 
+In this lesson, you will learn about 
 
 ###Objectives ###
 
 By the end of this lesson, you will be able to:
 
-- A
-- B 
-- C
+- Understand basic 
+- Be familiar with
+- Be able to construct 
 
 ### Time Estimate ###
 
@@ -19,28 +19,24 @@ Approximately 2 hours.
 
 _Course Notebook_
 
-- Explore the course [XXX][l3nb]
+- Explore the course [Introduction to Mixture Models][l3nb]
 IPython Notebook on the course JupyterHub server.
 
 _Other Material_
 
-- ABC
-- DEF
+- Wikipedia article on [][w]
 
 ## Optional Readings ##
 
-- GHI
-- JKL
-
 _Safari Online Books_
 
-- ???
- 
+- **Chapter X:** from _ _ by 
+
 ### Assessment ###
 
-When you have completed and worked through the above readings, please take the [Week QQ Lesson 3 Assessment][la]
+When you have completed and worked through the above readings, please take the [Week 11 Lesson 3 Assessment][la]
 
-----
-[l3nb]: notebooks/xxx.ipynb
+[l3nb]: notebooks/intro2mm.ipynb
+[la]: https://learn.illinois.edu/mod/quiz/
 
-[la]: https://learn.illinois.edu/
+[wsna]: https://en.wikipedia.org/wiki/
