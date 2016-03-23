@@ -20,9 +20,9 @@ This week we introduce
 |Activities and Assignments | Time Estimate | Deadline* | Points|
 |:------| -----|-------|----------:|
 |**[Week 11 Introduction Video][wv]** |10 Minutes|Tuesday|20|
-|**[Week 11 Lesson 1: Introduction to Probabilistic Programming](lesson1.md)**| 2 Hours |Thursday| 20|
-|**[Week 11 Lesson 2: Introduction to Bayesian A/B Testing](lesson2.md)**| 2 Hours | Thursday | 20 |
-|**[Week 11 Lesson 3: Introduction to Mixture Models](lesson3.md)**| 2 Hours | Thursday| 20 |
+|**[Week 11 Lesson 1: Introduction to Bayesian Modelling](lesson1.md)**| 2 Hours |Thursday| 20|
+|**[Week 11 Lesson 2: Introduction to Hierarchical Modelling](lesson2.md)**| 2 Hours | Thursday | 20 |
+|**[Week 11 Lesson 3: Introduction to General Linear Models](lesson3.md)**| 2 Hours | Thursday| 20 |
 |**[Week 11 Quiz][wq]**| 45 Minutes | Friday | 70|
 |**Week 11 Assignment Submission**| 4 Hours | *The following* Monday | 80 Instructor, 40 Peer | 
 |**Week 11 Completion of Peer Review**| 2 Hours | *The following* Saturday | 30 | 
