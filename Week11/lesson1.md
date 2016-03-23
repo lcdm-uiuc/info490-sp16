@@ -30,6 +30,7 @@ _Other Material_
 
 ## Optional Readings ##
 
+- 
 - Tutorial on [MCMC Sampling][tmcmc]
 - Tutorial on Bayesian Modelling in Python, [Section 0][bmps0]
 - Wikipedia article on [Probabilistic Programming Language][wppl]
