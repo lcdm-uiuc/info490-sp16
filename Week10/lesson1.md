@@ -36,6 +36,7 @@ _Other Material_
 - Wikipedia article on the [Graph][wgdt] data type
 - Wikipedia articles on [Adjacency Matrix][wam] and [Incidence Matrix][wim]
 - Visualize sample graphs: [Force-directed][vfd], [Edge-Binding][veb], and [Uber Rides][vur]
+- Visualize [Adjacency Matrix][vam], be sure to change the order of the matrix elements.
 
 ## Optional Readings ##
 
@@ -66,3 +67,4 @@ When you have completed and worked through the above readings, please take the [
 [vfd]: http://bl.ocks.org/mbostock/4062045
 [veb]: http://bl.ocks.org/mbostock/7607999
 [vur]: https://bost.ocks.org/mike/uberdata/
+[vam]: https://bost.ocks.org/mike/miserables/
