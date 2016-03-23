@@ -62,3 +62,4 @@ When you have completed and worked through the above readings, please take the [
 [ch10]: http://i.stanford.edu/~ullman/pub/ch10.pdf
 
 [pga]: http://www.python-course.eu/graphs_python.php
+[tnx]: https://networkx.github.io/documentation/latest/tutorial/tutorial.html#graph-generators-and-graph-operations
