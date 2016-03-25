@@ -55,7 +55,7 @@ _Learning Data Mining with Python_ by Robert Layton
 When you have completed and worked through the above readings, please take the [Week 10 Lesson 3 Assessment][la]
 
 [l3nb]: notebooks/intro2na-sm.ipynb
-[la]: https://learn.illinois.edu/mod/quiz/
+[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1325341
 
 [wsna]: https://en.wikipedia.org/wiki/Social_network_analysis
 [wfp]: https://en.wikipedia.org/wiki/Friendship_paradox
