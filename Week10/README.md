@@ -1,7 +1,5 @@
 #Week 10 Overview#
 
-![Draft](../images/Draft_Version_picture.png)
-
 ## Network Analysis ##
 
 This week we introduce basic network analysis by using the Python
@@ -37,5 +35,5 @@ concepts to analyze social media data.
 *Please note that unless otherwise noted, the due time is 6pm Central time!*
 
 ----------
-[wv]: https://mediaspace.illinois.edu/media/Week+Nine/1_d5vzydx5
+[wv]: https://mediaspace.illinois.edu/media/Week+Ten/1_du5wib5c
 [wq]: https://learn.illinois.edu/mod/quiz/view.php?id=1325158
