@@ -26,11 +26,11 @@ _Other Material_
 
 - Tutorial on Bayesian Modelling in Python, [Section 4][bmps4].
 - PyMC3 [Robust Regression][pymc3rr] Example
+- PyMC3 [Robust Regression with Outliers][pymc3rro] Example
 - Wikipedia article on [General Linear Models][wglm]
 
 ## Optional Readings ##
 
-- PyMC3 [Robust Regression with Outliers][pymc3rro] Example
 - Applied AI blog on [Bayesian Inference with PyMC3][aibpymc3], Part 2.
 - **[Chapter 3][bmh3]: Opening the Black Box of MCMC** from  _Bayesian Methods for Hackers_ by Cam Davidson-Pilon
 - **[Chapter 4][bmh4]: The Greatest Theorem Never Told** from  _Bayesian Methods for Hackers_ by Cam Davidson-Pilon
