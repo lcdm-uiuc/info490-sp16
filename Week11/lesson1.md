@@ -27,6 +27,7 @@ _Other Material_
 
 - Applied AI blog on [Bayesian Inference with PyMC3][aibpymc3]
 - Tutorial on Bayesian Modelling in Python, [Section 1][bmps1] and [Section 2][bmps2].
+- Introduction to [pymc3][ipymc3]
 
 ## Optional Readings ##
 
@@ -50,6 +51,8 @@ When you have completed and worked through the above readings, please take the [
 
 [tmcmc]: http://twiecki.github.io/blog/2015/11/10/mcmc-sampling/
 [bmh1]: http://nbviewer.jupyter.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter1_Introduction/Chapter1.ipynb
+
+[ipymc3]: http://pymc-devs.github.io/pymc3/getting_started/
 
 [bmps0]: http://nbviewer.ipython.org/github/markdregan/Bayesian-Modelling-in-Python/blob/master/Section%200.%20Introduction.ipynb
 [bmps1]: http://nbviewer.jupyter.org/github/markdregan/Bayesian-Modelling-in-Python/blob/master/Section%201.%20Estimating%20model%20parameters.ipynb
