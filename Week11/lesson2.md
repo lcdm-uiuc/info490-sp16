@@ -26,11 +26,11 @@ _Other Material_
 
 - Tutorial on Bayesian Modelling in Python, [Section 3][bmps3]
 - Blog article on [Bayesian A/B/ Testing][bbabt] (Note this was written for pymc2)
+- Introduction to [Hierarchical Modelling with PyMC3][ihm]
 
 ## Optional Readings ##
 
 - Wikipedia article on [Hierarchical Models][whm]
-- Introduction to [Hierarchical Modelling with PyMC3][ihm]
 - [Blog post on [pitfalls in A/B Testing][bpabt]
 - **[Chapter 2][bmh2]: A little more on PyMC** from  _Bayesian Methods for Hackers_ by Cam Davidson-Pilon
 
