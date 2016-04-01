@@ -1,15 +1,22 @@
 # Week 11 Lesson 3 #
 ## Introduction to General Linear Models ##
 
-In this lesson, you will learn about 
+In this lesson, you will learn about general linear models. A general
+linear model is a flexible approach to computing model fits to the
+observed data where the model errors can be non-Gaussian. As was the
+case with linear regression, the model terms can be non-linear, however,
+they can't include combinations of different terms. For example, a
+quadratic term is allowed, but we can't have x1 * x2. We will use the
+pymc3 library to quickly and easily compute general linear models within
+a Bayesian framework.
 
 ###Objectives ###
 
 By the end of this lesson, you will be able to:
 
-- Understand basic 
-- Be familiar with
-- Be able to construct 
+- Understand the basic concepts of general linear models.  
+- Be familiar with the application of general linear models in a Bayesian framework.
+- Be able to use the pymc3 library to compute general linear models.
 
 ### Time Estimate ###
 
@@ -24,7 +31,7 @@ IPython Notebook on the course JupyterHub server.
 
 _Other Material_
 
-- Tutorial on Bayesian Modelling in Python, [Section 4][bmps4].
+- Tutorial on Bayesian Modeling in Python, [Section 4][bmps4].
 - PyMC3 [Robust Regression][pymc3rr] Example
 - PyMC3 [Robust Regression with Outliers][pymc3rro] Example
 - Wikipedia article on [General Linear Models][wglm]
@@ -35,7 +42,7 @@ _Other Material_
 - **[Chapter 3][bmh3]: Opening the Black Box of MCMC** from  _Bayesian Methods for Hackers_ by Cam Davidson-Pilon
 - **[Chapter 4][bmh4]: The Greatest Theorem Never Told** from  _Bayesian Methods for Hackers_ by Cam Davidson-Pilon
 - **[Chapter 5][bmh5]: Would you rather lose an arm or a leg?** from  _Bayesian Methods for Hackers_ by Cam Davidson-Pilon
-- **[Chapter 6][bmh6]: Getting our prior-ities straight** from  _Bayesian Methods for Hackers_ by Cam Davidson-Pilon
+- **[Chapter 6][bmh6]: Getting our priorities straight** from  _Bayesian Methods for Hackers_ by Cam Davidson-Pilon
 
 ### Assessment ###
 
