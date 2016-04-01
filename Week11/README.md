@@ -1,7 +1,5 @@
 #Week 11 Overview#
 
-![Draft](../images/Draft_Version_picture.png)
-
 ## Probabilistic Programming ##
 
 This week we introduce Bayesian Model fitting. In the Bayesian approach,
@@ -40,5 +38,5 @@ including hierarchical models and general linear model
 *Please note that unless otherwise noted, the due time is 6pm Central time!*
 
 ----------
-[wv]: https://mediaspace.illinois.edu/media/
+[wv]: https://mediaspace.illinois.edu/media/Week+Eleven/1_nzog0kbj/38493712
 [wq]: https://learn.illinois.edu/mod/quiz/
