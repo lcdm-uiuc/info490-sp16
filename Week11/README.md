@@ -39,4 +39,4 @@ including hierarchical models and general linear model
 
 ----------
 [wv]: https://mediaspace.illinois.edu/media/Week+Eleven/1_nzog0kbj/38493712
-[wq]: https://learn.illinois.edu/mod/quiz/
+[wq]: https://learn.illinois.edu/mod/quiz/view.php?id=1325167
