@@ -50,7 +50,7 @@ When you have completed and worked through the above readings, please take the [
 
 [l3nb]: notebooks/intro2pp-glm.ipynb
 
-[la]: https://learn.illinois.edu/mod/quiz/
+[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1325353
 
 [wglm]: https://en.wikipedia.org/wiki/Generalized_linear_model
 
