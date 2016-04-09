@@ -37,5 +37,5 @@ writing MapReduce tasks.
 *Please note that unless otherwise noted, the due time is 6pm Central time!*
 
 ----------
-[wv]: https://mediaspace.illinois.edu/media/
+[wv]: https://mediaspace.illinois.edu/media/Week+Twelve/1_0yy4n509/38493712
 [wq]: https://learn.illinois.edu/mod/quiz/view.php?id=1325176
