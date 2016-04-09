@@ -44,7 +44,7 @@ _Other Material_
 When you have completed and worked through the above readings, please take the [Week 12 Lesson 1 Assessment][la]
 
 [l1nb]: notebooks/intro2hadoop.ipynb
-[la]: https://learn.illinois.edu/mod/quiz/
+[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1325359
 
 [th]: http://www.tutorialspoint.com/hadoop/index.htm
 
