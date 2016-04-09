@@ -28,7 +28,7 @@ writing MapReduce tasks.
 |:------| -----|-------|----------:|
 |**[Week 12 Introduction Video][wv]** |10 Minutes|Tuesday|20|
 |**[Week 12 Lesson 1: Introduction to Hadoop](lesson1.md)**| 2 Hours |Thursday| 20|
-|**[Week 12 Lesson 2: Introduction to Map/Reduce](lesson2.md)**| 2 Hours | Thursday | 20 |
+|**[Week 12 Lesson 2: Introduction to MapReduce](lesson2.md)**| 2 Hours | Thursday | 20 |
 |**[Week 12 Lesson 3: Introduction to Pig](lesson3.md)**| 2 Hours | Thursday| 20 |
 |**[Week 12 Quiz][wq]**| 45 Minutes | Friday | 70|
 |**Week 12 Assignment Submission**| 4 Hours | *The following* Monday | 80 Instructor, 40 Peer | 
