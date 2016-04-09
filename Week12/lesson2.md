@@ -1,5 +1,5 @@
 # Week 12 Lesson 2 #
-## Introduction to Map/Reduce Modeling ##
+## Introduction to MapReduce ##
 
 In this lesson, you will learn about MapReduce. MapReduce is a
 processing paradigm where a computing task is broken into a Map phase,
