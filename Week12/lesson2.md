@@ -1,7 +1,18 @@
 # Week 12 Lesson 2 #
 ## Introduction to Map/Reduce Modeling ##
 
-In this lesson, you will learn about .
+In this lesson, you will learn about MapReduce. MapReduce is a
+processing paradigm where a computing task is broken into a Map phase,
+where a function is mapped onto data and a reduce phase, where the
+results of the Map phase are aggregated. The Hadoop platform was
+initially designed to facilitate bulk processing of text data, such as
+computing unigrams. In this case, the Map phase would be to find
+unigrams, while the reduce phase would be to count the number of
+occurrences for each unigram. This is done by creating key-value pairs in
+the map phase, such as a token and the number one; and in the reduce
+phase summing up the one values for every adjacent, identical token. The
+Hadoop platform, by default, sorts the output of the map phase and
+aggregates them for the reducer task. 
 
 ###Objectives ###
 

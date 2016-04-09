@@ -2,7 +2,20 @@
 
 ## Introduction to Hadoop ##
 
-In this lesson, you will about 
+In this lesson, you will about Hadoop, which is a dominant platform for
+big data processing. Hadoop is an open source Java project that enables
+scalable, distributed computing. At its core, Hadoop moves the
+computations to the data. To do this,  Hadoop utilizes a custom,
+distributed file system known as HDFS. With HDFS, data is chunked into
+blocks, and these blocks are distributed (with replication) across the
+nodes in the Hadoop system. In this manner, processing can be scaled up to
+large numbers of nodes, and not fail if a small number of nodes fail,
+since the data are processed multiple times by different nodes. Since we
+do not have sufficient compute resources, we will run a single-node
+instance of Hadoop in this course, which will allow you to learn how to
+use Hadoop, HDFS, MapReduce, and Pig, but not experience the speed and
+power of a full Hadoop cluster.
+
 
 ###Objectives ###
 

@@ -1,7 +1,14 @@
 # Week 12 Lesson 3 #
 ## Introduction to Pig ##
 
-In this lesson, you will learn about .
+In this lesson, you will learn about Hadoop Pig. One problem with the
+Hadoop MapReduce paradigm is the challenge of creating map and reduce
+programs. To simplify this task, a new language, called Pig Latin, was
+created to simplify the creation of Map Reduce tasks. Pig is an ETL
+(extract, transform, load) language, that is similar in many respect to
+SQL (or Pandas). As a result, it can be simple to load multiple data
+sets, process them, group them, and join the results, before saving them
+to a new file.
 
 ###Objectives ###
 

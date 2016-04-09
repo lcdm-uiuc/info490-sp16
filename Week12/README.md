@@ -2,16 +2,25 @@
 
 ## Cloud Computing ##
 
-This week we introduce .
+This week we introduce Hadoop, perhaps the dominant method of big data
+processing in use today. Originally, Hadoop was develop to enable
+MapReduce tasks to be quickly executed. While this paradigm is still in
+place, new paradigms, such as Spark, are also now available, which means
+Hadoop will continue to exist as an important part of the Big Data
+landscape for much longer. This week, you will learn about Hadoop, and
+specifically the Hadoop distributed file system (HDFS), the MapReduce
+programming paradigm, and the Pig platform, which simplifies the task of
+writing MapReduce tasks.
 
 ### Objectives ###
 
 #####By the end of this lesson, you should be able to:######
 
 - Understand the basic concepts of Cloud Computing.
-- Understand the 
-- Understand the 
-- Be able to use 
+- Understand the basics of the Hadoop platform
+- Understand how to use HDFS
+- Understand the MapReduce approach to computing, and how to use Pig to create MapReduce applications.
+- Be able to execute MapReduce tasks in a Hadoop environment. 
 
 ### Activities and Assignments ###
 
