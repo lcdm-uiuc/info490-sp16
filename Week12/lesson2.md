@@ -38,7 +38,7 @@ _Other Material_
 When you have completed and worked through the above readings, please take the [Week 12 Lesson 2 Assessment][la]
 
 [l2nb]: notebooks/intro2mr.ipynb
-[la]: https://learn.illinois.edu/mod/quiz/
+[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1325362
 
 [tphs]: http://www.michael-noll.com/tutorials/writing-an-hadoop-mapreduce-program-in-python/
 
