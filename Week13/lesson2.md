@@ -46,7 +46,7 @@ _Safari Online Books_
 When you have completed and worked through the above readings, please take the [Week 13 Lesson 2 Assessment][la]
 
 [l2nb]: notebooks/intro2cassandra.ipynb
-[la]: https://learn.illinois.edu/mod/quiz/
+[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1325374
 
 [tco]: http://www.planetcassandra.org/try-cassandra/
 [ic]: https://academy.datastax.com/resources/brief-introduction-apache-cassandra
