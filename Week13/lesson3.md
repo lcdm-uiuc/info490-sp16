@@ -49,7 +49,7 @@ When you have completed and worked through the above readings, please take the [
 
 [l3nb]: notebooks/intro2neo4j.ipynb
 
-[la]: https://learn.illinois.edu/mod/quiz/
+[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1325377
 
 [wn]: https://en.wikipedia.org/wiki/Neo4j
 [wgdb]: https://en.wikipedia.org/wiki/Graph_database
