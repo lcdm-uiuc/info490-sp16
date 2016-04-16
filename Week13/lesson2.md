@@ -15,7 +15,7 @@ update, select, or delete records.
 
 By the end of this lesson, you will be able to:
 
-- Understand the basic concepts of a column -oriented database
+- Understand the basic concepts of a column-oriented database
 - Be familiar with CQL
 - Be able to use the Cassandra python database driver to insert, modify,
 select, or delete data from a Cassandra database.
