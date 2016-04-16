@@ -2,17 +2,29 @@
 
 ## NoSQL DataStores ##
 
-This week we introduce NoSQL Databases
+This week we introduce NoSQL Databases, which are generally recent
+additions to the database world that provide functionality beyond that
+provided by traditional relational databases, often to enable fast
+processing of very large data sets. Typically these systems differ from
+a relational database by violating a specific item in the relational
+database _ACID_ test. Often this is consistency, which means that a
+select query might return different results depending on when it is run.
+This might be important for a shopping cart application for an online
+retailer, for example, who might be more interested in fast responses to
+user requests than an exact count of the number of items remaining in
+the inventory. These types of databases can also be based on specific
+types of data, such as document data or graph data structures. 
 
 ### Objectives ###
 
 #####By the end of this lesson, you should be able to:######
 
-- Understand the basic concepts of 
-- Understand the basics of 
-- Understand how to 
-- Understand the 
-- Be able to 
+- Understand the basic concepts of a NoSQL database.
+- Understand the basics of documented-oriented, column-oriented, and
+graph databases
+- Understand how to connect to these database from a Python program.
+- Be able to insert, update, select, and delete data from these database
+by using a Python program.
 
 ### Activities and Assignments ###
 
@@ -30,4 +42,4 @@ This week we introduce NoSQL Databases
 
 ----------
 [wv]: https://mediaspace.illinois.edu/media/
-[wq]: https://learn.illinois.edu/mod/quiz/view.php?id=1325185
+[wq]: https://learn.illinois.edu/mod/quiz/
