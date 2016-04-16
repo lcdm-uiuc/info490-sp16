@@ -48,7 +48,7 @@ _Safari Online Books_
 When you have completed and worked through the above readings, please take the [Week 13 Lesson 1 Assessment][la]
 
 [l1nb]: notebooks/intro2mongodb.ipynb
-[la]: https://learn.illinois.edu/mod/quiz/
+[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1325371
 
 [inosql]: http://www.w3resource.com/mongodb/nosql.php
 
