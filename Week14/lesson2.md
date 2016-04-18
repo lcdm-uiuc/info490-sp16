@@ -1,15 +1,15 @@
-# Week QQ Lesson 2 #
-## XXX YYY ZZZ ##
+# Week 14 Lesson 2 #
+## Introduction to Spark MLlib ##
 
-In this lesson, you will XYZ. 
+In this lesson, you will learn about 
 
 ###Objectives ###
 
 By the end of this lesson, you will be able to:
 
-- A
-- B 
-- C
+- Understand the 
+- Be familiar with the 
+- Be able to use 
 
 ### Time Estimate ###
 
@@ -19,28 +19,20 @@ Approximately 2 hours.
 
 _Course Notebook_
 
-- Explore the course [XXX][l2nb]
+- Explore the course [Introduction to Spark MLlib][l2nb]
 IPython Notebook on the course JupyterHub server.
 
 _Other Material_
 
-- ABC
-- DEF
+- 
 
 ## Optional Readings ##
 
-- GHI
-- JKL
+- 
 
-_Safari Online Books_
-
-- ???
- 
 ### Assessment ###
 
-When you have completed and worked through the above readings, please take the [Week QQ Lesson 2 Assessment][la]
+When you have completed and worked through the above readings, please take the [Week 14 Lesson 2 Assessment][la]
 
-----
-[l2nb]: notebooks/xxx.ipynb
-
-[la]: https://learn.illinois.edu/
+[l2nb]: notebooks/intro2sparkmllib.ipynb
+[la]: https://learn.illinois.edu/mod/quiz/

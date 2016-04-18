@@ -1,15 +1,15 @@
-# Week QQ Lesson 3 #
-## XXX YYY ZZZ ##
+# Week 14 Lesson 3 #
+## Introduction to GraphX ##
 
-In this lesson, you will XYZ. 
+In this lesson, you will learn about Spark GraphX
 
 ###Objectives ###
 
 By the end of this lesson, you will be able to:
 
-- A
-- B 
-- C
+- Understand the basic concepts of 
+- Be familiar with 
+- Be able to use a 
 
 ### Time Estimate ###
 
@@ -19,28 +19,22 @@ Approximately 2 hours.
 
 _Course Notebook_
 
-- Explore the course [XXX][l3nb]
+- Explore the course [Introduction to Pig][l3nb]
 IPython Notebook on the course JupyterHub server.
 
 _Other Material_
 
-- ABC
-- DEF
+- 
 
 ## Optional Readings ##
 
-- GHI
-- JKL
+- 
 
-_Safari Online Books_
-
-- ???
- 
 ### Assessment ###
 
-When you have completed and worked through the above readings, please take the [Week QQ Lesson 3 Assessment][la]
+When you have completed and worked through the above readings, please take the [Week 14 Lesson 3 Assessment][la]
 
-----
-[l3nb]: notebooks/xxx.ipynb
+[l3nb]: notebooks/intro2sparkgraphx.ipynb
 
-[la]: https://learn.illinois.edu/
+[la]: https://learn.illinois.edu/mod/quiz/
+
