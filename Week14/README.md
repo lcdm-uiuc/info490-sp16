@@ -19,8 +19,8 @@ This week we introduce Spark
 |:------| -----|-------|----------:|
 |**[Week 14 Introduction Video][wv]** |10 Minutes|Tuesday|20|
 |**[Week 14 Lesson 1: Introduction to Spark](lesson1.md)**| 2 Hours |Thursday| 20|
-|**[Week 14 Lesson 2: Introduction to Spark MLlib](lesson2.md)**| 2 Hours | Thursday | 20 |
-|**[Week 14 Lesson 3: Introduction to Spark GraphX](lesson3.md)**| 2 Hours | Thursday| 20 |
+|**[Week 14 Lesson 2: Spark: DataFrames and Analyis](lesson2.md)**| 2 Hours | Thursday | 20 |
+|**[Week 14 Lesson 3: Spark: Machine Learning](lesson3.md)**| 2 Hours | Thursday| 20 |
 |**[Week 14 Quiz][wq]**| 45 Minutes | Friday | 70|
 |**Week 14 Assignment Submission**| 4 Hours | *The following* Monday | 80 Instructor, 40 Peer | 
 |**Week 14 Completion of Peer Review**| 2 Hours | *The following* Saturday | 30 | 
