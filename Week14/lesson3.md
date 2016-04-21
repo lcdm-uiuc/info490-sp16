@@ -1,7 +1,8 @@
 # Week 14 Lesson 3 #
-## Introduction to GraphX ##
+## Introduction to Spark ML ##
 
-In this lesson, you will learn about Spark GraphX
+In this lesson, you will learn about Spark Machine Learning
+
 
 ###Objectives ###
 
@@ -9,6 +10,7 @@ By the end of this lesson, you will be able to:
 
 - Understand the basic concepts of 
 - Be familiar with 
+- Be able to use pyspark to perform basic analysis of data by using Spark.
 - Be able to use a 
 
 ### Time Estimate ###
@@ -24,12 +26,14 @@ IPython Notebook on the course JupyterHub server.
 
 _Other Material_
 
+- Spark [MLlib Basic Statistics][mbs]
 - Spark [MLlib Classification and Regression][mcr]
 - Spark [MLlib Clustering][mc]
 - Spark [MLlib Feature Extraction and Transformation][mfet]
 
 ## Optional Readings ##
 
+- Spark [MLlib Data Types][mdt]
 - Blog discussing [topic modeling with Spark][stm]
 - Blog demonstrating [Logistic Regression with Python and Spark][blrps]
 - Blog post on [Customer Classification using Spark MLlib][bscc]
@@ -44,7 +48,7 @@ _Safari Online Books_
 
 When you have completed and worked through the above readings, please take the [Week 14 Lesson 3 Assessment][la]
 
-[l3nb]: notebooks/intro2sparkgraphx.ipynb
+[l3nb]: notebooks/sparkmllib.ipynb
 
 [la]: https://learn.illinois.edu/mod/quiz/
 
@@ -55,3 +59,6 @@ When you have completed and worked through the above readings, please take the [
 [blrps]: https://www.codementor.io/spark/tutorial/spark-mllib-logistic-regression
 [stm]: https://databricks.com/blog/2015/09/22/large-scale-topic-modeling-improvements-to-lda-on-spark.html
 [bscc]: https://www.mapr.com/blog/classifying-customers-mllib-and-spark
+
+[mdt]: https://spark.apache.org/docs/latest/mllib-data-types.html
+[mbs]: https://spark.apache.org/docs/latest/mllib-statistics.html

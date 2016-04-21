@@ -1,5 +1,5 @@
 # Week 14 Lesson 2 #
-## Spark: DataFrames, SQL, and Basic Analysis  ##
+## Introduction to Spark DataFrames ##
 
 In this lesson, you will learn about 
 
@@ -10,7 +10,6 @@ By the end of this lesson, you will be able to:
 - Understand the basic concepts of a Spark DataFrame
 - Be familiar with using SQL on a Spark DataFrame 
 - Be able to use pyspark to work with a Spark DataFrame
-- Be able to use pyspark to perform basic analysis of data by using Spark.
 
 ### Time Estimate ###
 
@@ -32,8 +31,6 @@ _Other Material_
 
 - An overview of [Apache Spark SQL][oass]
 - Introduction to [Spark DataFrames][isd]
-- Spark [MLlib Data Types][mdt]
-- Spark [MLlib Basic Statistics][mbs]
 - Blog demonstrating [Spark SQL with Python][bssp]
 
 _Safari Online Books_
@@ -57,5 +54,3 @@ When you have completed and worked through the above readings, please take the [
 
 [bssp]: https://www.codementor.io/spark/tutorial/python-spark-sql-dataframes
 
-[mdt]: https://spark.apache.org/docs/latest/mllib-data-types.html
-[mbs]: https://spark.apache.org/docs/latest/mllib-statistics.html
