@@ -2,16 +2,21 @@
 
 ## Introduction to Spark ##
 
-This week we introduce Spark
+This week we introduce Spark, a popular big data processing environment.
+Spark provides a non Map-Reduce framework on top of Hadoop. Spark also
+provides specific data structures, including the Resilient Distributed
+Dataset (RDD) and DataFrame that simplify big data processing tasks. In
+this course, we will use pySpark to perform Spark processing from within
+an IPython Notebook.
 
 ### Objectives ###
 
 #####By the end of this lesson, you should be able to:######
 
 - Understand the basic concepts of Spark
-- Understand the basics of 
-- Understand how to 
-- Be able to execute Spark tasks in a Hadoop environment. 
+- Understand and be able to use Spark RDDs and DataFrames 
+- Be able to execute Spark tasks in a Hadoop environment
+- Understand how to use Spark MLlib
 
 ### Activities and Assignments ###
 

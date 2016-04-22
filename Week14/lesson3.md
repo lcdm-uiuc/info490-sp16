@@ -1,17 +1,24 @@
 # Week 14 Lesson 3 #
-## Introduction to Spark ML ##
+## Introduction to Spark Machine Learning ##
 
-In this lesson, you will learn about Spark Machine Learning
+In this lesson, you will learn about Spark Machine Learning. Spark
+machine learning encompasses two packages: Spark MLlib and Spark ML. THe
+former operates on RDDs, while the latter, which is less well developed,
+operates on DataFrames. In this lesson, we focus on MLlib, which
+includes functionality for basic statistics functionality, as well as
+classification, regression, clustering, and dimensional reduction. In this
+lesson you will not only learn about the MLlib package, but specifically
+how to use pySpark to use this functionality to generate models from
+large data sets.
 
 
 ###Objectives ###
 
 By the end of this lesson, you will be able to:
 
-- Understand the basic concepts of 
-- Be familiar with 
-- Be able to use pyspark to perform basic analysis of data by using Spark.
-- Be able to use a 
+- Understand the basic contents of the Spark ML package
+- Be familiar with basic statistical analysis by using the Spark ML package
+- Be able to use pySpark to perform machine learning by using Spark.
 
 ### Time Estimate ###
 
@@ -41,7 +48,8 @@ _Other Material_
 _Safari Online Books_
 
 - **Chapters 2: Apache Spark MLlib** from _Mastering Apache Spark_, by Mike Frampton
-- **Chapter 11: Machine Learning with MLlib:** from _Learning Spark_, by Holden Karau, Andy Konwinski, Patrick Wendell, Matei Zaharia.
+- **Chapter 11: Machine Learning with MLlib:** from _Learning Spark_, by Holden Karau, 
+Andy Konwinski, Patrick Wendell, Matei Zaharia.
 - _Machine Learning with Spark_, by Nick Pentreath
 
 ### Assessment ###

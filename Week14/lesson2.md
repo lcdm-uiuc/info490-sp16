@@ -1,7 +1,14 @@
 # Week 14 Lesson 2 #
 ## Introduction to Spark DataFrames ##
 
-In this lesson, you will learn about 
+In this lesson, you will learn about Spark DataFrames, which are an
+alternative to the Spark RDDs. With the growth in popularity of higher
+level languages such as Python and R for data analytic tasks, a consensus
+emerged that RDDs were less than ideal for performing Spark data
+processing tasks. As a result, DataFrames (similar to Pandas DataFrames)
+were introduced into Spark. In this Notebook, we introduce the Spark
+DataFrame and demonstrate how to use this new data structure for big
+data processing within a Spark environment.
 
 ###Objectives ###
 
@@ -9,7 +16,7 @@ By the end of this lesson, you will be able to:
 
 - Understand the basic concepts of a Spark DataFrame
 - Be familiar with using SQL on a Spark DataFrame 
-- Be able to use pyspark to work with a Spark DataFrame
+- Be able to use pySpark to work with a Spark DataFrame
 
 ### Time Estimate ###
 
@@ -36,7 +43,8 @@ _Other Material_
 _Safari Online Books_
 
 - **Chapter 4: Apache Spark SQL** from _Mastering Apache Spark_, by Mike Frampton
-- **Chapter 9: Spark SQL** from _Learning Spark_, by Holden Karau, Andy Konwinski, Patrick Wendell, Matei Zaharia.
+- **Chapter 9: Spark SQL** from _Learning Spark_, by Holden Karau, Andy Konwinski, 
+Patrick Wendell, Matei Zaharia.
 
 ### Assessment ###
 
