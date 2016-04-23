@@ -51,7 +51,7 @@ Patrick Wendell, Matei Zaharia.
 When you have completed and worked through the above readings, please take the [Week 14 Lesson 2 Assessment][la]
 
 [l2nb]: notebooks/sparkdf.ipynb
-[la]: https://learn.illinois.edu/mod/quiz/
+[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1325386
 
 [oass]: http://www.infoq.com/articles/apache-spark-sql
 [sspg]: https://spark.apache.org/docs/latest/sql-programming-guide.html
