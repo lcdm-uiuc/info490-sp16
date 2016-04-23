@@ -34,4 +34,4 @@ an IPython Notebook.
 
 ----------
 [wv]: https://mediaspace.illinois.edu/media/Week+Fourteen/1_4j5ay4le/38493712
-[wq]: https://learn.illinois.edu/mod/quiz/
+[wq]: https://learn.illinois.edu/mod/quiz/view.php?id=1325194
