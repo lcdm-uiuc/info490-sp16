@@ -1,28 +1,32 @@
 #Week 15 Overview#
 
-![Draft](../images/Draft_Version_picture.png)
+## Introduction to Deep Learning ##
 
-## XXX ##
-
-This week you will XYZ.
+This week we introduce deep learning. Deep learning has become an
+incredibly popular form of machine learning that generally leveraged
+some type of neural network to learn from data in order to make
+predictions. While neural networks have been around for some time, deep
+learning is fairly new, and has found applications in many areas,
+especially image processing and natural language processing. In the one
+lesson for this week, we will introduce neural networks and deep
+learning, as well as provide additional resources for future study.
 
 ### Objectives ###
 
 #####By the end of this lesson, you should be able to:######
 
-- A
-- B 
-- C
+- Understand the basic concepts of a neural network
+- Understand the basic tenets of deep learning 
+- Be able to apply deep learning by using Python
 
 ### Activities and Assignments ###
 
 |Activities and Assignments | Time Estimate | Deadline* | Points|
 |:------| -----|-------|----------:|
-|**[Week 15 Introduction Video][w15v]**| 10 Minutes | Tuesday |20|
-|**[Week 15 Lesson 1: XYZ](lesson1.md)**| 2 Hours | Thursday| 20|
+|**[Week 15 Introduction Video][wv]** |10 Minutes|Tuesday|20|
+|**[Week 15 Lesson 1: Introduction to Deep Learning](lesson1.md)**| 3 Hours |Thursday| 20|
 
 *Please note that unless otherwise noted, the due time is 6pm Central time!*
 
 ----------
-
-[w15v]: https://mediaspace.illinois.edu/
+[wv]: https://mediaspace.illinois.edu/media/
