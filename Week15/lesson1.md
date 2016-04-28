@@ -57,7 +57,7 @@ _Safari Online Books_
 When you have completed and worked through the above readings, please take the [Week 15 Lesson 1 Assessment][la]
 
 [l1nb]: notebooks/intro2dl.ipynb
-[la]: https://learn.illinois.edu/mod/quiz/
+[la]: https://learn.illinois.edu/mod/quiz/view.php?id=1325395
 
 [wdl]: https://en.wikipedia.org/wiki/Deep_learning
 [wnn]: https://en.wikipedia.org/wiki/Artificial_neural_network
