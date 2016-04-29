@@ -33,7 +33,7 @@ IPython Notebook on the course JupyterHub server.
 
 _Other Material_
 
-- Introduction to Neural Networks, [Part 1]][inn1] and [Part 2][inn2]
+- Introduction to Neural Networks, [Part 1][inn1] and [Part 2][inn2]
 - Introduction to [Deep Learning][idl]
 - [Deep Learning][ndl] in a Nutshell
 - [Deep Learning][dlb] in the Browser!
